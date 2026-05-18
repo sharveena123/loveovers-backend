@@ -5,5 +5,6 @@ scikit-learn
 joblib
 numpy
 python-dotenv
-google-generativeai
+requests
 gunicorn
+xgboost==2.1.1
