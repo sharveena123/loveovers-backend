@@ -1,0 +1,184 @@
+{
+  "assessment_id": "fb2d4f89-c65",
+  "cafe_name": "My Cafe",
+  "created_at": "2026-06-08T15:54:24.275007",
+  "total_rows": 4376,
+  "total_columns": 8,
+  "original_columns": [
+    "transaction_date",
+    "menu_item",
+    "units_sold",
+    "qty_baked",
+    "unit_price_rm",
+    "promo_discount",
+    "sky_condition",
+    "weekday_name"
+  ],
+  "editable_mapping": [
+    {
+      "original_column": "transaction_date",
+      "current_mapping": "date",
+      "ai_suggested_mapping": "date",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "menu_item",
+      "current_mapping": "item",
+      "ai_suggested_mapping": "item",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "units_sold",
+      "current_mapping": "sold_qty",
+      "ai_suggested_mapping": "sold_qty",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "unit_price_rm",
+      "current_mapping": "price",
+      "ai_suggested_mapping": "price",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "sky_condition",
+      "current_mapping": "weather",
+      "ai_suggested_mapping": "weather",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "weekday_name",
+      "current_mapping": "day_of_week",
+      "ai_suggested_mapping": "day_of_week",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "qty_baked",
+      "current_mapping": "produced_qty",
+      "ai_suggested_mapping": "produced_qty",
+      "source": "llm",
+      "confidence": "medium",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "promo_discount",
+      "current_mapping": "discount_pct",
+      "ai_suggested_mapping": "discount_pct",
+      "source": "llm",
+      "confidence": "medium",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    }
+  ],
+  "missing_required": [],
+  "missing_optional": [],
+  "data_quality_issues": [],
+  "suggestions": [],
+  "usable": true,
+  "confidence": "high",
+  "layer_breakdown": {
+    "rule_based_mapped": 6,
+    "llm_mapped": 2,
+    "needs_confirmation": 0
+  },
+  "diagnostic": "Layer 1 (Rule): 6 columns \u2192 Layer 2 (Ollama): 2 columns",
+  "ai_engine": "ollama"
+}

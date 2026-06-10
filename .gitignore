@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+loveovers.db
+error_log.txt
+food_data/

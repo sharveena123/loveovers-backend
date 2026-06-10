@@ -1,0 +1,168 @@
+{
+  "assessment_id": "335a2826-d84",
+  "cafe_name": "My Cafe",
+  "created_at": "2026-06-09T12:36:58.294526",
+  "total_rows": 414,
+  "total_columns": 7,
+  "original_columns": [
+    "date",
+    "day_of_week",
+    "item",
+    "produced_qty",
+    "sold_qty",
+    "price_rm",
+    "weather"
+  ],
+  "editable_mapping": [
+    {
+      "original_column": "date",
+      "current_mapping": "date",
+      "ai_suggested_mapping": "date",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "day_of_week",
+      "current_mapping": "day_of_week",
+      "ai_suggested_mapping": "day_of_week",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "item",
+      "current_mapping": "item",
+      "ai_suggested_mapping": "item",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "produced_qty",
+      "current_mapping": "produced_qty",
+      "ai_suggested_mapping": "produced_qty",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "sold_qty",
+      "current_mapping": "sold_qty",
+      "ai_suggested_mapping": "sold_qty",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "price_rm",
+      "current_mapping": "price",
+      "ai_suggested_mapping": "price",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "weather",
+      "current_mapping": "weather",
+      "ai_suggested_mapping": "weather",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "discount_pct",
+        "weather",
+        "day_of_week",
+        "unknown"
+      ]
+    }
+  ],
+  "missing_required": [],
+  "missing_optional": [
+    "discount_pct"
+  ],
+  "data_quality_issues": [],
+  "suggestions": [
+    "Missing optional: discount_pct"
+  ],
+  "usable": true,
+  "confidence": "high",
+  "layer_breakdown": {
+    "rule_based_mapped": 7,
+    "llm_mapped": 0,
+    "needs_confirmation": 0
+  },
+  "diagnostic": "Layer 1 (Rule): 7 columns",
+  "ai_engine": "ollama"
+}

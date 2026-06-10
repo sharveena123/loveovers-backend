@@ -1,0 +1,2593 @@
+txn_dt,menu_article,units_moved,batch_yield,unit_cost_rm,markdown_rate,meteo,calendar_dow
+2025-01-02,Chicken Focaccia,27,33,18.0,0,Sunny,Thursday
+2025-01-03,Chicken Focaccia,33,40,18.0,0,Sunny,Friday
+2025-01-04,Chicken Focaccia,39,43,18.0,0,Rainy,Saturday
+2025-01-05,Chicken Focaccia,45,53,18.0,0,Sunny,Sunday
+2025-01-09,Chicken Focaccia,28,33,18.0,0,Sunny,Thursday
+2025-01-10,Chicken Focaccia,28,32,18.0,0,Rainy,Friday
+2025-01-11,Chicken Focaccia,38,45,18.0,0,Sunny,Saturday
+2025-01-12,Chicken Focaccia,39,43,18.0,20,Rainy,Sunday
+2025-01-16,Chicken Focaccia,25,29,18.0,0,Cloudy,Thursday
+2025-01-17,Chicken Focaccia,32,37,18.0,0,Cloudy,Friday
+2025-01-18,Chicken Focaccia,56,67,18.0,25,Sunny,Saturday
+2025-01-19,Chicken Focaccia,45,54,18.0,0,Sunny,Sunday
+2025-01-23,Chicken Focaccia,31,37,18.0,0,Sunny,Thursday
+2025-01-24,Chicken Focaccia,29,33,18.0,0,Rainy,Friday
+2025-01-25,Chicken Focaccia,43,47,18.0,0,Sunny,Saturday
+2025-01-26,Chicken Focaccia,39,46,18.0,0,Sunny,Sunday
+2025-01-30,Chicken Focaccia,27,31,18.0,0,Cloudy,Thursday
+2025-01-31,Chicken Focaccia,33,40,18.0,0,Sunny,Friday
+2025-02-01,Chicken Focaccia,33,39,18.0,0,Cloudy,Saturday
+2025-02-02,Chicken Focaccia,24,28,18.0,0,Rainy,Sunday
+2025-02-06,Chicken Focaccia,27,30,18.0,0,Sunny,Thursday
+2025-02-07,Chicken Focaccia,34,38,18.0,0,Sunny,Friday
+2025-02-08,Chicken Focaccia,34,38,18.0,0,Sunny,Saturday
+2025-02-09,Chicken Focaccia,30,34,18.0,0,Cloudy,Sunday
+2025-02-13,Chicken Focaccia,35,39,18.0,0,Sunny,Thursday
+2025-02-14,Chicken Focaccia,48,53,18.0,0,Rainy,Friday
+2025-02-15,Chicken Focaccia,50,58,18.0,0,Sunny,Saturday
+2025-02-16,Chicken Focaccia,41,47,18.0,0,Sunny,Sunday
+2025-02-20,Chicken Focaccia,26,30,18.0,0,Sunny,Thursday
+2025-02-21,Chicken Focaccia,33,38,18.0,0,Cloudy,Friday
+2025-02-22,Chicken Focaccia,37,45,18.0,0,Rainy,Saturday
+2025-02-23,Chicken Focaccia,39,44,18.0,0,Cloudy,Sunday
+2025-02-27,Chicken Focaccia,22,26,18.0,0,Cloudy,Thursday
+2025-02-28,Chicken Focaccia,33,40,18.0,0,Sunny,Friday
+2025-03-01,Chicken Focaccia,46,55,18.0,0,Sunny,Saturday
+2025-03-02,Chicken Focaccia,44,52,18.0,0,Sunny,Sunday
+2025-03-06,Chicken Focaccia,29,32,18.0,15,Cloudy,Thursday
+2025-03-07,Chicken Focaccia,37,44,18.0,0,Sunny,Friday
+2025-03-08,Chicken Focaccia,49,57,18.0,0,Sunny,Saturday
+2025-03-09,Chicken Focaccia,41,45,18.0,0,Sunny,Sunday
+2025-03-13,Chicken Focaccia,18,21,18.0,0,Rainy,Thursday
+2025-03-14,Chicken Focaccia,36,43,18.0,0,Sunny,Friday
+2025-03-15,Chicken Focaccia,44,52,18.0,0,Sunny,Saturday
+2025-03-16,Chicken Focaccia,40,48,18.0,0,Sunny,Sunday
+2025-03-20,Chicken Focaccia,20,24,18.0,0,Sunny,Thursday
+2025-03-21,Chicken Focaccia,33,40,18.0,0,Sunny,Friday
+2025-03-22,Chicken Focaccia,43,48,18.0,0,Cloudy,Saturday
+2025-03-23,Chicken Focaccia,44,49,18.0,0,Cloudy,Sunday
+2025-03-27,Chicken Focaccia,35,42,18.0,20,Rainy,Thursday
+2025-03-28,Chicken Focaccia,40,45,18.0,0,Sunny,Friday
+2025-03-29,Chicken Focaccia,65,77,18.0,0,Sunny,Saturday
+2025-03-30,Chicken Focaccia,37,45,18.0,0,Rainy,Sunday
+2025-04-03,Chicken Focaccia,26,30,18.0,0,Sunny,Thursday
+2025-04-04,Chicken Focaccia,38,45,18.0,20,Sunny,Friday
+2025-04-05,Chicken Focaccia,48,56,18.0,0,Sunny,Saturday
+2025-04-06,Chicken Focaccia,57,66,18.0,15,Cloudy,Sunday
+2025-04-10,Chicken Focaccia,26,31,18.0,0,Rainy,Thursday
+2025-04-11,Chicken Focaccia,41,49,18.0,20,Sunny,Friday
+2025-04-12,Chicken Focaccia,38,46,18.0,0,Sunny,Saturday
+2025-04-13,Chicken Focaccia,42,49,18.0,0,Cloudy,Sunday
+2025-04-17,Chicken Focaccia,27,32,18.0,0,Cloudy,Thursday
+2025-04-18,Chicken Focaccia,35,41,18.0,0,Cloudy,Friday
+2025-04-19,Chicken Focaccia,50,58,18.0,0,Cloudy,Saturday
+2025-04-20,Chicken Focaccia,44,51,18.0,0,Sunny,Sunday
+2025-04-24,Chicken Focaccia,20,22,18.0,0,Rainy,Thursday
+2025-04-25,Chicken Focaccia,32,38,18.0,0,Cloudy,Friday
+2025-04-26,Chicken Focaccia,48,54,18.0,0,Sunny,Saturday
+2025-04-27,Chicken Focaccia,40,45,18.0,20,Rainy,Sunday
+2025-05-01,Chicken Focaccia,33,39,18.0,0,Sunny,Thursday
+2025-05-02,Chicken Focaccia,38,43,18.0,0,Sunny,Friday
+2025-05-03,Chicken Focaccia,46,56,18.0,20,Cloudy,Saturday
+2025-05-04,Chicken Focaccia,36,44,18.0,0,Sunny,Sunday
+2025-05-08,Chicken Focaccia,29,35,18.0,0,Sunny,Thursday
+2025-05-09,Chicken Focaccia,34,41,18.0,0,Sunny,Friday
+2025-05-10,Chicken Focaccia,48,58,18.0,0,Sunny,Saturday
+2025-05-11,Chicken Focaccia,57,66,18.0,0,Cloudy,Sunday
+2025-05-15,Chicken Focaccia,29,35,18.0,0,Sunny,Thursday
+2025-05-16,Chicken Focaccia,35,42,18.0,0,Sunny,Friday
+2025-05-17,Chicken Focaccia,43,48,18.0,0,Cloudy,Saturday
+2025-05-18,Chicken Focaccia,44,53,18.0,0,Cloudy,Sunday
+2025-05-22,Chicken Focaccia,32,37,18.0,0,Sunny,Thursday
+2025-05-23,Chicken Focaccia,30,35,18.0,0,Rainy,Friday
+2025-05-24,Chicken Focaccia,35,41,18.0,0,Cloudy,Saturday
+2025-05-25,Chicken Focaccia,30,35,18.0,0,Rainy,Sunday
+2025-05-29,Chicken Focaccia,29,32,18.0,0,Sunny,Thursday
+2025-05-30,Chicken Focaccia,43,52,18.0,0,Sunny,Friday
+2025-05-31,Chicken Focaccia,51,57,18.0,0,Sunny,Saturday
+2025-06-01,Chicken Focaccia,36,40,18.0,0,Cloudy,Sunday
+2025-06-05,Chicken Focaccia,22,26,18.0,0,Rainy,Thursday
+2025-06-06,Chicken Focaccia,37,44,18.0,0,Sunny,Friday
+2025-06-07,Chicken Focaccia,46,55,18.0,0,Cloudy,Saturday
+2025-06-08,Chicken Focaccia,41,45,18.0,0,Rainy,Sunday
+2025-06-12,Chicken Focaccia,25,29,18.0,0,Cloudy,Thursday
+2025-06-13,Chicken Focaccia,51,58,18.0,25,Sunny,Friday
+2025-06-14,Chicken Focaccia,54,60,18.0,0,Cloudy,Saturday
+2025-06-15,Chicken Focaccia,42,47,18.0,0,Rainy,Sunday
+2025-06-19,Chicken Focaccia,34,38,18.0,20,Rainy,Thursday
+2025-06-20,Chicken Focaccia,36,44,18.0,0,Cloudy,Friday
+2025-06-21,Chicken Focaccia,47,56,18.0,15,Rainy,Saturday
+2025-06-22,Chicken Focaccia,49,58,18.0,0,Sunny,Sunday
+2025-06-26,Chicken Focaccia,30,35,18.0,0,Rainy,Thursday
+2025-06-27,Chicken Focaccia,37,44,18.0,0,Sunny,Friday
+2025-06-28,Chicken Focaccia,39,44,18.0,0,Rainy,Saturday
+2025-06-29,Chicken Focaccia,62,74,18.0,20,Sunny,Sunday
+2025-07-03,Chicken Focaccia,28,32,18.0,0,Sunny,Thursday
+2025-07-04,Chicken Focaccia,46,53,18.0,10,Cloudy,Friday
+2025-07-05,Chicken Focaccia,51,60,18.0,0,Cloudy,Saturday
+2025-07-06,Chicken Focaccia,50,60,18.0,0,Cloudy,Sunday
+2025-07-10,Chicken Focaccia,31,35,18.0,0,Cloudy,Thursday
+2025-07-11,Chicken Focaccia,48,58,18.0,0,Sunny,Friday
+2025-07-12,Chicken Focaccia,56,64,18.0,0,Rainy,Saturday
+2025-07-13,Chicken Focaccia,50,58,18.0,0,Cloudy,Sunday
+2025-07-17,Chicken Focaccia,35,42,18.0,0,Sunny,Thursday
+2025-07-18,Chicken Focaccia,39,47,18.0,0,Cloudy,Friday
+2025-07-19,Chicken Focaccia,40,48,18.0,0,Rainy,Saturday
+2025-07-20,Chicken Focaccia,49,56,18.0,0,Sunny,Sunday
+2025-07-24,Chicken Focaccia,37,43,18.0,0,Sunny,Thursday
+2025-07-25,Chicken Focaccia,48,55,18.0,0,Sunny,Friday
+2025-07-26,Chicken Focaccia,43,49,18.0,0,Rainy,Saturday
+2025-07-27,Chicken Focaccia,42,48,18.0,0,Cloudy,Sunday
+2025-07-31,Chicken Focaccia,28,31,18.0,0,Cloudy,Thursday
+2025-08-01,Chicken Focaccia,31,36,18.0,0,Cloudy,Friday
+2025-08-02,Chicken Focaccia,76,85,18.0,25,Sunny,Saturday
+2025-08-03,Chicken Focaccia,48,58,18.0,0,Rainy,Sunday
+2025-08-07,Chicken Focaccia,32,37,18.0,0,Rainy,Thursday
+2025-08-08,Chicken Focaccia,33,39,18.0,0,Rainy,Friday
+2025-08-09,Chicken Focaccia,46,54,18.0,0,Sunny,Saturday
+2025-08-10,Chicken Focaccia,47,55,18.0,0,Sunny,Sunday
+2025-08-14,Chicken Focaccia,41,49,18.0,15,Sunny,Thursday
+2025-08-15,Chicken Focaccia,39,45,18.0,0,Rainy,Friday
+2025-08-16,Chicken Focaccia,51,58,18.0,0,Sunny,Saturday
+2025-08-17,Chicken Focaccia,51,61,18.0,0,Sunny,Sunday
+2025-08-21,Chicken Focaccia,32,38,18.0,0,Cloudy,Thursday
+2025-08-22,Chicken Focaccia,47,53,18.0,0,Cloudy,Friday
+2025-08-23,Chicken Focaccia,57,69,18.0,0,Cloudy,Saturday
+2025-08-24,Chicken Focaccia,53,61,18.0,0,Sunny,Sunday
+2025-08-28,Chicken Focaccia,31,35,18.0,20,Cloudy,Thursday
+2025-08-29,Chicken Focaccia,37,44,18.0,0,Sunny,Friday
+2025-08-30,Chicken Focaccia,51,59,18.0,0,Sunny,Saturday
+2025-08-31,Chicken Focaccia,54,60,18.0,0,Sunny,Sunday
+2025-09-04,Chicken Focaccia,30,34,18.0,0,Cloudy,Thursday
+2025-09-05,Chicken Focaccia,47,53,18.0,0,Sunny,Friday
+2025-09-06,Chicken Focaccia,72,85,18.0,0,Sunny,Saturday
+2025-09-07,Chicken Focaccia,60,66,18.0,0,Sunny,Sunday
+2025-09-11,Chicken Focaccia,34,41,18.0,0,Cloudy,Thursday
+2025-09-12,Chicken Focaccia,38,46,18.0,0,Sunny,Friday
+2025-09-13,Chicken Focaccia,41,49,18.0,0,Cloudy,Saturday
+2025-09-14,Chicken Focaccia,39,43,18.0,0,Cloudy,Sunday
+2025-09-18,Chicken Focaccia,29,32,18.0,0,Cloudy,Thursday
+2025-09-19,Chicken Focaccia,42,49,18.0,15,Cloudy,Friday
+2025-09-20,Chicken Focaccia,53,62,18.0,0,Cloudy,Saturday
+2025-09-21,Chicken Focaccia,59,70,18.0,0,Sunny,Sunday
+2025-09-25,Chicken Focaccia,35,41,18.0,0,Rainy,Thursday
+2025-09-26,Chicken Focaccia,48,57,18.0,0,Sunny,Friday
+2025-09-27,Chicken Focaccia,38,45,18.0,0,Cloudy,Saturday
+2025-09-28,Chicken Focaccia,47,55,18.0,0,Cloudy,Sunday
+2025-10-02,Chicken Focaccia,38,43,18.0,0,Cloudy,Thursday
+2025-10-03,Chicken Focaccia,45,54,18.0,0,Cloudy,Friday
+2025-10-04,Chicken Focaccia,52,59,18.0,10,Rainy,Saturday
+2025-10-05,Chicken Focaccia,60,72,18.0,0,Sunny,Sunday
+2025-10-09,Chicken Focaccia,39,44,18.0,0,Sunny,Thursday
+2025-10-10,Chicken Focaccia,47,53,18.0,0,Sunny,Friday
+2025-10-11,Chicken Focaccia,70,83,18.0,0,Sunny,Saturday
+2025-10-12,Chicken Focaccia,52,62,18.0,0,Rainy,Sunday
+2025-10-16,Chicken Focaccia,30,34,18.0,0,Cloudy,Thursday
+2025-10-17,Chicken Focaccia,51,60,18.0,0,Sunny,Friday
+2025-10-18,Chicken Focaccia,58,64,18.0,0,Rainy,Saturday
+2025-10-19,Chicken Focaccia,66,76,18.0,0,Sunny,Sunday
+2025-10-23,Chicken Focaccia,32,39,18.0,0,Rainy,Thursday
+2025-10-24,Chicken Focaccia,47,55,18.0,0,Cloudy,Friday
+2025-10-25,Chicken Focaccia,75,85,18.0,0,Sunny,Saturday
+2025-10-26,Chicken Focaccia,66,76,18.0,0,Cloudy,Sunday
+2025-10-30,Chicken Focaccia,29,33,18.0,0,Rainy,Thursday
+2025-10-31,Chicken Focaccia,44,53,18.0,0,Sunny,Friday
+2025-11-01,Chicken Focaccia,79,87,18.0,10,Sunny,Saturday
+2025-11-02,Chicken Focaccia,55,62,18.0,0,Rainy,Sunday
+2025-11-06,Chicken Focaccia,30,34,18.0,0,Rainy,Thursday
+2025-11-07,Chicken Focaccia,57,64,18.0,25,Cloudy,Friday
+2025-11-08,Chicken Focaccia,39,47,18.0,0,Rainy,Saturday
+2025-11-09,Chicken Focaccia,47,56,18.0,0,Sunny,Sunday
+2025-11-13,Chicken Focaccia,28,34,18.0,0,Sunny,Thursday
+2025-11-14,Chicken Focaccia,45,49,18.0,0,Sunny,Friday
+2025-11-15,Chicken Focaccia,64,74,18.0,0,Sunny,Saturday
+2025-11-16,Chicken Focaccia,73,88,18.0,25,Cloudy,Sunday
+2025-11-20,Chicken Focaccia,28,33,18.0,0,Rainy,Thursday
+2025-11-21,Chicken Focaccia,63,76,18.0,15,Sunny,Friday
+2025-11-22,Chicken Focaccia,57,67,18.0,0,Sunny,Saturday
+2025-11-23,Chicken Focaccia,47,54,18.0,0,Sunny,Sunday
+2025-11-27,Chicken Focaccia,23,27,18.0,0,Rainy,Thursday
+2025-11-28,Chicken Focaccia,40,46,18.0,0,Cloudy,Friday
+2025-11-29,Chicken Focaccia,48,55,18.0,0,Rainy,Saturday
+2025-11-30,Chicken Focaccia,63,70,18.0,0,Sunny,Sunday
+2025-12-04,Chicken Focaccia,49,60,18.0,15,Sunny,Thursday
+2025-12-05,Chicken Focaccia,44,49,18.0,0,Sunny,Friday
+2025-12-06,Chicken Focaccia,49,58,18.0,0,Rainy,Saturday
+2025-12-07,Chicken Focaccia,74,86,18.0,20,Sunny,Sunday
+2025-12-11,Chicken Focaccia,33,36,18.0,0,Sunny,Thursday
+2025-12-12,Chicken Focaccia,46,52,18.0,0,Sunny,Friday
+2025-12-13,Chicken Focaccia,65,74,18.0,0,Sunny,Saturday
+2025-12-14,Chicken Focaccia,68,79,18.0,25,Sunny,Sunday
+2025-12-18,Chicken Focaccia,31,36,18.0,0,Sunny,Thursday
+2025-12-19,Chicken Focaccia,46,52,18.0,0,Cloudy,Friday
+2025-12-20,Chicken Focaccia,66,74,18.0,0,Sunny,Saturday
+2025-12-21,Chicken Focaccia,58,64,18.0,0,Sunny,Sunday
+2025-12-25,Chicken Focaccia,44,50,18.0,0,Sunny,Thursday
+2025-12-26,Chicken Focaccia,50,59,18.0,0,Rainy,Friday
+2025-12-27,Chicken Focaccia,50,60,18.0,0,Cloudy,Saturday
+2025-12-28,Chicken Focaccia,67,74,18.0,0,Sunny,Sunday
+2026-01-01,Chicken Focaccia,55,67,18.0,15,Cloudy,Thursday
+2026-01-02,Chicken Focaccia,38,46,18.0,0,Rainy,Friday
+2026-01-03,Chicken Focaccia,44,54,18.0,0,Cloudy,Saturday
+2026-01-04,Chicken Focaccia,50,61,18.0,0,Cloudy,Sunday
+2026-01-08,Chicken Focaccia,30,35,18.0,0,Cloudy,Thursday
+2026-01-09,Chicken Focaccia,36,43,18.0,0,Sunny,Friday
+2026-01-10,Chicken Focaccia,55,64,18.0,0,Sunny,Saturday
+2026-01-11,Chicken Focaccia,54,60,18.0,0,Sunny,Sunday
+2026-01-15,Chicken Focaccia,36,43,18.0,0,Sunny,Thursday
+2026-01-16,Chicken Focaccia,47,55,18.0,0,Sunny,Friday
+2026-01-17,Chicken Focaccia,74,83,18.0,25,Sunny,Saturday
+2026-01-18,Chicken Focaccia,44,53,18.0,0,Sunny,Sunday
+2026-01-22,Chicken Focaccia,29,36,18.0,0,Sunny,Thursday
+2026-01-23,Chicken Focaccia,42,49,18.0,0,Rainy,Friday
+2026-01-24,Chicken Focaccia,46,55,18.0,0,Cloudy,Saturday
+2026-01-25,Chicken Focaccia,34,41,18.0,0,Cloudy,Sunday
+2026-01-29,Chicken Focaccia,31,37,18.0,0,Sunny,Thursday
+2026-01-30,Chicken Focaccia,59,71,18.0,20,Sunny,Friday
+2026-01-31,Chicken Focaccia,63,75,18.0,0,Sunny,Saturday
+2026-02-01,Chicken Focaccia,56,62,18.0,0,Cloudy,Sunday
+2026-02-05,Chicken Focaccia,29,34,18.0,0,Cloudy,Thursday
+2026-02-06,Chicken Focaccia,38,45,18.0,0,Cloudy,Friday
+2026-02-07,Chicken Focaccia,43,52,18.0,0,Cloudy,Saturday
+2026-02-08,Chicken Focaccia,52,62,18.0,0,Sunny,Sunday
+2026-02-12,Chicken Focaccia,55,66,18.0,0,Sunny,Thursday
+2026-02-13,Chicken Focaccia,71,84,18.0,0,Cloudy,Friday
+2026-02-14,Chicken Focaccia,85,101,18.0,0,Sunny,Saturday
+2026-02-15,Chicken Focaccia,61,73,18.0,15,Cloudy,Sunday
+2026-02-19,Chicken Focaccia,36,40,18.0,10,Sunny,Thursday
+2026-02-20,Chicken Focaccia,45,49,18.0,0,Sunny,Friday
+2026-02-21,Chicken Focaccia,59,71,18.0,0,Sunny,Saturday
+2026-02-22,Chicken Focaccia,57,65,18.0,0,Cloudy,Sunday
+2026-02-26,Chicken Focaccia,36,43,18.0,0,Cloudy,Thursday
+2026-02-27,Chicken Focaccia,49,57,18.0,0,Sunny,Friday
+2026-02-28,Chicken Focaccia,59,67,18.0,0,Cloudy,Saturday
+2026-03-01,Chicken Focaccia,66,81,18.0,20,Cloudy,Sunday
+2026-03-05,Chicken Focaccia,30,35,18.0,0,Cloudy,Thursday
+2026-03-06,Chicken Focaccia,62,73,18.0,20,Sunny,Friday
+2026-03-07,Chicken Focaccia,65,75,18.0,0,Sunny,Saturday
+2026-03-08,Chicken Focaccia,46,51,18.0,0,Cloudy,Sunday
+2026-03-12,Chicken Focaccia,32,36,18.0,0,Sunny,Thursday
+2026-03-13,Chicken Focaccia,42,50,18.0,0,Rainy,Friday
+2026-03-14,Chicken Focaccia,65,77,18.0,0,Sunny,Saturday
+2026-03-15,Chicken Focaccia,61,70,18.0,0,Sunny,Sunday
+2026-03-19,Chicken Focaccia,40,45,18.0,0,Cloudy,Thursday
+2026-03-20,Chicken Focaccia,50,60,18.0,0,Cloudy,Friday
+2026-03-21,Chicken Focaccia,53,59,18.0,0,Rainy,Saturday
+2026-03-22,Chicken Focaccia,63,75,18.0,0,Sunny,Sunday
+2026-03-26,Chicken Focaccia,40,45,18.0,0,Sunny,Thursday
+2026-03-27,Chicken Focaccia,54,64,18.0,0,Cloudy,Friday
+2026-03-28,Chicken Focaccia,67,74,18.0,0,Sunny,Saturday
+2026-03-29,Chicken Focaccia,68,78,18.0,0,Cloudy,Sunday
+2026-04-02,Chicken Focaccia,49,60,18.0,0,Cloudy,Thursday
+2026-04-03,Chicken Focaccia,47,56,18.0,0,Rainy,Friday
+2026-04-04,Chicken Focaccia,82,95,18.0,0,Sunny,Saturday
+2026-04-05,Chicken Focaccia,72,79,18.0,0,Rainy,Sunday
+2026-04-09,Chicken Focaccia,52,63,18.0,0,Sunny,Thursday
+2026-04-10,Chicken Focaccia,52,58,18.0,0,Sunny,Friday
+2026-04-11,Chicken Focaccia,68,76,18.0,0,Sunny,Saturday
+2026-04-12,Chicken Focaccia,59,71,18.0,0,Cloudy,Sunday
+2026-04-16,Chicken Focaccia,53,61,18.0,15,Sunny,Thursday
+2026-04-17,Chicken Focaccia,49,54,18.0,0,Sunny,Friday
+2026-04-18,Chicken Focaccia,69,81,18.0,0,Cloudy,Saturday
+2026-04-19,Chicken Focaccia,80,90,18.0,20,Cloudy,Sunday
+2026-04-23,Chicken Focaccia,45,54,18.0,0,Sunny,Thursday
+2026-04-24,Chicken Focaccia,75,89,18.0,25,Cloudy,Friday
+2026-04-25,Chicken Focaccia,83,101,18.0,20,Sunny,Saturday
+2026-04-26,Chicken Focaccia,50,55,18.0,0,Sunny,Sunday
+2026-04-30,Chicken Focaccia,35,40,18.0,0,Sunny,Thursday
+2026-05-01,Chicken Focaccia,46,55,18.0,0,Rainy,Friday
+2026-05-02,Chicken Focaccia,66,78,18.0,0,Sunny,Saturday
+2026-05-03,Chicken Focaccia,54,59,18.0,15,Rainy,Sunday
+2026-05-07,Chicken Focaccia,30,34,18.0,0,Sunny,Thursday
+2026-05-08,Chicken Focaccia,48,57,18.0,0,Sunny,Friday
+2026-05-09,Chicken Focaccia,66,73,18.0,0,Cloudy,Saturday
+2026-05-10,Chicken Focaccia,73,86,18.0,0,Sunny,Sunday
+2026-05-14,Chicken Focaccia,29,35,18.0,0,Rainy,Thursday
+2026-05-15,Chicken Focaccia,56,68,18.0,0,Sunny,Friday
+2026-05-16,Chicken Focaccia,76,85,18.0,0,Sunny,Saturday
+2026-05-17,Chicken Focaccia,70,82,18.0,0,Sunny,Sunday
+2025-01-02,Beef Focaccia,22,24,19.0,0,Sunny,Thursday
+2025-01-03,Beef Focaccia,25,28,19.0,0,Sunny,Friday
+2025-01-04,Beef Focaccia,32,38,19.0,0,Rainy,Saturday
+2025-01-05,Beef Focaccia,39,46,19.0,0,Sunny,Sunday
+2025-01-09,Beef Focaccia,23,26,19.0,0,Sunny,Thursday
+2025-01-10,Beef Focaccia,21,26,19.0,0,Rainy,Friday
+2025-01-11,Beef Focaccia,33,37,19.0,0,Sunny,Saturday
+2025-01-12,Beef Focaccia,19,22,19.0,0,Rainy,Sunday
+2025-01-16,Beef Focaccia,15,18,19.0,0,Cloudy,Thursday
+2025-01-17,Beef Focaccia,31,37,19.0,0,Cloudy,Friday
+2025-01-18,Beef Focaccia,42,49,19.0,20,Sunny,Saturday
+2025-01-19,Beef Focaccia,27,31,19.0,0,Sunny,Sunday
+2025-01-23,Beef Focaccia,18,21,19.0,0,Sunny,Thursday
+2025-01-24,Beef Focaccia,23,27,19.0,0,Rainy,Friday
+2025-01-25,Beef Focaccia,37,43,19.0,0,Sunny,Saturday
+2025-01-26,Beef Focaccia,34,38,19.0,0,Sunny,Sunday
+2025-01-30,Beef Focaccia,33,39,19.0,10,Cloudy,Thursday
+2025-01-31,Beef Focaccia,26,29,19.0,0,Sunny,Friday
+2025-02-01,Beef Focaccia,40,44,19.0,25,Cloudy,Saturday
+2025-02-02,Beef Focaccia,26,30,19.0,0,Rainy,Sunday
+2025-02-06,Beef Focaccia,20,23,19.0,0,Sunny,Thursday
+2025-02-07,Beef Focaccia,25,28,19.0,0,Sunny,Friday
+2025-02-08,Beef Focaccia,34,41,19.0,0,Sunny,Saturday
+2025-02-09,Beef Focaccia,33,39,19.0,10,Cloudy,Sunday
+2025-02-13,Beef Focaccia,36,40,19.0,15,Sunny,Thursday
+2025-02-14,Beef Focaccia,32,37,19.0,0,Rainy,Friday
+2025-02-15,Beef Focaccia,35,39,19.0,0,Sunny,Saturday
+2025-02-16,Beef Focaccia,35,42,19.0,0,Sunny,Sunday
+2025-02-20,Beef Focaccia,23,26,19.0,0,Sunny,Thursday
+2025-02-21,Beef Focaccia,29,33,19.0,0,Cloudy,Friday
+2025-02-22,Beef Focaccia,29,33,19.0,0,Rainy,Saturday
+2025-02-23,Beef Focaccia,37,42,19.0,10,Cloudy,Sunday
+2025-02-27,Beef Focaccia,31,34,19.0,25,Cloudy,Thursday
+2025-02-28,Beef Focaccia,26,30,19.0,0,Sunny,Friday
+2025-03-01,Beef Focaccia,38,42,19.0,0,Sunny,Saturday
+2025-03-02,Beef Focaccia,43,51,19.0,0,Sunny,Sunday
+2025-03-06,Beef Focaccia,21,25,19.0,0,Cloudy,Thursday
+2025-03-07,Beef Focaccia,28,32,19.0,0,Sunny,Friday
+2025-03-08,Beef Focaccia,39,42,19.0,10,Sunny,Saturday
+2025-03-09,Beef Focaccia,33,39,19.0,0,Sunny,Sunday
+2025-03-13,Beef Focaccia,19,22,19.0,0,Rainy,Thursday
+2025-03-14,Beef Focaccia,32,36,19.0,0,Sunny,Friday
+2025-03-15,Beef Focaccia,37,44,19.0,0,Sunny,Saturday
+2025-03-16,Beef Focaccia,35,39,19.0,0,Sunny,Sunday
+2025-03-20,Beef Focaccia,32,36,19.0,25,Sunny,Thursday
+2025-03-21,Beef Focaccia,29,34,19.0,0,Sunny,Friday
+2025-03-22,Beef Focaccia,36,42,19.0,0,Cloudy,Saturday
+2025-03-23,Beef Focaccia,37,42,19.0,10,Cloudy,Sunday
+2025-03-27,Beef Focaccia,16,18,19.0,0,Rainy,Thursday
+2025-03-28,Beef Focaccia,27,30,19.0,0,Sunny,Friday
+2025-03-29,Beef Focaccia,49,55,19.0,0,Sunny,Saturday
+2025-03-30,Beef Focaccia,26,30,19.0,0,Rainy,Sunday
+2025-04-03,Beef Focaccia,22,27,19.0,0,Sunny,Thursday
+2025-04-04,Beef Focaccia,30,37,19.0,0,Sunny,Friday
+2025-04-05,Beef Focaccia,37,43,19.0,0,Sunny,Saturday
+2025-04-06,Beef Focaccia,40,47,19.0,15,Cloudy,Sunday
+2025-04-10,Beef Focaccia,21,24,19.0,0,Rainy,Thursday
+2025-04-11,Beef Focaccia,33,40,19.0,0,Sunny,Friday
+2025-04-12,Beef Focaccia,64,74,19.0,25,Sunny,Saturday
+2025-04-13,Beef Focaccia,46,54,19.0,0,Cloudy,Sunday
+2025-04-17,Beef Focaccia,26,30,19.0,0,Cloudy,Thursday
+2025-04-18,Beef Focaccia,40,46,19.0,20,Cloudy,Friday
+2025-04-19,Beef Focaccia,52,63,19.0,15,Cloudy,Saturday
+2025-04-20,Beef Focaccia,41,49,19.0,0,Sunny,Sunday
+2025-04-24,Beef Focaccia,18,22,19.0,0,Rainy,Thursday
+2025-04-25,Beef Focaccia,23,26,19.0,0,Cloudy,Friday
+2025-04-26,Beef Focaccia,35,41,19.0,0,Sunny,Saturday
+2025-04-27,Beef Focaccia,34,39,19.0,0,Rainy,Sunday
+2025-05-01,Beef Focaccia,33,40,19.0,0,Sunny,Thursday
+2025-05-02,Beef Focaccia,37,41,19.0,20,Sunny,Friday
+2025-05-03,Beef Focaccia,36,40,19.0,0,Cloudy,Saturday
+2025-05-04,Beef Focaccia,40,48,19.0,0,Sunny,Sunday
+2025-05-08,Beef Focaccia,24,29,19.0,0,Sunny,Thursday
+2025-05-09,Beef Focaccia,33,37,19.0,0,Sunny,Friday
+2025-05-10,Beef Focaccia,42,47,19.0,0,Sunny,Saturday
+2025-05-11,Beef Focaccia,46,55,19.0,0,Cloudy,Sunday
+2025-05-15,Beef Focaccia,21,24,19.0,0,Sunny,Thursday
+2025-05-16,Beef Focaccia,32,38,19.0,0,Sunny,Friday
+2025-05-17,Beef Focaccia,42,50,19.0,0,Cloudy,Saturday
+2025-05-18,Beef Focaccia,33,38,19.0,0,Cloudy,Sunday
+2025-05-22,Beef Focaccia,21,25,19.0,0,Sunny,Thursday
+2025-05-23,Beef Focaccia,21,25,19.0,0,Rainy,Friday
+2025-05-24,Beef Focaccia,37,45,19.0,0,Cloudy,Saturday
+2025-05-25,Beef Focaccia,33,38,19.0,0,Rainy,Sunday
+2025-05-29,Beef Focaccia,34,41,19.0,25,Sunny,Thursday
+2025-05-30,Beef Focaccia,34,41,19.0,0,Sunny,Friday
+2025-05-31,Beef Focaccia,39,45,19.0,0,Sunny,Saturday
+2025-06-01,Beef Focaccia,32,37,19.0,0,Cloudy,Sunday
+2025-06-05,Beef Focaccia,19,22,19.0,0,Rainy,Thursday
+2025-06-06,Beef Focaccia,26,30,19.0,0,Sunny,Friday
+2025-06-07,Beef Focaccia,42,47,19.0,10,Cloudy,Saturday
+2025-06-08,Beef Focaccia,33,36,19.0,0,Rainy,Sunday
+2025-06-12,Beef Focaccia,22,25,19.0,0,Cloudy,Thursday
+2025-06-13,Beef Focaccia,40,46,19.0,20,Sunny,Friday
+2025-06-14,Beef Focaccia,42,51,19.0,0,Cloudy,Saturday
+2025-06-15,Beef Focaccia,31,37,19.0,0,Rainy,Sunday
+2025-06-19,Beef Focaccia,20,22,19.0,0,Rainy,Thursday
+2025-06-20,Beef Focaccia,32,36,19.0,0,Cloudy,Friday
+2025-06-21,Beef Focaccia,38,44,19.0,0,Rainy,Saturday
+2025-06-22,Beef Focaccia,35,43,19.0,0,Sunny,Sunday
+2025-06-26,Beef Focaccia,14,16,19.0,0,Rainy,Thursday
+2025-06-27,Beef Focaccia,26,30,19.0,0,Sunny,Friday
+2025-06-28,Beef Focaccia,30,35,19.0,0,Rainy,Saturday
+2025-06-29,Beef Focaccia,29,33,19.0,0,Sunny,Sunday
+2025-07-03,Beef Focaccia,23,26,19.0,0,Sunny,Thursday
+2025-07-04,Beef Focaccia,38,42,19.0,0,Cloudy,Friday
+2025-07-05,Beef Focaccia,45,50,19.0,0,Cloudy,Saturday
+2025-07-06,Beef Focaccia,38,44,19.0,0,Cloudy,Sunday
+2025-07-10,Beef Focaccia,23,27,19.0,0,Cloudy,Thursday
+2025-07-11,Beef Focaccia,28,33,19.0,0,Sunny,Friday
+2025-07-12,Beef Focaccia,36,41,19.0,0,Rainy,Saturday
+2025-07-13,Beef Focaccia,33,37,19.0,0,Cloudy,Sunday
+2025-07-17,Beef Focaccia,20,23,19.0,0,Sunny,Thursday
+2025-07-18,Beef Focaccia,27,33,19.0,0,Cloudy,Friday
+2025-07-19,Beef Focaccia,35,39,19.0,0,Rainy,Saturday
+2025-07-20,Beef Focaccia,44,49,19.0,0,Sunny,Sunday
+2025-07-24,Beef Focaccia,31,34,19.0,20,Sunny,Thursday
+2025-07-25,Beef Focaccia,31,35,19.0,0,Sunny,Friday
+2025-07-26,Beef Focaccia,43,49,19.0,0,Rainy,Saturday
+2025-07-27,Beef Focaccia,48,55,19.0,0,Cloudy,Sunday
+2025-07-31,Beef Focaccia,23,26,19.0,0,Cloudy,Thursday
+2025-08-01,Beef Focaccia,32,37,19.0,0,Cloudy,Friday
+2025-08-02,Beef Focaccia,41,49,19.0,0,Sunny,Saturday
+2025-08-03,Beef Focaccia,34,40,19.0,0,Rainy,Sunday
+2025-08-07,Beef Focaccia,22,25,19.0,0,Rainy,Thursday
+2025-08-08,Beef Focaccia,23,27,19.0,0,Rainy,Friday
+2025-08-09,Beef Focaccia,59,67,19.0,20,Sunny,Saturday
+2025-08-10,Beef Focaccia,52,60,19.0,15,Sunny,Sunday
+2025-08-14,Beef Focaccia,28,32,19.0,0,Sunny,Thursday
+2025-08-15,Beef Focaccia,32,37,19.0,0,Rainy,Friday
+2025-08-16,Beef Focaccia,51,58,19.0,0,Sunny,Saturday
+2025-08-17,Beef Focaccia,48,57,19.0,0,Sunny,Sunday
+2025-08-21,Beef Focaccia,32,38,19.0,15,Cloudy,Thursday
+2025-08-22,Beef Focaccia,34,38,19.0,0,Cloudy,Friday
+2025-08-23,Beef Focaccia,49,58,19.0,0,Cloudy,Saturday
+2025-08-24,Beef Focaccia,47,52,19.0,0,Sunny,Sunday
+2025-08-28,Beef Focaccia,33,39,19.0,25,Cloudy,Thursday
+2025-08-29,Beef Focaccia,35,42,19.0,0,Sunny,Friday
+2025-08-30,Beef Focaccia,39,45,19.0,0,Sunny,Saturday
+2025-08-31,Beef Focaccia,37,42,19.0,0,Sunny,Sunday
+2025-09-04,Beef Focaccia,26,30,19.0,0,Cloudy,Thursday
+2025-09-05,Beef Focaccia,37,41,19.0,0,Sunny,Friday
+2025-09-06,Beef Focaccia,48,56,19.0,0,Sunny,Saturday
+2025-09-07,Beef Focaccia,59,68,19.0,25,Sunny,Sunday
+2025-09-11,Beef Focaccia,27,32,19.0,0,Cloudy,Thursday
+2025-09-12,Beef Focaccia,39,48,19.0,0,Sunny,Friday
+2025-09-13,Beef Focaccia,42,49,19.0,0,Cloudy,Saturday
+2025-09-14,Beef Focaccia,37,44,19.0,0,Cloudy,Sunday
+2025-09-18,Beef Focaccia,24,28,19.0,0,Cloudy,Thursday
+2025-09-19,Beef Focaccia,33,38,19.0,0,Cloudy,Friday
+2025-09-20,Beef Focaccia,45,52,19.0,0,Cloudy,Saturday
+2025-09-21,Beef Focaccia,50,60,19.0,0,Sunny,Sunday
+2025-09-25,Beef Focaccia,34,40,19.0,0,Rainy,Thursday
+2025-09-26,Beef Focaccia,37,41,19.0,0,Sunny,Friday
+2025-09-27,Beef Focaccia,45,54,19.0,0,Cloudy,Saturday
+2025-09-28,Beef Focaccia,43,49,19.0,0,Cloudy,Sunday
+2025-10-02,Beef Focaccia,30,36,19.0,0,Cloudy,Thursday
+2025-10-03,Beef Focaccia,34,38,19.0,10,Cloudy,Friday
+2025-10-04,Beef Focaccia,30,37,19.0,0,Rainy,Saturday
+2025-10-05,Beef Focaccia,40,47,19.0,0,Sunny,Sunday
+2025-10-09,Beef Focaccia,29,34,19.0,0,Sunny,Thursday
+2025-10-10,Beef Focaccia,38,45,19.0,0,Sunny,Friday
+2025-10-11,Beef Focaccia,52,59,19.0,0,Sunny,Saturday
+2025-10-12,Beef Focaccia,45,50,19.0,10,Rainy,Sunday
+2025-10-16,Beef Focaccia,30,33,19.0,0,Cloudy,Thursday
+2025-10-17,Beef Focaccia,42,50,19.0,0,Sunny,Friday
+2025-10-18,Beef Focaccia,44,52,19.0,0,Rainy,Saturday
+2025-10-19,Beef Focaccia,42,48,19.0,0,Sunny,Sunday
+2025-10-23,Beef Focaccia,18,21,19.0,0,Rainy,Thursday
+2025-10-24,Beef Focaccia,27,31,19.0,0,Cloudy,Friday
+2025-10-25,Beef Focaccia,49,54,19.0,0,Sunny,Saturday
+2025-10-26,Beef Focaccia,37,41,19.0,0,Cloudy,Sunday
+2025-10-30,Beef Focaccia,22,26,19.0,0,Rainy,Thursday
+2025-10-31,Beef Focaccia,36,44,19.0,0,Sunny,Friday
+2025-11-01,Beef Focaccia,49,58,19.0,0,Sunny,Saturday
+2025-11-02,Beef Focaccia,33,36,19.0,0,Rainy,Sunday
+2025-11-06,Beef Focaccia,20,23,19.0,0,Rainy,Thursday
+2025-11-07,Beef Focaccia,34,39,19.0,0,Cloudy,Friday
+2025-11-08,Beef Focaccia,46,54,19.0,0,Rainy,Saturday
+2025-11-09,Beef Focaccia,50,55,19.0,0,Sunny,Sunday
+2025-11-13,Beef Focaccia,39,46,19.0,20,Sunny,Thursday
+2025-11-14,Beef Focaccia,41,50,19.0,0,Sunny,Friday
+2025-11-15,Beef Focaccia,56,67,19.0,0,Sunny,Saturday
+2025-11-16,Beef Focaccia,50,59,19.0,0,Cloudy,Sunday
+2025-11-20,Beef Focaccia,25,28,19.0,0,Rainy,Thursday
+2025-11-21,Beef Focaccia,40,48,19.0,10,Sunny,Friday
+2025-11-22,Beef Focaccia,45,55,19.0,0,Sunny,Saturday
+2025-11-23,Beef Focaccia,44,51,19.0,0,Sunny,Sunday
+2025-11-27,Beef Focaccia,25,29,19.0,0,Rainy,Thursday
+2025-11-28,Beef Focaccia,29,35,19.0,0,Cloudy,Friday
+2025-11-29,Beef Focaccia,42,50,19.0,0,Rainy,Saturday
+2025-11-30,Beef Focaccia,48,54,19.0,0,Sunny,Sunday
+2025-12-04,Beef Focaccia,28,32,19.0,0,Sunny,Thursday
+2025-12-05,Beef Focaccia,36,41,19.0,0,Sunny,Friday
+2025-12-06,Beef Focaccia,45,53,19.0,0,Rainy,Saturday
+2025-12-07,Beef Focaccia,56,67,19.0,0,Sunny,Sunday
+2025-12-11,Beef Focaccia,33,38,19.0,0,Sunny,Thursday
+2025-12-12,Beef Focaccia,37,44,19.0,0,Sunny,Friday
+2025-12-13,Beef Focaccia,51,57,19.0,0,Sunny,Saturday
+2025-12-14,Beef Focaccia,62,72,19.0,20,Sunny,Sunday
+2025-12-18,Beef Focaccia,33,40,19.0,0,Sunny,Thursday
+2025-12-19,Beef Focaccia,36,40,19.0,0,Cloudy,Friday
+2025-12-20,Beef Focaccia,54,66,19.0,10,Sunny,Saturday
+2025-12-21,Beef Focaccia,50,56,19.0,0,Sunny,Sunday
+2025-12-25,Beef Focaccia,41,47,19.0,0,Sunny,Thursday
+2025-12-26,Beef Focaccia,50,61,19.0,0,Rainy,Friday
+2025-12-27,Beef Focaccia,48,57,19.0,0,Cloudy,Saturday
+2025-12-28,Beef Focaccia,45,52,19.0,0,Sunny,Sunday
+2026-01-01,Beef Focaccia,27,30,19.0,0,Cloudy,Thursday
+2026-01-02,Beef Focaccia,33,37,19.0,0,Rainy,Friday
+2026-01-03,Beef Focaccia,57,65,19.0,0,Cloudy,Saturday
+2026-01-04,Beef Focaccia,56,66,19.0,0,Cloudy,Sunday
+2026-01-08,Beef Focaccia,36,42,19.0,0,Cloudy,Thursday
+2026-01-09,Beef Focaccia,36,41,19.0,0,Sunny,Friday
+2026-01-10,Beef Focaccia,53,61,19.0,0,Sunny,Saturday
+2026-01-11,Beef Focaccia,49,59,19.0,0,Sunny,Sunday
+2026-01-15,Beef Focaccia,30,34,19.0,0,Sunny,Thursday
+2026-01-16,Beef Focaccia,37,45,19.0,0,Sunny,Friday
+2026-01-17,Beef Focaccia,54,64,19.0,0,Sunny,Saturday
+2026-01-18,Beef Focaccia,47,57,19.0,0,Sunny,Sunday
+2026-01-22,Beef Focaccia,28,32,19.0,0,Sunny,Thursday
+2026-01-23,Beef Focaccia,31,37,19.0,0,Rainy,Friday
+2026-01-24,Beef Focaccia,46,52,19.0,0,Cloudy,Saturday
+2026-01-25,Beef Focaccia,51,58,19.0,0,Cloudy,Sunday
+2026-01-29,Beef Focaccia,35,39,19.0,0,Sunny,Thursday
+2026-01-30,Beef Focaccia,46,54,19.0,0,Sunny,Friday
+2026-01-31,Beef Focaccia,63,71,19.0,10,Sunny,Saturday
+2026-02-01,Beef Focaccia,39,46,19.0,0,Cloudy,Sunday
+2026-02-05,Beef Focaccia,24,28,19.0,0,Cloudy,Thursday
+2026-02-06,Beef Focaccia,40,48,19.0,0,Cloudy,Friday
+2026-02-07,Beef Focaccia,53,61,19.0,0,Cloudy,Saturday
+2026-02-08,Beef Focaccia,47,53,19.0,0,Sunny,Sunday
+2026-02-12,Beef Focaccia,34,42,19.0,0,Sunny,Thursday
+2026-02-13,Beef Focaccia,53,61,19.0,0,Cloudy,Friday
+2026-02-14,Beef Focaccia,77,87,19.0,0,Sunny,Saturday
+2026-02-15,Beef Focaccia,56,64,19.0,0,Cloudy,Sunday
+2026-02-19,Beef Focaccia,41,49,19.0,0,Sunny,Thursday
+2026-02-20,Beef Focaccia,44,49,19.0,0,Sunny,Friday
+2026-02-21,Beef Focaccia,53,59,19.0,0,Sunny,Saturday
+2026-02-22,Beef Focaccia,47,54,19.0,0,Cloudy,Sunday
+2026-02-26,Beef Focaccia,34,41,19.0,10,Cloudy,Thursday
+2026-02-27,Beef Focaccia,41,50,19.0,0,Sunny,Friday
+2026-02-28,Beef Focaccia,48,57,19.0,0,Cloudy,Saturday
+2026-03-01,Beef Focaccia,45,53,19.0,0,Cloudy,Sunday
+2026-03-05,Beef Focaccia,28,31,19.0,0,Cloudy,Thursday
+2026-03-06,Beef Focaccia,41,48,19.0,0,Sunny,Friday
+2026-03-07,Beef Focaccia,59,69,19.0,0,Sunny,Saturday
+2026-03-08,Beef Focaccia,39,47,19.0,0,Cloudy,Sunday
+2026-03-12,Beef Focaccia,26,30,19.0,0,Sunny,Thursday
+2026-03-13,Beef Focaccia,32,39,19.0,0,Rainy,Friday
+2026-03-14,Beef Focaccia,50,58,19.0,0,Sunny,Saturday
+2026-03-15,Beef Focaccia,49,54,19.0,0,Sunny,Sunday
+2026-03-19,Beef Focaccia,31,37,19.0,0,Cloudy,Thursday
+2026-03-20,Beef Focaccia,45,54,19.0,0,Cloudy,Friday
+2026-03-21,Beef Focaccia,51,60,19.0,0,Rainy,Saturday
+2026-03-22,Beef Focaccia,51,58,19.0,0,Sunny,Sunday
+2026-03-26,Beef Focaccia,39,46,19.0,0,Sunny,Thursday
+2026-03-27,Beef Focaccia,41,45,19.0,0,Cloudy,Friday
+2026-03-28,Beef Focaccia,63,72,19.0,10,Sunny,Saturday
+2026-03-29,Beef Focaccia,49,56,19.0,0,Cloudy,Sunday
+2026-04-02,Beef Focaccia,35,38,19.0,0,Cloudy,Thursday
+2026-04-03,Beef Focaccia,37,42,19.0,0,Rainy,Friday
+2026-04-04,Beef Focaccia,57,65,19.0,0,Sunny,Saturday
+2026-04-05,Beef Focaccia,44,52,19.0,0,Rainy,Sunday
+2026-04-09,Beef Focaccia,33,36,19.0,0,Sunny,Thursday
+2026-04-10,Beef Focaccia,42,46,19.0,0,Sunny,Friday
+2026-04-11,Beef Focaccia,52,61,19.0,0,Sunny,Saturday
+2026-04-12,Beef Focaccia,47,55,19.0,0,Cloudy,Sunday
+2026-04-16,Beef Focaccia,36,43,19.0,0,Sunny,Thursday
+2026-04-17,Beef Focaccia,42,50,19.0,0,Sunny,Friday
+2026-04-18,Beef Focaccia,46,56,19.0,0,Cloudy,Saturday
+2026-04-19,Beef Focaccia,44,50,19.0,0,Cloudy,Sunday
+2026-04-23,Beef Focaccia,32,38,19.0,0,Sunny,Thursday
+2026-04-24,Beef Focaccia,52,63,19.0,20,Cloudy,Friday
+2026-04-25,Beef Focaccia,59,70,19.0,0,Sunny,Saturday
+2026-04-26,Beef Focaccia,46,51,19.0,0,Sunny,Sunday
+2026-04-30,Beef Focaccia,23,28,19.0,0,Sunny,Thursday
+2026-05-01,Beef Focaccia,36,41,19.0,10,Rainy,Friday
+2026-05-02,Beef Focaccia,58,69,19.0,0,Sunny,Saturday
+2026-05-03,Beef Focaccia,40,44,19.0,0,Rainy,Sunday
+2026-05-07,Beef Focaccia,34,40,19.0,0,Sunny,Thursday
+2026-05-08,Beef Focaccia,56,66,19.0,0,Sunny,Friday
+2026-05-09,Beef Focaccia,50,56,19.0,0,Cloudy,Saturday
+2026-05-10,Beef Focaccia,64,75,19.0,0,Sunny,Sunday
+2026-05-14,Beef Focaccia,29,32,19.0,0,Rainy,Thursday
+2026-05-15,Beef Focaccia,38,45,19.0,0,Sunny,Friday
+2026-05-16,Beef Focaccia,45,51,19.0,0,Sunny,Saturday
+2026-05-17,Beef Focaccia,49,57,19.0,0,Sunny,Sunday
+2025-01-02,Earl Grey Cinnamon Bun,18,22,14.0,0,Sunny,Thursday
+2025-01-03,Earl Grey Cinnamon Bun,23,25,14.0,0,Sunny,Friday
+2025-01-04,Earl Grey Cinnamon Bun,37,44,14.0,15,Rainy,Saturday
+2025-01-05,Earl Grey Cinnamon Bun,31,38,14.0,0,Sunny,Sunday
+2025-01-09,Earl Grey Cinnamon Bun,18,20,14.0,0,Sunny,Thursday
+2025-01-10,Earl Grey Cinnamon Bun,20,24,14.0,0,Rainy,Friday
+2025-01-11,Earl Grey Cinnamon Bun,45,53,14.0,15,Sunny,Saturday
+2025-01-12,Earl Grey Cinnamon Bun,31,37,14.0,0,Rainy,Sunday
+2025-01-16,Earl Grey Cinnamon Bun,16,19,14.0,0,Cloudy,Thursday
+2025-01-17,Earl Grey Cinnamon Bun,22,27,14.0,0,Cloudy,Friday
+2025-01-18,Earl Grey Cinnamon Bun,38,43,14.0,0,Sunny,Saturday
+2025-01-19,Earl Grey Cinnamon Bun,41,49,14.0,0,Sunny,Sunday
+2025-01-23,Earl Grey Cinnamon Bun,21,26,14.0,0,Sunny,Thursday
+2025-01-24,Earl Grey Cinnamon Bun,20,23,14.0,0,Rainy,Friday
+2025-01-25,Earl Grey Cinnamon Bun,37,44,14.0,15,Sunny,Saturday
+2025-01-26,Earl Grey Cinnamon Bun,29,33,14.0,0,Sunny,Sunday
+2025-01-30,Earl Grey Cinnamon Bun,23,28,14.0,0,Cloudy,Thursday
+2025-01-31,Earl Grey Cinnamon Bun,25,29,14.0,0,Sunny,Friday
+2025-02-01,Earl Grey Cinnamon Bun,42,48,14.0,0,Cloudy,Saturday
+2025-02-02,Earl Grey Cinnamon Bun,32,38,14.0,0,Rainy,Sunday
+2025-02-06,Earl Grey Cinnamon Bun,26,29,14.0,20,Sunny,Thursday
+2025-02-07,Earl Grey Cinnamon Bun,27,30,14.0,0,Sunny,Friday
+2025-02-08,Earl Grey Cinnamon Bun,40,45,14.0,0,Sunny,Saturday
+2025-02-09,Earl Grey Cinnamon Bun,36,43,14.0,0,Cloudy,Sunday
+2025-02-13,Earl Grey Cinnamon Bun,35,41,14.0,0,Sunny,Thursday
+2025-02-14,Earl Grey Cinnamon Bun,43,50,14.0,0,Rainy,Friday
+2025-02-15,Earl Grey Cinnamon Bun,45,51,14.0,0,Sunny,Saturday
+2025-02-16,Earl Grey Cinnamon Bun,38,46,14.0,0,Sunny,Sunday
+2025-02-20,Earl Grey Cinnamon Bun,23,27,14.0,0,Sunny,Thursday
+2025-02-21,Earl Grey Cinnamon Bun,26,30,14.0,0,Cloudy,Friday
+2025-02-22,Earl Grey Cinnamon Bun,30,33,14.0,0,Rainy,Saturday
+2025-02-23,Earl Grey Cinnamon Bun,31,35,14.0,0,Cloudy,Sunday
+2025-02-27,Earl Grey Cinnamon Bun,17,19,14.0,0,Cloudy,Thursday
+2025-02-28,Earl Grey Cinnamon Bun,36,40,14.0,20,Sunny,Friday
+2025-03-01,Earl Grey Cinnamon Bun,45,53,14.0,0,Sunny,Saturday
+2025-03-02,Earl Grey Cinnamon Bun,44,49,14.0,0,Sunny,Sunday
+2025-03-06,Earl Grey Cinnamon Bun,23,28,14.0,0,Cloudy,Thursday
+2025-03-07,Earl Grey Cinnamon Bun,31,36,14.0,0,Sunny,Friday
+2025-03-08,Earl Grey Cinnamon Bun,42,46,14.0,0,Sunny,Saturday
+2025-03-09,Earl Grey Cinnamon Bun,36,40,14.0,0,Sunny,Sunday
+2025-03-13,Earl Grey Cinnamon Bun,18,22,14.0,0,Rainy,Thursday
+2025-03-14,Earl Grey Cinnamon Bun,29,35,14.0,0,Sunny,Friday
+2025-03-15,Earl Grey Cinnamon Bun,35,42,14.0,0,Sunny,Saturday
+2025-03-16,Earl Grey Cinnamon Bun,31,38,14.0,0,Sunny,Sunday
+2025-03-20,Earl Grey Cinnamon Bun,20,22,14.0,0,Sunny,Thursday
+2025-03-21,Earl Grey Cinnamon Bun,30,36,14.0,0,Sunny,Friday
+2025-03-22,Earl Grey Cinnamon Bun,41,48,14.0,0,Cloudy,Saturday
+2025-03-23,Earl Grey Cinnamon Bun,32,36,14.0,0,Cloudy,Sunday
+2025-03-27,Earl Grey Cinnamon Bun,21,24,14.0,20,Rainy,Thursday
+2025-03-28,Earl Grey Cinnamon Bun,30,33,14.0,0,Sunny,Friday
+2025-03-29,Earl Grey Cinnamon Bun,55,67,14.0,0,Sunny,Saturday
+2025-03-30,Earl Grey Cinnamon Bun,34,40,14.0,0,Rainy,Sunday
+2025-04-03,Earl Grey Cinnamon Bun,23,26,14.0,0,Sunny,Thursday
+2025-04-04,Earl Grey Cinnamon Bun,30,34,14.0,0,Sunny,Friday
+2025-04-05,Earl Grey Cinnamon Bun,41,49,14.0,0,Sunny,Saturday
+2025-04-06,Earl Grey Cinnamon Bun,38,43,14.0,0,Cloudy,Sunday
+2025-04-10,Earl Grey Cinnamon Bun,22,25,14.0,0,Rainy,Thursday
+2025-04-11,Earl Grey Cinnamon Bun,29,34,14.0,0,Sunny,Friday
+2025-04-12,Earl Grey Cinnamon Bun,48,58,14.0,0,Sunny,Saturday
+2025-04-13,Earl Grey Cinnamon Bun,44,49,14.0,20,Cloudy,Sunday
+2025-04-17,Earl Grey Cinnamon Bun,18,20,14.0,0,Cloudy,Thursday
+2025-04-18,Earl Grey Cinnamon Bun,32,38,14.0,0,Cloudy,Friday
+2025-04-19,Earl Grey Cinnamon Bun,50,57,14.0,10,Cloudy,Saturday
+2025-04-20,Earl Grey Cinnamon Bun,45,50,14.0,0,Sunny,Sunday
+2025-04-24,Earl Grey Cinnamon Bun,26,31,14.0,0,Rainy,Thursday
+2025-04-25,Earl Grey Cinnamon Bun,28,33,14.0,0,Cloudy,Friday
+2025-04-26,Earl Grey Cinnamon Bun,41,45,14.0,0,Sunny,Saturday
+2025-04-27,Earl Grey Cinnamon Bun,35,43,14.0,0,Rainy,Sunday
+2025-05-01,Earl Grey Cinnamon Bun,26,29,14.0,0,Sunny,Thursday
+2025-05-02,Earl Grey Cinnamon Bun,31,36,14.0,0,Sunny,Friday
+2025-05-03,Earl Grey Cinnamon Bun,37,43,14.0,0,Cloudy,Saturday
+2025-05-04,Earl Grey Cinnamon Bun,35,42,14.0,0,Sunny,Sunday
+2025-05-08,Earl Grey Cinnamon Bun,23,26,14.0,0,Sunny,Thursday
+2025-05-09,Earl Grey Cinnamon Bun,31,35,14.0,0,Sunny,Friday
+2025-05-10,Earl Grey Cinnamon Bun,49,55,14.0,10,Sunny,Saturday
+2025-05-11,Earl Grey Cinnamon Bun,47,54,14.0,0,Cloudy,Sunday
+2025-05-15,Earl Grey Cinnamon Bun,22,27,14.0,0,Sunny,Thursday
+2025-05-16,Earl Grey Cinnamon Bun,40,46,14.0,25,Sunny,Friday
+2025-05-17,Earl Grey Cinnamon Bun,42,50,14.0,0,Cloudy,Saturday
+2025-05-18,Earl Grey Cinnamon Bun,40,44,14.0,0,Cloudy,Sunday
+2025-05-22,Earl Grey Cinnamon Bun,34,38,14.0,20,Sunny,Thursday
+2025-05-23,Earl Grey Cinnamon Bun,29,34,14.0,0,Rainy,Friday
+2025-05-24,Earl Grey Cinnamon Bun,43,50,14.0,0,Cloudy,Saturday
+2025-05-25,Earl Grey Cinnamon Bun,33,39,14.0,0,Rainy,Sunday
+2025-05-29,Earl Grey Cinnamon Bun,28,31,14.0,0,Sunny,Thursday
+2025-05-30,Earl Grey Cinnamon Bun,39,46,14.0,0,Sunny,Friday
+2025-05-31,Earl Grey Cinnamon Bun,43,48,14.0,0,Sunny,Saturday
+2025-06-01,Earl Grey Cinnamon Bun,49,55,14.0,10,Cloudy,Sunday
+2025-06-05,Earl Grey Cinnamon Bun,31,37,14.0,15,Rainy,Thursday
+2025-06-06,Earl Grey Cinnamon Bun,34,39,14.0,0,Sunny,Friday
+2025-06-07,Earl Grey Cinnamon Bun,53,63,14.0,15,Cloudy,Saturday
+2025-06-08,Earl Grey Cinnamon Bun,31,36,14.0,0,Rainy,Sunday
+2025-06-12,Earl Grey Cinnamon Bun,19,22,14.0,0,Cloudy,Thursday
+2025-06-13,Earl Grey Cinnamon Bun,35,39,14.0,0,Sunny,Friday
+2025-06-14,Earl Grey Cinnamon Bun,46,50,14.0,0,Cloudy,Saturday
+2025-06-15,Earl Grey Cinnamon Bun,37,45,14.0,0,Rainy,Sunday
+2025-06-19,Earl Grey Cinnamon Bun,15,17,14.0,0,Rainy,Thursday
+2025-06-20,Earl Grey Cinnamon Bun,27,32,14.0,0,Cloudy,Friday
+2025-06-21,Earl Grey Cinnamon Bun,42,47,14.0,0,Rainy,Saturday
+2025-06-22,Earl Grey Cinnamon Bun,52,62,14.0,0,Sunny,Sunday
+2025-06-26,Earl Grey Cinnamon Bun,29,35,14.0,0,Rainy,Thursday
+2025-06-27,Earl Grey Cinnamon Bun,38,46,14.0,0,Sunny,Friday
+2025-06-28,Earl Grey Cinnamon Bun,44,50,14.0,15,Rainy,Saturday
+2025-06-29,Earl Grey Cinnamon Bun,34,41,14.0,0,Sunny,Sunday
+2025-07-03,Earl Grey Cinnamon Bun,22,25,14.0,0,Sunny,Thursday
+2025-07-04,Earl Grey Cinnamon Bun,25,30,14.0,0,Cloudy,Friday
+2025-07-05,Earl Grey Cinnamon Bun,46,52,14.0,0,Cloudy,Saturday
+2025-07-06,Earl Grey Cinnamon Bun,49,55,14.0,0,Cloudy,Sunday
+2025-07-10,Earl Grey Cinnamon Bun,27,31,14.0,0,Cloudy,Thursday
+2025-07-11,Earl Grey Cinnamon Bun,35,40,14.0,0,Sunny,Friday
+2025-07-12,Earl Grey Cinnamon Bun,47,56,14.0,0,Rainy,Saturday
+2025-07-13,Earl Grey Cinnamon Bun,46,55,14.0,0,Cloudy,Sunday
+2025-07-17,Earl Grey Cinnamon Bun,39,44,14.0,20,Sunny,Thursday
+2025-07-18,Earl Grey Cinnamon Bun,29,35,14.0,0,Cloudy,Friday
+2025-07-19,Earl Grey Cinnamon Bun,40,45,14.0,0,Rainy,Saturday
+2025-07-20,Earl Grey Cinnamon Bun,46,52,14.0,0,Sunny,Sunday
+2025-07-24,Earl Grey Cinnamon Bun,23,27,14.0,0,Sunny,Thursday
+2025-07-25,Earl Grey Cinnamon Bun,30,35,14.0,0,Sunny,Friday
+2025-07-26,Earl Grey Cinnamon Bun,54,62,14.0,15,Rainy,Saturday
+2025-07-27,Earl Grey Cinnamon Bun,52,60,14.0,25,Cloudy,Sunday
+2025-07-31,Earl Grey Cinnamon Bun,22,27,14.0,0,Cloudy,Thursday
+2025-08-01,Earl Grey Cinnamon Bun,34,41,14.0,0,Cloudy,Friday
+2025-08-02,Earl Grey Cinnamon Bun,45,54,14.0,0,Sunny,Saturday
+2025-08-03,Earl Grey Cinnamon Bun,36,44,14.0,0,Rainy,Sunday
+2025-08-07,Earl Grey Cinnamon Bun,21,24,14.0,0,Rainy,Thursday
+2025-08-08,Earl Grey Cinnamon Bun,30,35,14.0,0,Rainy,Friday
+2025-08-09,Earl Grey Cinnamon Bun,51,56,14.0,0,Sunny,Saturday
+2025-08-10,Earl Grey Cinnamon Bun,59,69,14.0,20,Sunny,Sunday
+2025-08-14,Earl Grey Cinnamon Bun,25,29,14.0,0,Sunny,Thursday
+2025-08-15,Earl Grey Cinnamon Bun,28,34,14.0,0,Rainy,Friday
+2025-08-16,Earl Grey Cinnamon Bun,51,60,14.0,0,Sunny,Saturday
+2025-08-17,Earl Grey Cinnamon Bun,43,47,14.0,0,Sunny,Sunday
+2025-08-21,Earl Grey Cinnamon Bun,24,29,14.0,0,Cloudy,Thursday
+2025-08-22,Earl Grey Cinnamon Bun,32,36,14.0,0,Cloudy,Friday
+2025-08-23,Earl Grey Cinnamon Bun,52,59,14.0,0,Cloudy,Saturday
+2025-08-24,Earl Grey Cinnamon Bun,49,55,14.0,0,Sunny,Sunday
+2025-08-28,Earl Grey Cinnamon Bun,22,26,14.0,0,Cloudy,Thursday
+2025-08-29,Earl Grey Cinnamon Bun,36,41,14.0,0,Sunny,Friday
+2025-08-30,Earl Grey Cinnamon Bun,55,66,14.0,0,Sunny,Saturday
+2025-08-31,Earl Grey Cinnamon Bun,61,72,14.0,0,Sunny,Sunday
+2025-09-04,Earl Grey Cinnamon Bun,33,38,14.0,10,Cloudy,Thursday
+2025-09-05,Earl Grey Cinnamon Bun,39,46,14.0,0,Sunny,Friday
+2025-09-06,Earl Grey Cinnamon Bun,66,76,14.0,20,Sunny,Saturday
+2025-09-07,Earl Grey Cinnamon Bun,56,67,14.0,0,Sunny,Sunday
+2025-09-11,Earl Grey Cinnamon Bun,36,42,14.0,0,Cloudy,Thursday
+2025-09-12,Earl Grey Cinnamon Bun,43,52,14.0,0,Sunny,Friday
+2025-09-13,Earl Grey Cinnamon Bun,58,68,14.0,0,Cloudy,Saturday
+2025-09-14,Earl Grey Cinnamon Bun,50,61,14.0,0,Cloudy,Sunday
+2025-09-18,Earl Grey Cinnamon Bun,30,33,14.0,0,Cloudy,Thursday
+2025-09-19,Earl Grey Cinnamon Bun,36,41,14.0,0,Cloudy,Friday
+2025-09-20,Earl Grey Cinnamon Bun,53,64,14.0,15,Cloudy,Saturday
+2025-09-21,Earl Grey Cinnamon Bun,72,82,14.0,25,Sunny,Sunday
+2025-09-25,Earl Grey Cinnamon Bun,26,31,14.0,0,Rainy,Thursday
+2025-09-26,Earl Grey Cinnamon Bun,33,38,14.0,0,Sunny,Friday
+2025-09-27,Earl Grey Cinnamon Bun,55,66,14.0,0,Cloudy,Saturday
+2025-09-28,Earl Grey Cinnamon Bun,60,67,14.0,0,Cloudy,Sunday
+2025-10-02,Earl Grey Cinnamon Bun,41,48,14.0,0,Cloudy,Thursday
+2025-10-03,Earl Grey Cinnamon Bun,44,54,14.0,0,Cloudy,Friday
+2025-10-04,Earl Grey Cinnamon Bun,54,60,14.0,0,Rainy,Saturday
+2025-10-05,Earl Grey Cinnamon Bun,66,79,14.0,0,Sunny,Sunday
+2025-10-09,Earl Grey Cinnamon Bun,32,38,14.0,0,Sunny,Thursday
+2025-10-10,Earl Grey Cinnamon Bun,37,42,14.0,0,Sunny,Friday
+2025-10-11,Earl Grey Cinnamon Bun,68,80,14.0,15,Sunny,Saturday
+2025-10-12,Earl Grey Cinnamon Bun,44,51,14.0,0,Rainy,Sunday
+2025-10-16,Earl Grey Cinnamon Bun,24,27,14.0,0,Cloudy,Thursday
+2025-10-17,Earl Grey Cinnamon Bun,36,42,14.0,0,Sunny,Friday
+2025-10-18,Earl Grey Cinnamon Bun,45,54,14.0,0,Rainy,Saturday
+2025-10-19,Earl Grey Cinnamon Bun,53,59,14.0,0,Sunny,Sunday
+2025-10-23,Earl Grey Cinnamon Bun,25,27,14.0,0,Rainy,Thursday
+2025-10-24,Earl Grey Cinnamon Bun,44,51,14.0,10,Cloudy,Friday
+2025-10-25,Earl Grey Cinnamon Bun,65,72,14.0,0,Sunny,Saturday
+2025-10-26,Earl Grey Cinnamon Bun,56,64,14.0,0,Cloudy,Sunday
+2025-10-30,Earl Grey Cinnamon Bun,32,35,14.0,15,Rainy,Thursday
+2025-10-31,Earl Grey Cinnamon Bun,42,48,14.0,25,Sunny,Friday
+2025-11-01,Earl Grey Cinnamon Bun,57,65,14.0,0,Sunny,Saturday
+2025-11-02,Earl Grey Cinnamon Bun,51,57,14.0,0,Rainy,Sunday
+2025-11-06,Earl Grey Cinnamon Bun,29,35,14.0,0,Rainy,Thursday
+2025-11-07,Earl Grey Cinnamon Bun,32,37,14.0,0,Cloudy,Friday
+2025-11-08,Earl Grey Cinnamon Bun,51,59,14.0,0,Rainy,Saturday
+2025-11-09,Earl Grey Cinnamon Bun,47,56,14.0,0,Sunny,Sunday
+2025-11-13,Earl Grey Cinnamon Bun,24,29,14.0,0,Sunny,Thursday
+2025-11-14,Earl Grey Cinnamon Bun,35,41,14.0,0,Sunny,Friday
+2025-11-15,Earl Grey Cinnamon Bun,69,84,14.0,10,Sunny,Saturday
+2025-11-16,Earl Grey Cinnamon Bun,56,65,14.0,0,Cloudy,Sunday
+2025-11-20,Earl Grey Cinnamon Bun,32,37,14.0,0,Rainy,Thursday
+2025-11-21,Earl Grey Cinnamon Bun,44,51,14.0,0,Sunny,Friday
+2025-11-22,Earl Grey Cinnamon Bun,87,104,14.0,25,Sunny,Saturday
+2025-11-23,Earl Grey Cinnamon Bun,69,78,14.0,0,Sunny,Sunday
+2025-11-27,Earl Grey Cinnamon Bun,34,41,14.0,0,Rainy,Thursday
+2025-11-28,Earl Grey Cinnamon Bun,38,42,14.0,0,Cloudy,Friday
+2025-11-29,Earl Grey Cinnamon Bun,45,50,14.0,0,Rainy,Saturday
+2025-11-30,Earl Grey Cinnamon Bun,61,69,14.0,0,Sunny,Sunday
+2025-12-04,Earl Grey Cinnamon Bun,40,44,14.0,0,Sunny,Thursday
+2025-12-05,Earl Grey Cinnamon Bun,45,54,14.0,0,Sunny,Friday
+2025-12-06,Earl Grey Cinnamon Bun,54,62,14.0,0,Rainy,Saturday
+2025-12-07,Earl Grey Cinnamon Bun,64,72,14.0,0,Sunny,Sunday
+2025-12-11,Earl Grey Cinnamon Bun,38,42,14.0,0,Sunny,Thursday
+2025-12-12,Earl Grey Cinnamon Bun,66,78,14.0,25,Sunny,Friday
+2025-12-13,Earl Grey Cinnamon Bun,66,76,14.0,0,Sunny,Saturday
+2025-12-14,Earl Grey Cinnamon Bun,49,54,14.0,0,Sunny,Sunday
+2025-12-18,Earl Grey Cinnamon Bun,26,29,14.0,0,Sunny,Thursday
+2025-12-19,Earl Grey Cinnamon Bun,40,48,14.0,0,Cloudy,Friday
+2025-12-20,Earl Grey Cinnamon Bun,83,100,14.0,10,Sunny,Saturday
+2025-12-21,Earl Grey Cinnamon Bun,66,78,14.0,0,Sunny,Sunday
+2025-12-25,Earl Grey Cinnamon Bun,41,49,14.0,0,Sunny,Thursday
+2025-12-26,Earl Grey Cinnamon Bun,57,68,14.0,0,Rainy,Friday
+2025-12-27,Earl Grey Cinnamon Bun,58,65,14.0,0,Cloudy,Saturday
+2025-12-28,Earl Grey Cinnamon Bun,69,82,14.0,0,Sunny,Sunday
+2026-01-01,Earl Grey Cinnamon Bun,44,54,14.0,0,Cloudy,Thursday
+2026-01-02,Earl Grey Cinnamon Bun,48,58,14.0,10,Rainy,Friday
+2026-01-03,Earl Grey Cinnamon Bun,50,57,14.0,0,Cloudy,Saturday
+2026-01-04,Earl Grey Cinnamon Bun,45,54,14.0,0,Cloudy,Sunday
+2026-01-08,Earl Grey Cinnamon Bun,36,44,14.0,10,Cloudy,Thursday
+2026-01-09,Earl Grey Cinnamon Bun,45,50,14.0,0,Sunny,Friday
+2026-01-10,Earl Grey Cinnamon Bun,95,116,14.0,25,Sunny,Saturday
+2026-01-11,Earl Grey Cinnamon Bun,76,91,14.0,0,Sunny,Sunday
+2026-01-15,Earl Grey Cinnamon Bun,41,50,14.0,0,Sunny,Thursday
+2026-01-16,Earl Grey Cinnamon Bun,43,50,14.0,0,Sunny,Friday
+2026-01-17,Earl Grey Cinnamon Bun,68,82,14.0,0,Sunny,Saturday
+2026-01-18,Earl Grey Cinnamon Bun,65,74,14.0,10,Sunny,Sunday
+2026-01-22,Earl Grey Cinnamon Bun,30,34,14.0,0,Sunny,Thursday
+2026-01-23,Earl Grey Cinnamon Bun,40,45,14.0,0,Rainy,Friday
+2026-01-24,Earl Grey Cinnamon Bun,61,69,14.0,0,Cloudy,Saturday
+2026-01-25,Earl Grey Cinnamon Bun,60,69,14.0,0,Cloudy,Sunday
+2026-01-29,Earl Grey Cinnamon Bun,36,43,14.0,0,Sunny,Thursday
+2026-01-30,Earl Grey Cinnamon Bun,32,36,14.0,0,Sunny,Friday
+2026-01-31,Earl Grey Cinnamon Bun,63,73,14.0,0,Sunny,Saturday
+2026-02-01,Earl Grey Cinnamon Bun,55,62,14.0,0,Cloudy,Sunday
+2026-02-05,Earl Grey Cinnamon Bun,28,32,14.0,0,Cloudy,Thursday
+2026-02-06,Earl Grey Cinnamon Bun,41,48,14.0,0,Cloudy,Friday
+2026-02-07,Earl Grey Cinnamon Bun,54,62,14.0,0,Cloudy,Saturday
+2026-02-08,Earl Grey Cinnamon Bun,68,76,14.0,15,Sunny,Sunday
+2026-02-12,Earl Grey Cinnamon Bun,48,53,14.0,0,Sunny,Thursday
+2026-02-13,Earl Grey Cinnamon Bun,67,75,14.0,0,Cloudy,Friday
+2026-02-14,Earl Grey Cinnamon Bun,104,124,14.0,0,Sunny,Saturday
+2026-02-15,Earl Grey Cinnamon Bun,55,66,14.0,0,Cloudy,Sunday
+2026-02-19,Earl Grey Cinnamon Bun,50,58,14.0,25,Sunny,Thursday
+2026-02-20,Earl Grey Cinnamon Bun,51,59,14.0,0,Sunny,Friday
+2026-02-21,Earl Grey Cinnamon Bun,48,55,14.0,0,Sunny,Saturday
+2026-02-22,Earl Grey Cinnamon Bun,43,49,14.0,0,Cloudy,Sunday
+2026-02-26,Earl Grey Cinnamon Bun,35,38,14.0,15,Cloudy,Thursday
+2026-02-27,Earl Grey Cinnamon Bun,39,46,14.0,0,Sunny,Friday
+2026-02-28,Earl Grey Cinnamon Bun,49,58,14.0,0,Cloudy,Saturday
+2026-03-01,Earl Grey Cinnamon Bun,76,86,14.0,15,Cloudy,Sunday
+2026-03-05,Earl Grey Cinnamon Bun,37,45,14.0,0,Cloudy,Thursday
+2026-03-06,Earl Grey Cinnamon Bun,43,48,14.0,0,Sunny,Friday
+2026-03-07,Earl Grey Cinnamon Bun,62,75,14.0,0,Sunny,Saturday
+2026-03-08,Earl Grey Cinnamon Bun,54,61,14.0,0,Cloudy,Sunday
+2026-03-12,Earl Grey Cinnamon Bun,41,50,14.0,0,Sunny,Thursday
+2026-03-13,Earl Grey Cinnamon Bun,49,56,14.0,10,Rainy,Friday
+2026-03-14,Earl Grey Cinnamon Bun,66,79,14.0,0,Sunny,Saturday
+2026-03-15,Earl Grey Cinnamon Bun,65,75,14.0,0,Sunny,Sunday
+2026-03-19,Earl Grey Cinnamon Bun,36,42,14.0,0,Cloudy,Thursday
+2026-03-20,Earl Grey Cinnamon Bun,39,45,14.0,0,Cloudy,Friday
+2026-03-21,Earl Grey Cinnamon Bun,56,65,14.0,0,Rainy,Saturday
+2026-03-22,Earl Grey Cinnamon Bun,91,103,14.0,25,Sunny,Sunday
+2026-03-26,Earl Grey Cinnamon Bun,38,43,14.0,0,Sunny,Thursday
+2026-03-27,Earl Grey Cinnamon Bun,45,53,14.0,0,Cloudy,Friday
+2026-03-28,Earl Grey Cinnamon Bun,64,76,14.0,0,Sunny,Saturday
+2026-03-29,Earl Grey Cinnamon Bun,62,75,14.0,0,Cloudy,Sunday
+2026-04-02,Earl Grey Cinnamon Bun,43,49,14.0,0,Cloudy,Thursday
+2026-04-03,Earl Grey Cinnamon Bun,46,51,14.0,0,Rainy,Friday
+2026-04-04,Earl Grey Cinnamon Bun,82,97,14.0,0,Sunny,Saturday
+2026-04-05,Earl Grey Cinnamon Bun,69,76,14.0,0,Rainy,Sunday
+2026-04-09,Earl Grey Cinnamon Bun,42,47,14.0,0,Sunny,Thursday
+2026-04-10,Earl Grey Cinnamon Bun,61,72,14.0,25,Sunny,Friday
+2026-04-11,Earl Grey Cinnamon Bun,86,95,14.0,0,Sunny,Saturday
+2026-04-12,Earl Grey Cinnamon Bun,62,74,14.0,0,Cloudy,Sunday
+2026-04-16,Earl Grey Cinnamon Bun,37,43,14.0,0,Sunny,Thursday
+2026-04-17,Earl Grey Cinnamon Bun,46,52,14.0,0,Sunny,Friday
+2026-04-18,Earl Grey Cinnamon Bun,62,75,14.0,0,Cloudy,Saturday
+2026-04-19,Earl Grey Cinnamon Bun,62,74,14.0,0,Cloudy,Sunday
+2026-04-23,Earl Grey Cinnamon Bun,43,52,14.0,25,Sunny,Thursday
+2026-04-24,Earl Grey Cinnamon Bun,39,46,14.0,0,Cloudy,Friday
+2026-04-25,Earl Grey Cinnamon Bun,63,75,14.0,0,Sunny,Saturday
+2026-04-26,Earl Grey Cinnamon Bun,88,100,14.0,15,Sunny,Sunday
+2026-04-30,Earl Grey Cinnamon Bun,52,63,14.0,0,Sunny,Thursday
+2026-05-01,Earl Grey Cinnamon Bun,37,45,14.0,0,Rainy,Friday
+2026-05-02,Earl Grey Cinnamon Bun,63,74,14.0,0,Sunny,Saturday
+2026-05-03,Earl Grey Cinnamon Bun,46,53,14.0,0,Rainy,Sunday
+2026-05-07,Earl Grey Cinnamon Bun,32,37,14.0,0,Sunny,Thursday
+2026-05-08,Earl Grey Cinnamon Bun,54,63,14.0,0,Sunny,Friday
+2026-05-09,Earl Grey Cinnamon Bun,74,85,14.0,0,Cloudy,Saturday
+2026-05-10,Earl Grey Cinnamon Bun,105,126,14.0,0,Sunny,Sunday
+2026-05-14,Earl Grey Cinnamon Bun,33,39,14.0,0,Rainy,Thursday
+2026-05-15,Earl Grey Cinnamon Bun,49,56,14.0,0,Sunny,Friday
+2026-05-16,Earl Grey Cinnamon Bun,82,98,14.0,0,Sunny,Saturday
+2026-05-17,Earl Grey Cinnamon Bun,70,85,14.0,0,Sunny,Sunday
+2025-01-02,Dubai Chocolate Kunafa Brownie,33,36,22.0,0,Sunny,Thursday
+2025-01-03,Dubai Chocolate Kunafa Brownie,33,38,22.0,0,Sunny,Friday
+2025-01-04,Dubai Chocolate Kunafa Brownie,49,54,22.0,0,Rainy,Saturday
+2025-01-05,Dubai Chocolate Kunafa Brownie,56,67,22.0,0,Sunny,Sunday
+2025-01-09,Dubai Chocolate Kunafa Brownie,28,34,22.0,0,Sunny,Thursday
+2025-01-10,Dubai Chocolate Kunafa Brownie,35,41,22.0,0,Rainy,Friday
+2025-01-11,Dubai Chocolate Kunafa Brownie,65,78,22.0,0,Sunny,Saturday
+2025-01-12,Dubai Chocolate Kunafa Brownie,47,55,22.0,0,Rainy,Sunday
+2025-01-16,Dubai Chocolate Kunafa Brownie,29,34,22.0,0,Cloudy,Thursday
+2025-01-17,Dubai Chocolate Kunafa Brownie,38,43,22.0,0,Cloudy,Friday
+2025-01-18,Dubai Chocolate Kunafa Brownie,71,84,22.0,0,Sunny,Saturday
+2025-01-19,Dubai Chocolate Kunafa Brownie,73,81,22.0,0,Sunny,Sunday
+2025-01-23,Dubai Chocolate Kunafa Brownie,41,49,22.0,0,Sunny,Thursday
+2025-01-24,Dubai Chocolate Kunafa Brownie,33,41,22.0,0,Rainy,Friday
+2025-01-25,Dubai Chocolate Kunafa Brownie,65,75,22.0,0,Sunny,Saturday
+2025-01-26,Dubai Chocolate Kunafa Brownie,66,79,22.0,10,Sunny,Sunday
+2025-01-30,Dubai Chocolate Kunafa Brownie,33,38,22.0,0,Cloudy,Thursday
+2025-01-31,Dubai Chocolate Kunafa Brownie,31,37,22.0,0,Sunny,Friday
+2025-02-01,Dubai Chocolate Kunafa Brownie,58,64,22.0,0,Cloudy,Saturday
+2025-02-02,Dubai Chocolate Kunafa Brownie,55,63,22.0,0,Rainy,Sunday
+2025-02-06,Dubai Chocolate Kunafa Brownie,39,46,22.0,0,Sunny,Thursday
+2025-02-07,Dubai Chocolate Kunafa Brownie,41,48,22.0,0,Sunny,Friday
+2025-02-08,Dubai Chocolate Kunafa Brownie,84,93,22.0,0,Sunny,Saturday
+2025-02-09,Dubai Chocolate Kunafa Brownie,83,95,22.0,0,Cloudy,Sunday
+2025-02-13,Dubai Chocolate Kunafa Brownie,57,69,22.0,0,Sunny,Thursday
+2025-02-14,Dubai Chocolate Kunafa Brownie,53,65,22.0,15,Rainy,Friday
+2025-02-15,Dubai Chocolate Kunafa Brownie,55,65,22.0,0,Sunny,Saturday
+2025-02-16,Dubai Chocolate Kunafa Brownie,77,90,22.0,15,Sunny,Sunday
+2025-02-20,Dubai Chocolate Kunafa Brownie,36,41,22.0,0,Sunny,Thursday
+2025-02-21,Dubai Chocolate Kunafa Brownie,43,52,22.0,0,Cloudy,Friday
+2025-02-22,Dubai Chocolate Kunafa Brownie,57,66,22.0,0,Rainy,Saturday
+2025-02-23,Dubai Chocolate Kunafa Brownie,56,63,22.0,0,Cloudy,Sunday
+2025-02-27,Dubai Chocolate Kunafa Brownie,27,33,22.0,0,Cloudy,Thursday
+2025-02-28,Dubai Chocolate Kunafa Brownie,41,46,22.0,0,Sunny,Friday
+2025-03-01,Dubai Chocolate Kunafa Brownie,78,94,22.0,0,Sunny,Saturday
+2025-03-02,Dubai Chocolate Kunafa Brownie,82,92,22.0,0,Sunny,Sunday
+2025-03-06,Dubai Chocolate Kunafa Brownie,38,46,22.0,0,Cloudy,Thursday
+2025-03-07,Dubai Chocolate Kunafa Brownie,43,50,22.0,0,Sunny,Friday
+2025-03-08,Dubai Chocolate Kunafa Brownie,85,100,22.0,0,Sunny,Saturday
+2025-03-09,Dubai Chocolate Kunafa Brownie,81,92,22.0,0,Sunny,Sunday
+2025-03-13,Dubai Chocolate Kunafa Brownie,28,32,22.0,0,Rainy,Thursday
+2025-03-14,Dubai Chocolate Kunafa Brownie,48,56,22.0,0,Sunny,Friday
+2025-03-15,Dubai Chocolate Kunafa Brownie,83,98,22.0,0,Sunny,Saturday
+2025-03-16,Dubai Chocolate Kunafa Brownie,78,92,22.0,0,Sunny,Sunday
+2025-03-20,Dubai Chocolate Kunafa Brownie,39,45,22.0,0,Sunny,Thursday
+2025-03-21,Dubai Chocolate Kunafa Brownie,50,58,22.0,0,Sunny,Friday
+2025-03-22,Dubai Chocolate Kunafa Brownie,80,92,22.0,0,Cloudy,Saturday
+2025-03-23,Dubai Chocolate Kunafa Brownie,70,80,22.0,0,Cloudy,Sunday
+2025-03-27,Dubai Chocolate Kunafa Brownie,28,31,22.0,0,Rainy,Thursday
+2025-03-28,Dubai Chocolate Kunafa Brownie,48,53,22.0,0,Sunny,Friday
+2025-03-29,Dubai Chocolate Kunafa Brownie,107,123,22.0,0,Sunny,Saturday
+2025-03-30,Dubai Chocolate Kunafa Brownie,52,60,22.0,0,Rainy,Sunday
+2025-04-03,Dubai Chocolate Kunafa Brownie,37,44,22.0,0,Sunny,Thursday
+2025-04-04,Dubai Chocolate Kunafa Brownie,44,48,22.0,0,Sunny,Friday
+2025-04-05,Dubai Chocolate Kunafa Brownie,59,66,22.0,0,Sunny,Saturday
+2025-04-06,Dubai Chocolate Kunafa Brownie,61,72,22.0,0,Cloudy,Sunday
+2025-04-10,Dubai Chocolate Kunafa Brownie,32,38,22.0,0,Rainy,Thursday
+2025-04-11,Dubai Chocolate Kunafa Brownie,55,66,22.0,0,Sunny,Friday
+2025-04-12,Dubai Chocolate Kunafa Brownie,87,97,22.0,0,Sunny,Saturday
+2025-04-13,Dubai Chocolate Kunafa Brownie,75,89,22.0,0,Cloudy,Sunday
+2025-04-17,Dubai Chocolate Kunafa Brownie,37,44,22.0,0,Cloudy,Thursday
+2025-04-18,Dubai Chocolate Kunafa Brownie,63,73,22.0,25,Cloudy,Friday
+2025-04-19,Dubai Chocolate Kunafa Brownie,72,88,22.0,25,Cloudy,Saturday
+2025-04-20,Dubai Chocolate Kunafa Brownie,79,93,22.0,10,Sunny,Sunday
+2025-04-24,Dubai Chocolate Kunafa Brownie,27,32,22.0,0,Rainy,Thursday
+2025-04-25,Dubai Chocolate Kunafa Brownie,41,46,22.0,0,Cloudy,Friday
+2025-04-26,Dubai Chocolate Kunafa Brownie,89,100,22.0,0,Sunny,Saturday
+2025-04-27,Dubai Chocolate Kunafa Brownie,55,62,22.0,0,Rainy,Sunday
+2025-05-01,Dubai Chocolate Kunafa Brownie,44,52,22.0,0,Sunny,Thursday
+2025-05-02,Dubai Chocolate Kunafa Brownie,52,57,22.0,0,Sunny,Friday
+2025-05-03,Dubai Chocolate Kunafa Brownie,70,77,22.0,0,Cloudy,Saturday
+2025-05-04,Dubai Chocolate Kunafa Brownie,77,93,22.0,0,Sunny,Sunday
+2025-05-08,Dubai Chocolate Kunafa Brownie,44,53,22.0,0,Sunny,Thursday
+2025-05-09,Dubai Chocolate Kunafa Brownie,52,62,22.0,0,Sunny,Friday
+2025-05-10,Dubai Chocolate Kunafa Brownie,80,89,22.0,0,Sunny,Saturday
+2025-05-11,Dubai Chocolate Kunafa Brownie,91,109,22.0,0,Cloudy,Sunday
+2025-05-15,Dubai Chocolate Kunafa Brownie,40,44,22.0,0,Sunny,Thursday
+2025-05-16,Dubai Chocolate Kunafa Brownie,51,58,22.0,0,Sunny,Friday
+2025-05-17,Dubai Chocolate Kunafa Brownie,67,79,22.0,0,Cloudy,Saturday
+2025-05-18,Dubai Chocolate Kunafa Brownie,61,67,22.0,0,Cloudy,Sunday
+2025-05-22,Dubai Chocolate Kunafa Brownie,36,43,22.0,0,Sunny,Thursday
+2025-05-23,Dubai Chocolate Kunafa Brownie,41,46,22.0,0,Rainy,Friday
+2025-05-24,Dubai Chocolate Kunafa Brownie,80,96,22.0,0,Cloudy,Saturday
+2025-05-25,Dubai Chocolate Kunafa Brownie,69,81,22.0,0,Rainy,Sunday
+2025-05-29,Dubai Chocolate Kunafa Brownie,50,56,22.0,0,Sunny,Thursday
+2025-05-30,Dubai Chocolate Kunafa Brownie,55,63,22.0,0,Sunny,Friday
+2025-05-31,Dubai Chocolate Kunafa Brownie,83,94,22.0,0,Sunny,Saturday
+2025-06-01,Dubai Chocolate Kunafa Brownie,68,76,22.0,0,Cloudy,Sunday
+2025-06-05,Dubai Chocolate Kunafa Brownie,28,33,22.0,0,Rainy,Thursday
+2025-06-06,Dubai Chocolate Kunafa Brownie,46,51,22.0,0,Sunny,Friday
+2025-06-07,Dubai Chocolate Kunafa Brownie,71,86,22.0,0,Cloudy,Saturday
+2025-06-08,Dubai Chocolate Kunafa Brownie,61,68,22.0,0,Rainy,Sunday
+2025-06-12,Dubai Chocolate Kunafa Brownie,33,40,22.0,0,Cloudy,Thursday
+2025-06-13,Dubai Chocolate Kunafa Brownie,69,80,22.0,25,Sunny,Friday
+2025-06-14,Dubai Chocolate Kunafa Brownie,71,83,22.0,0,Cloudy,Saturday
+2025-06-15,Dubai Chocolate Kunafa Brownie,48,56,22.0,0,Rainy,Sunday
+2025-06-19,Dubai Chocolate Kunafa Brownie,27,32,22.0,0,Rainy,Thursday
+2025-06-20,Dubai Chocolate Kunafa Brownie,48,53,22.0,0,Cloudy,Friday
+2025-06-21,Dubai Chocolate Kunafa Brownie,80,95,22.0,0,Rainy,Saturday
+2025-06-22,Dubai Chocolate Kunafa Brownie,92,103,22.0,0,Sunny,Sunday
+2025-06-26,Dubai Chocolate Kunafa Brownie,41,49,22.0,25,Rainy,Thursday
+2025-06-27,Dubai Chocolate Kunafa Brownie,57,66,22.0,0,Sunny,Friday
+2025-06-28,Dubai Chocolate Kunafa Brownie,65,72,22.0,0,Rainy,Saturday
+2025-06-29,Dubai Chocolate Kunafa Brownie,81,93,22.0,0,Sunny,Sunday
+2025-07-03,Dubai Chocolate Kunafa Brownie,56,66,22.0,0,Sunny,Thursday
+2025-07-04,Dubai Chocolate Kunafa Brownie,61,73,22.0,0,Cloudy,Friday
+2025-07-05,Dubai Chocolate Kunafa Brownie,88,97,22.0,0,Cloudy,Saturday
+2025-07-06,Dubai Chocolate Kunafa Brownie,84,98,22.0,0,Cloudy,Sunday
+2025-07-10,Dubai Chocolate Kunafa Brownie,43,47,22.0,0,Cloudy,Thursday
+2025-07-11,Dubai Chocolate Kunafa Brownie,57,69,22.0,0,Sunny,Friday
+2025-07-12,Dubai Chocolate Kunafa Brownie,73,86,22.0,0,Rainy,Saturday
+2025-07-13,Dubai Chocolate Kunafa Brownie,73,81,22.0,0,Cloudy,Sunday
+2025-07-17,Dubai Chocolate Kunafa Brownie,41,46,22.0,0,Sunny,Thursday
+2025-07-18,Dubai Chocolate Kunafa Brownie,53,62,22.0,0,Cloudy,Friday
+2025-07-19,Dubai Chocolate Kunafa Brownie,71,81,22.0,0,Rainy,Saturday
+2025-07-20,Dubai Chocolate Kunafa Brownie,86,96,22.0,0,Sunny,Sunday
+2025-07-24,Dubai Chocolate Kunafa Brownie,42,50,22.0,0,Sunny,Thursday
+2025-07-25,Dubai Chocolate Kunafa Brownie,57,68,22.0,0,Sunny,Friday
+2025-07-26,Dubai Chocolate Kunafa Brownie,66,74,22.0,0,Rainy,Saturday
+2025-07-27,Dubai Chocolate Kunafa Brownie,90,103,22.0,0,Cloudy,Sunday
+2025-07-31,Dubai Chocolate Kunafa Brownie,48,54,22.0,0,Cloudy,Thursday
+2025-08-01,Dubai Chocolate Kunafa Brownie,51,61,22.0,0,Cloudy,Friday
+2025-08-02,Dubai Chocolate Kunafa Brownie,93,109,22.0,0,Sunny,Saturday
+2025-08-03,Dubai Chocolate Kunafa Brownie,71,84,22.0,0,Rainy,Sunday
+2025-08-07,Dubai Chocolate Kunafa Brownie,36,40,22.0,0,Rainy,Thursday
+2025-08-08,Dubai Chocolate Kunafa Brownie,54,60,22.0,15,Rainy,Friday
+2025-08-09,Dubai Chocolate Kunafa Brownie,95,114,22.0,0,Sunny,Saturday
+2025-08-10,Dubai Chocolate Kunafa Brownie,80,96,22.0,0,Sunny,Sunday
+2025-08-14,Dubai Chocolate Kunafa Brownie,43,48,22.0,0,Sunny,Thursday
+2025-08-15,Dubai Chocolate Kunafa Brownie,41,46,22.0,0,Rainy,Friday
+2025-08-16,Dubai Chocolate Kunafa Brownie,91,107,22.0,0,Sunny,Saturday
+2025-08-17,Dubai Chocolate Kunafa Brownie,117,136,22.0,20,Sunny,Sunday
+2025-08-21,Dubai Chocolate Kunafa Brownie,39,46,22.0,0,Cloudy,Thursday
+2025-08-22,Dubai Chocolate Kunafa Brownie,37,44,22.0,0,Cloudy,Friday
+2025-08-23,Dubai Chocolate Kunafa Brownie,110,133,22.0,20,Cloudy,Saturday
+2025-08-24,Dubai Chocolate Kunafa Brownie,85,102,22.0,0,Sunny,Sunday
+2025-08-28,Dubai Chocolate Kunafa Brownie,35,39,22.0,0,Cloudy,Thursday
+2025-08-29,Dubai Chocolate Kunafa Brownie,66,74,22.0,0,Sunny,Friday
+2025-08-30,Dubai Chocolate Kunafa Brownie,97,116,22.0,0,Sunny,Saturday
+2025-08-31,Dubai Chocolate Kunafa Brownie,88,107,22.0,0,Sunny,Sunday
+2025-09-04,Dubai Chocolate Kunafa Brownie,43,50,22.0,0,Cloudy,Thursday
+2025-09-05,Dubai Chocolate Kunafa Brownie,59,71,22.0,0,Sunny,Friday
+2025-09-06,Dubai Chocolate Kunafa Brownie,108,129,22.0,0,Sunny,Saturday
+2025-09-07,Dubai Chocolate Kunafa Brownie,82,94,22.0,0,Sunny,Sunday
+2025-09-11,Dubai Chocolate Kunafa Brownie,32,38,22.0,0,Cloudy,Thursday
+2025-09-12,Dubai Chocolate Kunafa Brownie,42,51,22.0,0,Sunny,Friday
+2025-09-13,Dubai Chocolate Kunafa Brownie,68,78,22.0,0,Cloudy,Saturday
+2025-09-14,Dubai Chocolate Kunafa Brownie,71,86,22.0,0,Cloudy,Sunday
+2025-09-18,Dubai Chocolate Kunafa Brownie,35,41,22.0,0,Cloudy,Thursday
+2025-09-19,Dubai Chocolate Kunafa Brownie,55,62,22.0,0,Cloudy,Friday
+2025-09-20,Dubai Chocolate Kunafa Brownie,72,83,22.0,0,Cloudy,Saturday
+2025-09-21,Dubai Chocolate Kunafa Brownie,79,91,22.0,0,Sunny,Sunday
+2025-09-25,Dubai Chocolate Kunafa Brownie,26,30,22.0,0,Rainy,Thursday
+2025-09-26,Dubai Chocolate Kunafa Brownie,54,64,22.0,0,Sunny,Friday
+2025-09-27,Dubai Chocolate Kunafa Brownie,87,101,22.0,0,Cloudy,Saturday
+2025-09-28,Dubai Chocolate Kunafa Brownie,86,101,22.0,0,Cloudy,Sunday
+2025-10-02,Dubai Chocolate Kunafa Brownie,40,49,22.0,0,Cloudy,Thursday
+2025-10-03,Dubai Chocolate Kunafa Brownie,46,52,22.0,0,Cloudy,Friday
+2025-10-04,Dubai Chocolate Kunafa Brownie,72,80,22.0,0,Rainy,Saturday
+2025-10-05,Dubai Chocolate Kunafa Brownie,92,103,22.0,0,Sunny,Sunday
+2025-10-09,Dubai Chocolate Kunafa Brownie,52,64,22.0,0,Sunny,Thursday
+2025-10-10,Dubai Chocolate Kunafa Brownie,71,82,22.0,0,Sunny,Friday
+2025-10-11,Dubai Chocolate Kunafa Brownie,83,99,22.0,0,Sunny,Saturday
+2025-10-12,Dubai Chocolate Kunafa Brownie,61,74,22.0,0,Rainy,Sunday
+2025-10-16,Dubai Chocolate Kunafa Brownie,51,57,22.0,15,Cloudy,Thursday
+2025-10-17,Dubai Chocolate Kunafa Brownie,62,71,22.0,0,Sunny,Friday
+2025-10-18,Dubai Chocolate Kunafa Brownie,85,102,22.0,0,Rainy,Saturday
+2025-10-19,Dubai Chocolate Kunafa Brownie,94,104,22.0,0,Sunny,Sunday
+2025-10-23,Dubai Chocolate Kunafa Brownie,30,36,22.0,0,Rainy,Thursday
+2025-10-24,Dubai Chocolate Kunafa Brownie,52,59,22.0,0,Cloudy,Friday
+2025-10-25,Dubai Chocolate Kunafa Brownie,99,120,22.0,0,Sunny,Saturday
+2025-10-26,Dubai Chocolate Kunafa Brownie,85,103,22.0,0,Cloudy,Sunday
+2025-10-30,Dubai Chocolate Kunafa Brownie,39,44,22.0,0,Rainy,Thursday
+2025-10-31,Dubai Chocolate Kunafa Brownie,57,68,22.0,0,Sunny,Friday
+2025-11-01,Dubai Chocolate Kunafa Brownie,99,113,22.0,0,Sunny,Saturday
+2025-11-02,Dubai Chocolate Kunafa Brownie,65,78,22.0,0,Rainy,Sunday
+2025-11-06,Dubai Chocolate Kunafa Brownie,32,37,22.0,0,Rainy,Thursday
+2025-11-07,Dubai Chocolate Kunafa Brownie,43,50,22.0,0,Cloudy,Friday
+2025-11-08,Dubai Chocolate Kunafa Brownie,72,83,22.0,0,Rainy,Saturday
+2025-11-09,Dubai Chocolate Kunafa Brownie,91,109,22.0,0,Sunny,Sunday
+2025-11-13,Dubai Chocolate Kunafa Brownie,51,60,22.0,0,Sunny,Thursday
+2025-11-14,Dubai Chocolate Kunafa Brownie,71,85,22.0,0,Sunny,Friday
+2025-11-15,Dubai Chocolate Kunafa Brownie,113,127,22.0,0,Sunny,Saturday
+2025-11-16,Dubai Chocolate Kunafa Brownie,92,106,22.0,0,Cloudy,Sunday
+2025-11-20,Dubai Chocolate Kunafa Brownie,38,46,22.0,0,Rainy,Thursday
+2025-11-21,Dubai Chocolate Kunafa Brownie,74,89,22.0,0,Sunny,Friday
+2025-11-22,Dubai Chocolate Kunafa Brownie,102,117,22.0,0,Sunny,Saturday
+2025-11-23,Dubai Chocolate Kunafa Brownie,116,140,22.0,10,Sunny,Sunday
+2025-11-27,Dubai Chocolate Kunafa Brownie,41,46,22.0,0,Rainy,Thursday
+2025-11-28,Dubai Chocolate Kunafa Brownie,54,60,22.0,0,Cloudy,Friday
+2025-11-29,Dubai Chocolate Kunafa Brownie,80,92,22.0,0,Rainy,Saturday
+2025-11-30,Dubai Chocolate Kunafa Brownie,100,112,22.0,0,Sunny,Sunday
+2025-12-04,Dubai Chocolate Kunafa Brownie,45,53,22.0,0,Sunny,Thursday
+2025-12-05,Dubai Chocolate Kunafa Brownie,65,77,22.0,0,Sunny,Friday
+2025-12-06,Dubai Chocolate Kunafa Brownie,75,86,22.0,0,Rainy,Saturday
+2025-12-07,Dubai Chocolate Kunafa Brownie,100,116,22.0,0,Sunny,Sunday
+2025-12-11,Dubai Chocolate Kunafa Brownie,50,55,22.0,0,Sunny,Thursday
+2025-12-12,Dubai Chocolate Kunafa Brownie,62,71,22.0,0,Sunny,Friday
+2025-12-13,Dubai Chocolate Kunafa Brownie,108,123,22.0,0,Sunny,Saturday
+2025-12-14,Dubai Chocolate Kunafa Brownie,102,113,22.0,0,Sunny,Sunday
+2025-12-18,Dubai Chocolate Kunafa Brownie,47,55,22.0,0,Sunny,Thursday
+2025-12-19,Dubai Chocolate Kunafa Brownie,54,64,22.0,0,Cloudy,Friday
+2025-12-20,Dubai Chocolate Kunafa Brownie,103,119,22.0,0,Sunny,Saturday
+2025-12-21,Dubai Chocolate Kunafa Brownie,89,99,22.0,10,Sunny,Sunday
+2025-12-25,Dubai Chocolate Kunafa Brownie,51,58,22.0,0,Sunny,Thursday
+2025-12-26,Dubai Chocolate Kunafa Brownie,66,76,22.0,0,Rainy,Friday
+2025-12-27,Dubai Chocolate Kunafa Brownie,96,111,22.0,20,Cloudy,Saturday
+2025-12-28,Dubai Chocolate Kunafa Brownie,73,87,22.0,0,Sunny,Sunday
+2026-01-01,Dubai Chocolate Kunafa Brownie,33,38,22.0,0,Cloudy,Thursday
+2026-01-02,Dubai Chocolate Kunafa Brownie,48,55,22.0,0,Rainy,Friday
+2026-01-03,Dubai Chocolate Kunafa Brownie,94,109,22.0,0,Cloudy,Saturday
+2026-01-04,Dubai Chocolate Kunafa Brownie,90,106,22.0,0,Cloudy,Sunday
+2026-01-08,Dubai Chocolate Kunafa Brownie,50,58,22.0,10,Cloudy,Thursday
+2026-01-09,Dubai Chocolate Kunafa Brownie,58,70,22.0,0,Sunny,Friday
+2026-01-10,Dubai Chocolate Kunafa Brownie,104,124,22.0,0,Sunny,Saturday
+2026-01-11,Dubai Chocolate Kunafa Brownie,110,133,22.0,0,Sunny,Sunday
+2026-01-15,Dubai Chocolate Kunafa Brownie,50,59,22.0,0,Sunny,Thursday
+2026-01-16,Dubai Chocolate Kunafa Brownie,57,64,22.0,0,Sunny,Friday
+2026-01-17,Dubai Chocolate Kunafa Brownie,92,103,22.0,0,Sunny,Saturday
+2026-01-18,Dubai Chocolate Kunafa Brownie,75,89,22.0,0,Sunny,Sunday
+2026-01-22,Dubai Chocolate Kunafa Brownie,38,45,22.0,0,Sunny,Thursday
+2026-01-23,Dubai Chocolate Kunafa Brownie,39,48,22.0,0,Rainy,Friday
+2026-01-24,Dubai Chocolate Kunafa Brownie,76,93,22.0,0,Cloudy,Saturday
+2026-01-25,Dubai Chocolate Kunafa Brownie,81,99,22.0,0,Cloudy,Sunday
+2026-01-29,Dubai Chocolate Kunafa Brownie,62,74,22.0,20,Sunny,Thursday
+2026-01-30,Dubai Chocolate Kunafa Brownie,65,75,22.0,0,Sunny,Friday
+2026-01-31,Dubai Chocolate Kunafa Brownie,117,142,22.0,20,Sunny,Saturday
+2026-02-01,Dubai Chocolate Kunafa Brownie,77,88,22.0,0,Cloudy,Sunday
+2026-02-05,Dubai Chocolate Kunafa Brownie,44,50,22.0,0,Cloudy,Thursday
+2026-02-06,Dubai Chocolate Kunafa Brownie,60,68,22.0,0,Cloudy,Friday
+2026-02-07,Dubai Chocolate Kunafa Brownie,98,117,22.0,0,Cloudy,Saturday
+2026-02-08,Dubai Chocolate Kunafa Brownie,100,116,22.0,0,Sunny,Sunday
+2026-02-12,Dubai Chocolate Kunafa Brownie,72,86,22.0,0,Sunny,Thursday
+2026-02-13,Dubai Chocolate Kunafa Brownie,128,154,22.0,25,Cloudy,Friday
+2026-02-14,Dubai Chocolate Kunafa Brownie,210,245,22.0,15,Sunny,Saturday
+2026-02-15,Dubai Chocolate Kunafa Brownie,134,156,22.0,25,Cloudy,Sunday
+2026-02-19,Dubai Chocolate Kunafa Brownie,57,64,22.0,0,Sunny,Thursday
+2026-02-20,Dubai Chocolate Kunafa Brownie,83,100,22.0,0,Sunny,Friday
+2026-02-21,Dubai Chocolate Kunafa Brownie,99,112,22.0,0,Sunny,Saturday
+2026-02-22,Dubai Chocolate Kunafa Brownie,86,102,22.0,0,Cloudy,Sunday
+2026-02-26,Dubai Chocolate Kunafa Brownie,58,68,22.0,20,Cloudy,Thursday
+2026-02-27,Dubai Chocolate Kunafa Brownie,58,65,22.0,0,Sunny,Friday
+2026-02-28,Dubai Chocolate Kunafa Brownie,82,99,22.0,0,Cloudy,Saturday
+2026-03-01,Dubai Chocolate Kunafa Brownie,81,94,22.0,0,Cloudy,Sunday
+2026-03-05,Dubai Chocolate Kunafa Brownie,49,55,22.0,0,Cloudy,Thursday
+2026-03-06,Dubai Chocolate Kunafa Brownie,68,77,22.0,0,Sunny,Friday
+2026-03-07,Dubai Chocolate Kunafa Brownie,80,93,22.0,0,Sunny,Saturday
+2026-03-08,Dubai Chocolate Kunafa Brownie,74,82,22.0,0,Cloudy,Sunday
+2026-03-12,Dubai Chocolate Kunafa Brownie,62,73,22.0,0,Sunny,Thursday
+2026-03-13,Dubai Chocolate Kunafa Brownie,48,53,22.0,0,Rainy,Friday
+2026-03-14,Dubai Chocolate Kunafa Brownie,141,170,22.0,25,Sunny,Saturday
+2026-03-15,Dubai Chocolate Kunafa Brownie,107,129,22.0,15,Sunny,Sunday
+2026-03-19,Dubai Chocolate Kunafa Brownie,41,47,22.0,0,Cloudy,Thursday
+2026-03-20,Dubai Chocolate Kunafa Brownie,58,66,22.0,0,Cloudy,Friday
+2026-03-21,Dubai Chocolate Kunafa Brownie,73,87,22.0,0,Rainy,Saturday
+2026-03-22,Dubai Chocolate Kunafa Brownie,95,113,22.0,0,Sunny,Sunday
+2026-03-26,Dubai Chocolate Kunafa Brownie,53,62,22.0,0,Sunny,Thursday
+2026-03-27,Dubai Chocolate Kunafa Brownie,64,77,22.0,0,Cloudy,Friday
+2026-03-28,Dubai Chocolate Kunafa Brownie,126,142,22.0,0,Sunny,Saturday
+2026-03-29,Dubai Chocolate Kunafa Brownie,111,123,22.0,0,Cloudy,Sunday
+2026-04-02,Dubai Chocolate Kunafa Brownie,62,70,22.0,0,Cloudy,Thursday
+2026-04-03,Dubai Chocolate Kunafa Brownie,43,51,22.0,0,Rainy,Friday
+2026-04-04,Dubai Chocolate Kunafa Brownie,116,138,22.0,15,Sunny,Saturday
+2026-04-05,Dubai Chocolate Kunafa Brownie,69,83,22.0,0,Rainy,Sunday
+2026-04-09,Dubai Chocolate Kunafa Brownie,84,95,22.0,25,Sunny,Thursday
+2026-04-10,Dubai Chocolate Kunafa Brownie,76,92,22.0,0,Sunny,Friday
+2026-04-11,Dubai Chocolate Kunafa Brownie,127,147,22.0,0,Sunny,Saturday
+2026-04-12,Dubai Chocolate Kunafa Brownie,114,125,22.0,0,Cloudy,Sunday
+2026-04-16,Dubai Chocolate Kunafa Brownie,67,79,22.0,0,Sunny,Thursday
+2026-04-17,Dubai Chocolate Kunafa Brownie,70,79,22.0,0,Sunny,Friday
+2026-04-18,Dubai Chocolate Kunafa Brownie,100,118,22.0,0,Cloudy,Saturday
+2026-04-19,Dubai Chocolate Kunafa Brownie,126,150,22.0,10,Cloudy,Sunday
+2026-04-23,Dubai Chocolate Kunafa Brownie,51,62,22.0,0,Sunny,Thursday
+2026-04-24,Dubai Chocolate Kunafa Brownie,61,69,22.0,0,Cloudy,Friday
+2026-04-25,Dubai Chocolate Kunafa Brownie,159,179,22.0,25,Sunny,Saturday
+2026-04-26,Dubai Chocolate Kunafa Brownie,78,89,22.0,0,Sunny,Sunday
+2026-04-30,Dubai Chocolate Kunafa Brownie,38,44,22.0,0,Sunny,Thursday
+2026-05-01,Dubai Chocolate Kunafa Brownie,50,59,22.0,0,Rainy,Friday
+2026-05-02,Dubai Chocolate Kunafa Brownie,106,122,22.0,0,Sunny,Saturday
+2026-05-03,Dubai Chocolate Kunafa Brownie,87,100,22.0,10,Rainy,Sunday
+2026-05-07,Dubai Chocolate Kunafa Brownie,51,56,22.0,0,Sunny,Thursday
+2026-05-08,Dubai Chocolate Kunafa Brownie,59,70,22.0,0,Sunny,Friday
+2026-05-09,Dubai Chocolate Kunafa Brownie,98,116,22.0,0,Cloudy,Saturday
+2026-05-10,Dubai Chocolate Kunafa Brownie,211,249,22.0,20,Sunny,Sunday
+2026-05-14,Dubai Chocolate Kunafa Brownie,57,68,22.0,0,Rainy,Thursday
+2026-05-15,Dubai Chocolate Kunafa Brownie,83,94,22.0,0,Sunny,Friday
+2026-05-16,Dubai Chocolate Kunafa Brownie,142,169,22.0,0,Sunny,Saturday
+2026-05-17,Dubai Chocolate Kunafa Brownie,137,166,22.0,25,Sunny,Sunday
+2025-01-02,Carrot Cake,12,14,16.0,0,Sunny,Thursday
+2025-01-03,Carrot Cake,16,19,16.0,0,Sunny,Friday
+2025-01-04,Carrot Cake,28,33,16.0,25,Rainy,Saturday
+2025-01-05,Carrot Cake,34,41,16.0,25,Sunny,Sunday
+2025-01-09,Carrot Cake,17,20,16.0,0,Sunny,Thursday
+2025-01-10,Carrot Cake,18,21,16.0,0,Rainy,Friday
+2025-01-11,Carrot Cake,21,25,16.0,0,Sunny,Saturday
+2025-01-12,Carrot Cake,18,20,16.0,0,Rainy,Sunday
+2025-01-16,Carrot Cake,13,15,16.0,0,Cloudy,Thursday
+2025-01-17,Carrot Cake,20,24,16.0,10,Cloudy,Friday
+2025-01-18,Carrot Cake,26,32,16.0,0,Sunny,Saturday
+2025-01-19,Carrot Cake,25,30,16.0,0,Sunny,Sunday
+2025-01-23,Carrot Cake,13,15,16.0,0,Sunny,Thursday
+2025-01-24,Carrot Cake,17,19,16.0,0,Rainy,Friday
+2025-01-25,Carrot Cake,28,34,16.0,0,Sunny,Saturday
+2025-01-26,Carrot Cake,25,29,16.0,0,Sunny,Sunday
+2025-01-30,Carrot Cake,20,24,16.0,0,Cloudy,Thursday
+2025-01-31,Carrot Cake,24,28,16.0,10,Sunny,Friday
+2025-02-01,Carrot Cake,27,33,16.0,0,Cloudy,Saturday
+2025-02-02,Carrot Cake,24,27,16.0,0,Rainy,Sunday
+2025-02-06,Carrot Cake,18,21,16.0,0,Sunny,Thursday
+2025-02-07,Carrot Cake,23,27,16.0,0,Sunny,Friday
+2025-02-08,Carrot Cake,27,30,16.0,0,Sunny,Saturday
+2025-02-09,Carrot Cake,23,26,16.0,0,Cloudy,Sunday
+2025-02-13,Carrot Cake,30,37,16.0,20,Sunny,Thursday
+2025-02-14,Carrot Cake,26,29,16.0,0,Rainy,Friday
+2025-02-15,Carrot Cake,24,28,16.0,0,Sunny,Saturday
+2025-02-16,Carrot Cake,21,26,16.0,0,Sunny,Sunday
+2025-02-20,Carrot Cake,15,18,16.0,0,Sunny,Thursday
+2025-02-21,Carrot Cake,19,21,16.0,0,Cloudy,Friday
+2025-02-22,Carrot Cake,21,25,16.0,0,Rainy,Saturday
+2025-02-23,Carrot Cake,22,24,16.0,0,Cloudy,Sunday
+2025-02-27,Carrot Cake,14,16,16.0,0,Cloudy,Thursday
+2025-02-28,Carrot Cake,23,26,16.0,0,Sunny,Friday
+2025-03-01,Carrot Cake,29,32,16.0,0,Sunny,Saturday
+2025-03-02,Carrot Cake,22,26,16.0,0,Sunny,Sunday
+2025-03-06,Carrot Cake,14,17,16.0,0,Cloudy,Thursday
+2025-03-07,Carrot Cake,24,29,16.0,0,Sunny,Friday
+2025-03-08,Carrot Cake,23,28,16.0,0,Sunny,Saturday
+2025-03-09,Carrot Cake,23,26,16.0,0,Sunny,Sunday
+2025-03-13,Carrot Cake,15,17,16.0,0,Rainy,Thursday
+2025-03-14,Carrot Cake,19,23,16.0,0,Sunny,Friday
+2025-03-15,Carrot Cake,25,30,16.0,0,Sunny,Saturday
+2025-03-16,Carrot Cake,27,32,16.0,0,Sunny,Sunday
+2025-03-20,Carrot Cake,21,23,16.0,0,Sunny,Thursday
+2025-03-21,Carrot Cake,23,28,16.0,0,Sunny,Friday
+2025-03-22,Carrot Cake,24,28,16.0,0,Cloudy,Saturday
+2025-03-23,Carrot Cake,21,24,16.0,0,Cloudy,Sunday
+2025-03-27,Carrot Cake,13,15,16.0,0,Rainy,Thursday
+2025-03-28,Carrot Cake,27,30,16.0,15,Sunny,Friday
+2025-03-29,Carrot Cake,48,55,16.0,15,Sunny,Saturday
+2025-03-30,Carrot Cake,20,23,16.0,0,Rainy,Sunday
+2025-04-03,Carrot Cake,12,14,16.0,0,Sunny,Thursday
+2025-04-04,Carrot Cake,18,22,16.0,0,Sunny,Friday
+2025-04-05,Carrot Cake,27,30,16.0,0,Sunny,Saturday
+2025-04-06,Carrot Cake,22,25,16.0,0,Cloudy,Sunday
+2025-04-10,Carrot Cake,18,20,16.0,20,Rainy,Thursday
+2025-04-11,Carrot Cake,22,25,16.0,0,Sunny,Friday
+2025-04-12,Carrot Cake,23,27,16.0,0,Sunny,Saturday
+2025-04-13,Carrot Cake,24,27,16.0,0,Cloudy,Sunday
+2025-04-17,Carrot Cake,17,20,16.0,0,Cloudy,Thursday
+2025-04-18,Carrot Cake,19,23,16.0,0,Cloudy,Friday
+2025-04-19,Carrot Cake,25,29,16.0,0,Cloudy,Saturday
+2025-04-20,Carrot Cake,26,31,16.0,0,Sunny,Sunday
+2025-04-24,Carrot Cake,14,16,16.0,0,Rainy,Thursday
+2025-04-25,Carrot Cake,20,23,16.0,0,Cloudy,Friday
+2025-04-26,Carrot Cake,31,36,16.0,0,Sunny,Saturday
+2025-04-27,Carrot Cake,26,31,16.0,0,Rainy,Sunday
+2025-05-01,Carrot Cake,21,24,16.0,0,Sunny,Thursday
+2025-05-02,Carrot Cake,19,23,16.0,0,Sunny,Friday
+2025-05-03,Carrot Cake,34,40,16.0,10,Cloudy,Saturday
+2025-05-04,Carrot Cake,23,26,16.0,0,Sunny,Sunday
+2025-05-08,Carrot Cake,12,14,16.0,0,Sunny,Thursday
+2025-05-09,Carrot Cake,22,27,16.0,0,Sunny,Friday
+2025-05-10,Carrot Cake,32,38,16.0,0,Sunny,Saturday
+2025-05-11,Carrot Cake,37,44,16.0,20,Cloudy,Sunday
+2025-05-15,Carrot Cake,11,13,16.0,0,Sunny,Thursday
+2025-05-16,Carrot Cake,20,24,16.0,0,Sunny,Friday
+2025-05-17,Carrot Cake,29,34,16.0,25,Cloudy,Saturday
+2025-05-18,Carrot Cake,25,30,16.0,0,Cloudy,Sunday
+2025-05-22,Carrot Cake,23,26,16.0,10,Sunny,Thursday
+2025-05-23,Carrot Cake,19,22,16.0,0,Rainy,Friday
+2025-05-24,Carrot Cake,30,37,16.0,10,Cloudy,Saturday
+2025-05-25,Carrot Cake,20,23,16.0,0,Rainy,Sunday
+2025-05-29,Carrot Cake,13,15,16.0,0,Sunny,Thursday
+2025-05-30,Carrot Cake,22,26,16.0,0,Sunny,Friday
+2025-05-31,Carrot Cake,30,35,16.0,0,Sunny,Saturday
+2025-06-01,Carrot Cake,29,32,16.0,0,Cloudy,Sunday
+2025-06-05,Carrot Cake,19,21,16.0,0,Rainy,Thursday
+2025-06-06,Carrot Cake,27,33,16.0,0,Sunny,Friday
+2025-06-07,Carrot Cake,31,35,16.0,0,Cloudy,Saturday
+2025-06-08,Carrot Cake,22,26,16.0,0,Rainy,Sunday
+2025-06-12,Carrot Cake,20,23,16.0,10,Cloudy,Thursday
+2025-06-13,Carrot Cake,24,29,16.0,0,Sunny,Friday
+2025-06-14,Carrot Cake,31,37,16.0,0,Cloudy,Saturday
+2025-06-15,Carrot Cake,23,26,16.0,0,Rainy,Sunday
+2025-06-19,Carrot Cake,16,18,16.0,0,Rainy,Thursday
+2025-06-20,Carrot Cake,21,25,16.0,0,Cloudy,Friday
+2025-06-21,Carrot Cake,25,30,16.0,0,Rainy,Saturday
+2025-06-22,Carrot Cake,30,35,16.0,0,Sunny,Sunday
+2025-06-26,Carrot Cake,14,17,16.0,0,Rainy,Thursday
+2025-06-27,Carrot Cake,28,31,16.0,20,Sunny,Friday
+2025-06-28,Carrot Cake,25,30,16.0,0,Rainy,Saturday
+2025-06-29,Carrot Cake,25,29,16.0,0,Sunny,Sunday
+2025-07-03,Carrot Cake,15,17,16.0,0,Sunny,Thursday
+2025-07-04,Carrot Cake,22,24,16.0,0,Cloudy,Friday
+2025-07-05,Carrot Cake,25,30,16.0,0,Cloudy,Saturday
+2025-07-06,Carrot Cake,30,35,16.0,25,Cloudy,Sunday
+2025-07-10,Carrot Cake,15,17,16.0,0,Cloudy,Thursday
+2025-07-11,Carrot Cake,24,29,16.0,0,Sunny,Friday
+2025-07-12,Carrot Cake,22,26,16.0,0,Rainy,Saturday
+2025-07-13,Carrot Cake,22,26,16.0,0,Cloudy,Sunday
+2025-07-17,Carrot Cake,13,16,16.0,0,Sunny,Thursday
+2025-07-18,Carrot Cake,21,24,16.0,0,Cloudy,Friday
+2025-07-19,Carrot Cake,24,27,16.0,0,Rainy,Saturday
+2025-07-20,Carrot Cake,27,32,16.0,0,Sunny,Sunday
+2025-07-24,Carrot Cake,18,21,16.0,0,Sunny,Thursday
+2025-07-25,Carrot Cake,24,27,16.0,0,Sunny,Friday
+2025-07-26,Carrot Cake,27,31,16.0,0,Rainy,Saturday
+2025-07-27,Carrot Cake,25,29,16.0,0,Cloudy,Sunday
+2025-07-31,Carrot Cake,17,20,16.0,0,Cloudy,Thursday
+2025-08-01,Carrot Cake,23,26,16.0,0,Cloudy,Friday
+2025-08-02,Carrot Cake,29,32,16.0,0,Sunny,Saturday
+2025-08-03,Carrot Cake,26,29,16.0,0,Rainy,Sunday
+2025-08-07,Carrot Cake,19,22,16.0,0,Rainy,Thursday
+2025-08-08,Carrot Cake,27,31,16.0,15,Rainy,Friday
+2025-08-09,Carrot Cake,32,35,16.0,0,Sunny,Saturday
+2025-08-10,Carrot Cake,32,36,16.0,0,Sunny,Sunday
+2025-08-14,Carrot Cake,20,24,16.0,0,Sunny,Thursday
+2025-08-15,Carrot Cake,20,24,16.0,0,Rainy,Friday
+2025-08-16,Carrot Cake,29,33,16.0,0,Sunny,Saturday
+2025-08-17,Carrot Cake,27,32,16.0,0,Sunny,Sunday
+2025-08-21,Carrot Cake,16,18,16.0,0,Cloudy,Thursday
+2025-08-22,Carrot Cake,22,25,16.0,0,Cloudy,Friday
+2025-08-23,Carrot Cake,33,38,16.0,0,Cloudy,Saturday
+2025-08-24,Carrot Cake,28,31,16.0,0,Sunny,Sunday
+2025-08-28,Carrot Cake,17,21,16.0,0,Cloudy,Thursday
+2025-08-29,Carrot Cake,29,34,16.0,0,Sunny,Friday
+2025-08-30,Carrot Cake,42,49,16.0,15,Sunny,Saturday
+2025-08-31,Carrot Cake,33,39,16.0,0,Sunny,Sunday
+2025-09-04,Carrot Cake,23,25,16.0,0,Cloudy,Thursday
+2025-09-05,Carrot Cake,25,29,16.0,0,Sunny,Friday
+2025-09-06,Carrot Cake,31,37,16.0,0,Sunny,Saturday
+2025-09-07,Carrot Cake,31,38,16.0,0,Sunny,Sunday
+2025-09-11,Carrot Cake,21,24,16.0,0,Cloudy,Thursday
+2025-09-12,Carrot Cake,28,32,16.0,10,Sunny,Friday
+2025-09-13,Carrot Cake,28,32,16.0,0,Cloudy,Saturday
+2025-09-14,Carrot Cake,28,33,16.0,0,Cloudy,Sunday
+2025-09-18,Carrot Cake,20,25,16.0,0,Cloudy,Thursday
+2025-09-19,Carrot Cake,23,26,16.0,0,Cloudy,Friday
+2025-09-20,Carrot Cake,29,35,16.0,0,Cloudy,Saturday
+2025-09-21,Carrot Cake,34,39,16.0,0,Sunny,Sunday
+2025-09-25,Carrot Cake,17,19,16.0,0,Rainy,Thursday
+2025-09-26,Carrot Cake,32,36,16.0,15,Sunny,Friday
+2025-09-27,Carrot Cake,28,32,16.0,0,Cloudy,Saturday
+2025-09-28,Carrot Cake,31,36,16.0,0,Cloudy,Sunday
+2025-10-02,Carrot Cake,22,26,16.0,0,Cloudy,Thursday
+2025-10-03,Carrot Cake,29,34,16.0,0,Cloudy,Friday
+2025-10-04,Carrot Cake,32,36,16.0,0,Rainy,Saturday
+2025-10-05,Carrot Cake,34,40,16.0,0,Sunny,Sunday
+2025-10-09,Carrot Cake,22,25,16.0,0,Sunny,Thursday
+2025-10-10,Carrot Cake,31,37,16.0,0,Sunny,Friday
+2025-10-11,Carrot Cake,53,65,16.0,25,Sunny,Saturday
+2025-10-12,Carrot Cake,28,33,16.0,0,Rainy,Sunday
+2025-10-16,Carrot Cake,18,22,16.0,0,Cloudy,Thursday
+2025-10-17,Carrot Cake,25,29,16.0,0,Sunny,Friday
+2025-10-18,Carrot Cake,27,31,16.0,0,Rainy,Saturday
+2025-10-19,Carrot Cake,41,46,16.0,20,Sunny,Sunday
+2025-10-23,Carrot Cake,21,25,16.0,0,Rainy,Thursday
+2025-10-24,Carrot Cake,33,37,16.0,10,Cloudy,Friday
+2025-10-25,Carrot Cake,35,42,16.0,0,Sunny,Saturday
+2025-10-26,Carrot Cake,33,37,16.0,0,Cloudy,Sunday
+2025-10-30,Carrot Cake,18,21,16.0,0,Rainy,Thursday
+2025-10-31,Carrot Cake,34,39,16.0,25,Sunny,Friday
+2025-11-01,Carrot Cake,38,43,16.0,0,Sunny,Saturday
+2025-11-02,Carrot Cake,30,34,16.0,0,Rainy,Sunday
+2025-11-06,Carrot Cake,18,21,16.0,0,Rainy,Thursday
+2025-11-07,Carrot Cake,27,31,16.0,0,Cloudy,Friday
+2025-11-08,Carrot Cake,32,38,16.0,0,Rainy,Saturday
+2025-11-09,Carrot Cake,33,38,16.0,0,Sunny,Sunday
+2025-11-13,Carrot Cake,23,27,16.0,0,Sunny,Thursday
+2025-11-14,Carrot Cake,32,38,16.0,0,Sunny,Friday
+2025-11-15,Carrot Cake,38,43,16.0,0,Sunny,Saturday
+2025-11-16,Carrot Cake,29,35,16.0,0,Cloudy,Sunday
+2025-11-20,Carrot Cake,18,19,16.0,0,Rainy,Thursday
+2025-11-21,Carrot Cake,27,33,16.0,0,Sunny,Friday
+2025-11-22,Carrot Cake,33,39,16.0,0,Sunny,Saturday
+2025-11-23,Carrot Cake,28,32,16.0,0,Sunny,Sunday
+2025-11-27,Carrot Cake,16,18,16.0,0,Rainy,Thursday
+2025-11-28,Carrot Cake,29,33,16.0,0,Cloudy,Friday
+2025-11-29,Carrot Cake,29,34,16.0,0,Rainy,Saturday
+2025-11-30,Carrot Cake,32,36,16.0,0,Sunny,Sunday
+2025-12-04,Carrot Cake,22,26,16.0,0,Sunny,Thursday
+2025-12-05,Carrot Cake,27,30,16.0,0,Sunny,Friday
+2025-12-06,Carrot Cake,34,37,16.0,0,Rainy,Saturday
+2025-12-07,Carrot Cake,40,47,16.0,0,Sunny,Sunday
+2025-12-11,Carrot Cake,23,28,16.0,0,Sunny,Thursday
+2025-12-12,Carrot Cake,26,28,16.0,0,Sunny,Friday
+2025-12-13,Carrot Cake,32,36,16.0,0,Sunny,Saturday
+2025-12-14,Carrot Cake,34,38,16.0,0,Sunny,Sunday
+2025-12-18,Carrot Cake,27,32,16.0,0,Sunny,Thursday
+2025-12-19,Carrot Cake,31,36,16.0,0,Cloudy,Friday
+2025-12-20,Carrot Cake,45,54,16.0,0,Sunny,Saturday
+2025-12-21,Carrot Cake,37,43,16.0,0,Sunny,Sunday
+2025-12-25,Carrot Cake,27,32,16.0,0,Sunny,Thursday
+2025-12-26,Carrot Cake,32,38,16.0,0,Rainy,Friday
+2025-12-27,Carrot Cake,30,34,16.0,0,Cloudy,Saturday
+2025-12-28,Carrot Cake,29,33,16.0,0,Sunny,Sunday
+2026-01-01,Carrot Cake,15,16,16.0,0,Cloudy,Thursday
+2026-01-02,Carrot Cake,26,31,16.0,0,Rainy,Friday
+2026-01-03,Carrot Cake,41,47,16.0,0,Cloudy,Saturday
+2026-01-04,Carrot Cake,39,45,16.0,0,Cloudy,Sunday
+2026-01-08,Carrot Cake,28,31,16.0,0,Cloudy,Thursday
+2026-01-09,Carrot Cake,32,38,16.0,0,Sunny,Friday
+2026-01-10,Carrot Cake,39,44,16.0,0,Sunny,Saturday
+2026-01-11,Carrot Cake,32,38,16.0,0,Sunny,Sunday
+2026-01-15,Carrot Cake,23,26,16.0,0,Sunny,Thursday
+2026-01-16,Carrot Cake,32,38,16.0,0,Sunny,Friday
+2026-01-17,Carrot Cake,41,50,16.0,0,Sunny,Saturday
+2026-01-18,Carrot Cake,40,44,16.0,20,Sunny,Sunday
+2026-01-22,Carrot Cake,22,25,16.0,0,Sunny,Thursday
+2026-01-23,Carrot Cake,23,26,16.0,0,Rainy,Friday
+2026-01-24,Carrot Cake,35,39,16.0,0,Cloudy,Saturday
+2026-01-25,Carrot Cake,29,33,16.0,0,Cloudy,Sunday
+2026-01-29,Carrot Cake,25,30,16.0,25,Sunny,Thursday
+2026-01-30,Carrot Cake,28,33,16.0,0,Sunny,Friday
+2026-01-31,Carrot Cake,40,48,16.0,0,Sunny,Saturday
+2026-02-01,Carrot Cake,36,40,16.0,0,Cloudy,Sunday
+2026-02-05,Carrot Cake,23,27,16.0,0,Cloudy,Thursday
+2026-02-06,Carrot Cake,23,26,16.0,0,Cloudy,Friday
+2026-02-07,Carrot Cake,29,34,16.0,0,Cloudy,Saturday
+2026-02-08,Carrot Cake,44,51,16.0,25,Sunny,Sunday
+2026-02-12,Carrot Cake,33,38,16.0,0,Sunny,Thursday
+2026-02-13,Carrot Cake,46,52,16.0,0,Cloudy,Friday
+2026-02-14,Carrot Cake,68,83,16.0,25,Sunny,Saturday
+2026-02-15,Carrot Cake,32,35,16.0,0,Cloudy,Sunday
+2026-02-19,Carrot Cake,25,28,16.0,0,Sunny,Thursday
+2026-02-20,Carrot Cake,31,36,16.0,0,Sunny,Friday
+2026-02-21,Carrot Cake,36,41,16.0,0,Sunny,Saturday
+2026-02-22,Carrot Cake,25,28,16.0,0,Cloudy,Sunday
+2026-02-26,Carrot Cake,17,20,16.0,0,Cloudy,Thursday
+2026-02-27,Carrot Cake,41,49,16.0,15,Sunny,Friday
+2026-02-28,Carrot Cake,38,45,16.0,0,Cloudy,Saturday
+2026-03-01,Carrot Cake,35,39,16.0,0,Cloudy,Sunday
+2026-03-05,Carrot Cake,22,25,16.0,0,Cloudy,Thursday
+2026-03-06,Carrot Cake,32,35,16.0,0,Sunny,Friday
+2026-03-07,Carrot Cake,45,53,16.0,0,Sunny,Saturday
+2026-03-08,Carrot Cake,35,40,16.0,0,Cloudy,Sunday
+2026-03-12,Carrot Cake,22,26,16.0,0,Sunny,Thursday
+2026-03-13,Carrot Cake,21,25,16.0,0,Rainy,Friday
+2026-03-14,Carrot Cake,42,51,16.0,0,Sunny,Saturday
+2026-03-15,Carrot Cake,40,48,16.0,0,Sunny,Sunday
+2026-03-19,Carrot Cake,25,31,16.0,0,Cloudy,Thursday
+2026-03-20,Carrot Cake,26,32,16.0,0,Cloudy,Friday
+2026-03-21,Carrot Cake,40,46,16.0,20,Rainy,Saturday
+2026-03-22,Carrot Cake,39,47,16.0,0,Sunny,Sunday
+2026-03-26,Carrot Cake,29,33,16.0,0,Sunny,Thursday
+2026-03-27,Carrot Cake,31,37,16.0,0,Cloudy,Friday
+2026-03-28,Carrot Cake,39,47,16.0,0,Sunny,Saturday
+2026-03-29,Carrot Cake,32,37,16.0,0,Cloudy,Sunday
+2026-04-02,Carrot Cake,20,24,16.0,0,Cloudy,Thursday
+2026-04-03,Carrot Cake,30,33,16.0,0,Rainy,Friday
+2026-04-04,Carrot Cake,41,49,16.0,0,Sunny,Saturday
+2026-04-05,Carrot Cake,31,38,16.0,0,Rainy,Sunday
+2026-04-09,Carrot Cake,23,26,16.0,0,Sunny,Thursday
+2026-04-10,Carrot Cake,27,32,16.0,0,Sunny,Friday
+2026-04-11,Carrot Cake,32,37,16.0,0,Sunny,Saturday
+2026-04-12,Carrot Cake,31,36,16.0,0,Cloudy,Sunday
+2026-04-16,Carrot Cake,23,26,16.0,0,Sunny,Thursday
+2026-04-17,Carrot Cake,30,36,16.0,0,Sunny,Friday
+2026-04-18,Carrot Cake,39,46,16.0,0,Cloudy,Saturday
+2026-04-19,Carrot Cake,37,40,16.0,0,Cloudy,Sunday
+2026-04-23,Carrot Cake,24,27,16.0,0,Sunny,Thursday
+2026-04-24,Carrot Cake,34,41,16.0,0,Cloudy,Friday
+2026-04-25,Carrot Cake,50,58,16.0,0,Sunny,Saturday
+2026-04-26,Carrot Cake,39,46,16.0,0,Sunny,Sunday
+2026-04-30,Carrot Cake,20,23,16.0,0,Sunny,Thursday
+2026-05-01,Carrot Cake,33,38,16.0,10,Rainy,Friday
+2026-05-02,Carrot Cake,51,59,16.0,0,Sunny,Saturday
+2026-05-03,Carrot Cake,40,47,16.0,0,Rainy,Sunday
+2026-05-07,Carrot Cake,31,36,16.0,0,Sunny,Thursday
+2026-05-08,Carrot Cake,28,32,16.0,0,Sunny,Friday
+2026-05-09,Carrot Cake,42,49,16.0,0,Cloudy,Saturday
+2026-05-10,Carrot Cake,56,66,16.0,0,Sunny,Sunday
+2026-05-14,Carrot Cake,22,25,16.0,0,Rainy,Thursday
+2026-05-15,Carrot Cake,26,30,16.0,0,Sunny,Friday
+2026-05-16,Carrot Cake,37,44,16.0,0,Sunny,Saturday
+2026-05-17,Carrot Cake,40,48,16.0,0,Sunny,Sunday
+2025-01-02,Butter Croissant,32,38,8.0,0,Sunny,Thursday
+2025-01-03,Butter Croissant,49,54,8.0,0,Sunny,Friday
+2025-01-04,Butter Croissant,58,68,8.0,0,Rainy,Saturday
+2025-01-05,Butter Croissant,45,55,8.0,0,Sunny,Sunday
+2025-01-09,Butter Croissant,44,50,8.0,15,Sunny,Thursday
+2025-01-10,Butter Croissant,31,35,8.0,0,Rainy,Friday
+2025-01-11,Butter Croissant,56,64,8.0,0,Sunny,Saturday
+2025-01-12,Butter Croissant,49,57,8.0,0,Rainy,Sunday
+2025-01-16,Butter Croissant,31,35,8.0,0,Cloudy,Thursday
+2025-01-17,Butter Croissant,42,49,8.0,0,Cloudy,Friday
+2025-01-18,Butter Croissant,55,64,8.0,0,Sunny,Saturday
+2025-01-19,Butter Croissant,55,63,8.0,0,Sunny,Sunday
+2025-01-23,Butter Croissant,43,52,8.0,15,Sunny,Thursday
+2025-01-24,Butter Croissant,48,57,8.0,0,Rainy,Friday
+2025-01-25,Butter Croissant,68,77,8.0,0,Sunny,Saturday
+2025-01-26,Butter Croissant,51,59,8.0,0,Sunny,Sunday
+2025-01-30,Butter Croissant,49,57,8.0,0,Cloudy,Thursday
+2025-01-31,Butter Croissant,53,63,8.0,0,Sunny,Friday
+2025-02-01,Butter Croissant,78,87,8.0,20,Cloudy,Saturday
+2025-02-02,Butter Croissant,56,65,8.0,0,Rainy,Sunday
+2025-02-06,Butter Croissant,41,48,8.0,0,Sunny,Thursday
+2025-02-07,Butter Croissant,54,65,8.0,0,Sunny,Friday
+2025-02-08,Butter Croissant,55,65,8.0,0,Sunny,Saturday
+2025-02-09,Butter Croissant,41,47,8.0,0,Cloudy,Sunday
+2025-02-13,Butter Croissant,45,50,8.0,0,Sunny,Thursday
+2025-02-14,Butter Croissant,77,91,8.0,0,Rainy,Friday
+2025-02-15,Butter Croissant,81,90,8.0,0,Sunny,Saturday
+2025-02-16,Butter Croissant,62,72,8.0,0,Sunny,Sunday
+2025-02-20,Butter Croissant,39,46,8.0,0,Sunny,Thursday
+2025-02-21,Butter Croissant,52,58,8.0,15,Cloudy,Friday
+2025-02-22,Butter Croissant,53,62,8.0,0,Rainy,Saturday
+2025-02-23,Butter Croissant,50,56,8.0,0,Cloudy,Sunday
+2025-02-27,Butter Croissant,32,37,8.0,0,Cloudy,Thursday
+2025-02-28,Butter Croissant,49,57,8.0,0,Sunny,Friday
+2025-03-01,Butter Croissant,70,81,8.0,0,Sunny,Saturday
+2025-03-02,Butter Croissant,63,70,8.0,0,Sunny,Sunday
+2025-03-06,Butter Croissant,35,42,8.0,0,Cloudy,Thursday
+2025-03-07,Butter Croissant,47,57,8.0,0,Sunny,Friday
+2025-03-08,Butter Croissant,64,78,8.0,0,Sunny,Saturday
+2025-03-09,Butter Croissant,51,57,8.0,0,Sunny,Sunday
+2025-03-13,Butter Croissant,37,43,8.0,10,Rainy,Thursday
+2025-03-14,Butter Croissant,49,59,8.0,10,Sunny,Friday
+2025-03-15,Butter Croissant,60,71,8.0,0,Sunny,Saturday
+2025-03-16,Butter Croissant,45,51,8.0,0,Sunny,Sunday
+2025-03-20,Butter Croissant,32,37,8.0,0,Sunny,Thursday
+2025-03-21,Butter Croissant,47,56,8.0,0,Sunny,Friday
+2025-03-22,Butter Croissant,58,69,8.0,0,Cloudy,Saturday
+2025-03-23,Butter Croissant,78,93,8.0,20,Cloudy,Sunday
+2025-03-27,Butter Croissant,39,43,8.0,0,Rainy,Thursday
+2025-03-28,Butter Croissant,47,51,8.0,0,Sunny,Friday
+2025-03-29,Butter Croissant,85,94,8.0,0,Sunny,Saturday
+2025-03-30,Butter Croissant,55,64,8.0,0,Rainy,Sunday
+2025-04-03,Butter Croissant,45,52,8.0,0,Sunny,Thursday
+2025-04-04,Butter Croissant,53,63,8.0,0,Sunny,Friday
+2025-04-05,Butter Croissant,53,64,8.0,0,Sunny,Saturday
+2025-04-06,Butter Croissant,44,53,8.0,0,Cloudy,Sunday
+2025-04-10,Butter Croissant,34,38,8.0,10,Rainy,Thursday
+2025-04-11,Butter Croissant,49,59,8.0,0,Sunny,Friday
+2025-04-12,Butter Croissant,72,85,8.0,0,Sunny,Saturday
+2025-04-13,Butter Croissant,51,61,8.0,0,Cloudy,Sunday
+2025-04-17,Butter Croissant,29,35,8.0,0,Cloudy,Thursday
+2025-04-18,Butter Croissant,44,49,8.0,0,Cloudy,Friday
+2025-04-19,Butter Croissant,60,71,8.0,0,Cloudy,Saturday
+2025-04-20,Butter Croissant,63,71,8.0,0,Sunny,Sunday
+2025-04-24,Butter Croissant,39,43,8.0,0,Rainy,Thursday
+2025-04-25,Butter Croissant,48,55,8.0,0,Cloudy,Friday
+2025-04-26,Butter Croissant,70,78,8.0,0,Sunny,Saturday
+2025-04-27,Butter Croissant,60,69,8.0,0,Rainy,Sunday
+2025-05-01,Butter Croissant,53,64,8.0,0,Sunny,Thursday
+2025-05-02,Butter Croissant,53,65,8.0,0,Sunny,Friday
+2025-05-03,Butter Croissant,75,85,8.0,25,Cloudy,Saturday
+2025-05-04,Butter Croissant,52,63,8.0,0,Sunny,Sunday
+2025-05-08,Butter Croissant,54,61,8.0,25,Sunny,Thursday
+2025-05-09,Butter Croissant,43,52,8.0,0,Sunny,Friday
+2025-05-10,Butter Croissant,64,78,8.0,0,Sunny,Saturday
+2025-05-11,Butter Croissant,70,78,8.0,0,Cloudy,Sunday
+2025-05-15,Butter Croissant,34,39,8.0,0,Sunny,Thursday
+2025-05-16,Butter Croissant,51,57,8.0,0,Sunny,Friday
+2025-05-17,Butter Croissant,62,71,8.0,0,Cloudy,Saturday
+2025-05-18,Butter Croissant,80,90,8.0,15,Cloudy,Sunday
+2025-05-22,Butter Croissant,47,55,8.0,0,Sunny,Thursday
+2025-05-23,Butter Croissant,45,53,8.0,0,Rainy,Friday
+2025-05-24,Butter Croissant,62,76,8.0,0,Cloudy,Saturday
+2025-05-25,Butter Croissant,60,71,8.0,0,Rainy,Sunday
+2025-05-29,Butter Croissant,51,62,8.0,20,Sunny,Thursday
+2025-05-30,Butter Croissant,37,42,8.0,0,Sunny,Friday
+2025-05-31,Butter Croissant,76,86,8.0,15,Sunny,Saturday
+2025-06-01,Butter Croissant,68,79,8.0,0,Cloudy,Sunday
+2025-06-05,Butter Croissant,46,52,8.0,0,Rainy,Thursday
+2025-06-06,Butter Croissant,54,60,8.0,0,Sunny,Friday
+2025-06-07,Butter Croissant,53,60,8.0,0,Cloudy,Saturday
+2025-06-08,Butter Croissant,51,58,8.0,0,Rainy,Sunday
+2025-06-12,Butter Croissant,43,52,8.0,10,Cloudy,Thursday
+2025-06-13,Butter Croissant,54,66,8.0,0,Sunny,Friday
+2025-06-14,Butter Croissant,63,70,8.0,0,Cloudy,Saturday
+2025-06-15,Butter Croissant,50,61,8.0,0,Rainy,Sunday
+2025-06-19,Butter Croissant,34,40,8.0,0,Rainy,Thursday
+2025-06-20,Butter Croissant,56,69,8.0,20,Cloudy,Friday
+2025-06-21,Butter Croissant,45,54,8.0,0,Rainy,Saturday
+2025-06-22,Butter Croissant,61,69,8.0,0,Sunny,Sunday
+2025-06-26,Butter Croissant,34,41,8.0,0,Rainy,Thursday
+2025-06-27,Butter Croissant,46,55,8.0,0,Sunny,Friday
+2025-06-28,Butter Croissant,68,83,8.0,0,Rainy,Saturday
+2025-06-29,Butter Croissant,63,70,8.0,0,Sunny,Sunday
+2025-07-03,Butter Croissant,39,46,8.0,0,Sunny,Thursday
+2025-07-04,Butter Croissant,65,75,8.0,10,Cloudy,Friday
+2025-07-05,Butter Croissant,56,65,8.0,0,Cloudy,Saturday
+2025-07-06,Butter Croissant,56,66,8.0,0,Cloudy,Sunday
+2025-07-10,Butter Croissant,41,46,8.0,0,Cloudy,Thursday
+2025-07-11,Butter Croissant,50,58,8.0,0,Sunny,Friday
+2025-07-12,Butter Croissant,58,67,8.0,0,Rainy,Saturday
+2025-07-13,Butter Croissant,60,71,8.0,0,Cloudy,Sunday
+2025-07-17,Butter Croissant,39,46,8.0,0,Sunny,Thursday
+2025-07-18,Butter Croissant,45,55,8.0,0,Cloudy,Friday
+2025-07-19,Butter Croissant,54,61,8.0,0,Rainy,Saturday
+2025-07-20,Butter Croissant,52,58,8.0,0,Sunny,Sunday
+2025-07-24,Butter Croissant,38,46,8.0,0,Sunny,Thursday
+2025-07-25,Butter Croissant,55,63,8.0,0,Sunny,Friday
+2025-07-26,Butter Croissant,61,74,8.0,0,Rainy,Saturday
+2025-07-27,Butter Croissant,65,79,8.0,0,Cloudy,Sunday
+2025-07-31,Butter Croissant,45,53,8.0,10,Cloudy,Thursday
+2025-08-01,Butter Croissant,60,70,8.0,25,Cloudy,Friday
+2025-08-02,Butter Croissant,56,67,8.0,0,Sunny,Saturday
+2025-08-03,Butter Croissant,54,64,8.0,0,Rainy,Sunday
+2025-08-07,Butter Croissant,36,40,8.0,0,Rainy,Thursday
+2025-08-08,Butter Croissant,40,48,8.0,0,Rainy,Friday
+2025-08-09,Butter Croissant,72,84,8.0,0,Sunny,Saturday
+2025-08-10,Butter Croissant,58,68,8.0,0,Sunny,Sunday
+2025-08-14,Butter Croissant,32,39,8.0,0,Sunny,Thursday
+2025-08-15,Butter Croissant,46,51,8.0,0,Rainy,Friday
+2025-08-16,Butter Croissant,77,92,8.0,0,Sunny,Saturday
+2025-08-17,Butter Croissant,76,89,8.0,0,Sunny,Sunday
+2025-08-21,Butter Croissant,42,47,8.0,0,Cloudy,Thursday
+2025-08-22,Butter Croissant,50,59,8.0,0,Cloudy,Friday
+2025-08-23,Butter Croissant,62,74,8.0,0,Cloudy,Saturday
+2025-08-24,Butter Croissant,55,62,8.0,0,Sunny,Sunday
+2025-08-28,Butter Croissant,31,37,8.0,0,Cloudy,Thursday
+2025-08-29,Butter Croissant,49,60,8.0,0,Sunny,Friday
+2025-08-30,Butter Croissant,58,65,8.0,0,Sunny,Saturday
+2025-08-31,Butter Croissant,59,67,8.0,0,Sunny,Sunday
+2025-09-04,Butter Croissant,45,54,8.0,0,Cloudy,Thursday
+2025-09-05,Butter Croissant,52,61,8.0,0,Sunny,Friday
+2025-09-06,Butter Croissant,62,69,8.0,0,Sunny,Saturday
+2025-09-07,Butter Croissant,71,79,8.0,0,Sunny,Sunday
+2025-09-11,Butter Croissant,45,50,8.0,0,Cloudy,Thursday
+2025-09-12,Butter Croissant,61,68,8.0,0,Sunny,Friday
+2025-09-13,Butter Croissant,81,94,8.0,0,Cloudy,Saturday
+2025-09-14,Butter Croissant,56,61,8.0,0,Cloudy,Sunday
+2025-09-18,Butter Croissant,30,35,8.0,0,Cloudy,Thursday
+2025-09-19,Butter Croissant,52,57,8.0,0,Cloudy,Friday
+2025-09-20,Butter Croissant,75,89,8.0,0,Cloudy,Saturday
+2025-09-21,Butter Croissant,67,79,8.0,0,Sunny,Sunday
+2025-09-25,Butter Croissant,43,49,8.0,0,Rainy,Thursday
+2025-09-26,Butter Croissant,54,63,8.0,0,Sunny,Friday
+2025-09-27,Butter Croissant,68,80,8.0,0,Cloudy,Saturday
+2025-09-28,Butter Croissant,61,74,8.0,0,Cloudy,Sunday
+2025-10-02,Butter Croissant,45,52,8.0,20,Cloudy,Thursday
+2025-10-03,Butter Croissant,52,63,8.0,0,Cloudy,Friday
+2025-10-04,Butter Croissant,82,99,8.0,25,Rainy,Saturday
+2025-10-05,Butter Croissant,59,69,8.0,0,Sunny,Sunday
+2025-10-09,Butter Croissant,38,43,8.0,0,Sunny,Thursday
+2025-10-10,Butter Croissant,56,68,8.0,0,Sunny,Friday
+2025-10-11,Butter Croissant,78,91,8.0,0,Sunny,Saturday
+2025-10-12,Butter Croissant,84,96,8.0,20,Rainy,Sunday
+2025-10-16,Butter Croissant,42,47,8.0,0,Cloudy,Thursday
+2025-10-17,Butter Croissant,51,62,8.0,0,Sunny,Friday
+2025-10-18,Butter Croissant,87,96,8.0,20,Rainy,Saturday
+2025-10-19,Butter Croissant,77,92,8.0,0,Sunny,Sunday
+2025-10-23,Butter Croissant,41,50,8.0,0,Rainy,Thursday
+2025-10-24,Butter Croissant,50,56,8.0,0,Cloudy,Friday
+2025-10-25,Butter Croissant,70,79,8.0,0,Sunny,Saturday
+2025-10-26,Butter Croissant,85,101,8.0,25,Cloudy,Sunday
+2025-10-30,Butter Croissant,35,42,8.0,0,Rainy,Thursday
+2025-10-31,Butter Croissant,57,66,8.0,0,Sunny,Friday
+2025-11-01,Butter Croissant,63,69,8.0,0,Sunny,Saturday
+2025-11-02,Butter Croissant,53,63,8.0,0,Rainy,Sunday
+2025-11-06,Butter Croissant,37,44,8.0,0,Rainy,Thursday
+2025-11-07,Butter Croissant,52,58,8.0,0,Cloudy,Friday
+2025-11-08,Butter Croissant,69,80,8.0,0,Rainy,Saturday
+2025-11-09,Butter Croissant,71,84,8.0,0,Sunny,Sunday
+2025-11-13,Butter Croissant,39,44,8.0,0,Sunny,Thursday
+2025-11-14,Butter Croissant,55,62,8.0,0,Sunny,Friday
+2025-11-15,Butter Croissant,61,71,8.0,0,Sunny,Saturday
+2025-11-16,Butter Croissant,82,97,8.0,15,Cloudy,Sunday
+2025-11-20,Butter Croissant,49,60,8.0,0,Rainy,Thursday
+2025-11-21,Butter Croissant,73,83,8.0,0,Sunny,Friday
+2025-11-22,Butter Croissant,67,79,8.0,0,Sunny,Saturday
+2025-11-23,Butter Croissant,59,72,8.0,0,Sunny,Sunday
+2025-11-27,Butter Croissant,40,45,8.0,0,Rainy,Thursday
+2025-11-28,Butter Croissant,52,57,8.0,0,Cloudy,Friday
+2025-11-29,Butter Croissant,89,108,8.0,25,Rainy,Saturday
+2025-11-30,Butter Croissant,71,83,8.0,0,Sunny,Sunday
+2025-12-04,Butter Croissant,41,45,8.0,0,Sunny,Thursday
+2025-12-05,Butter Croissant,54,65,8.0,0,Sunny,Friday
+2025-12-06,Butter Croissant,81,95,8.0,0,Rainy,Saturday
+2025-12-07,Butter Croissant,84,102,8.0,25,Sunny,Sunday
+2025-12-11,Butter Croissant,34,41,8.0,0,Sunny,Thursday
+2025-12-12,Butter Croissant,56,64,8.0,0,Sunny,Friday
+2025-12-13,Butter Croissant,77,91,8.0,0,Sunny,Saturday
+2025-12-14,Butter Croissant,65,73,8.0,0,Sunny,Sunday
+2025-12-18,Butter Croissant,42,46,8.0,0,Sunny,Thursday
+2025-12-19,Butter Croissant,56,64,8.0,0,Cloudy,Friday
+2025-12-20,Butter Croissant,68,77,8.0,0,Sunny,Saturday
+2025-12-21,Butter Croissant,73,84,8.0,0,Sunny,Sunday
+2025-12-25,Butter Croissant,55,64,8.0,0,Sunny,Thursday
+2025-12-26,Butter Croissant,85,96,8.0,15,Rainy,Friday
+2025-12-27,Butter Croissant,74,83,8.0,0,Cloudy,Saturday
+2025-12-28,Butter Croissant,58,67,8.0,0,Sunny,Sunday
+2026-01-01,Butter Croissant,33,36,8.0,0,Cloudy,Thursday
+2026-01-02,Butter Croissant,50,61,8.0,0,Rainy,Friday
+2026-01-03,Butter Croissant,79,93,8.0,0,Cloudy,Saturday
+2026-01-04,Butter Croissant,76,92,8.0,0,Cloudy,Sunday
+2026-01-08,Butter Croissant,46,51,8.0,0,Cloudy,Thursday
+2026-01-09,Butter Croissant,63,73,8.0,0,Sunny,Friday
+2026-01-10,Butter Croissant,83,98,8.0,0,Sunny,Saturday
+2026-01-11,Butter Croissant,72,80,8.0,0,Sunny,Sunday
+2026-01-15,Butter Croissant,40,45,8.0,0,Sunny,Thursday
+2026-01-16,Butter Croissant,70,79,8.0,0,Sunny,Friday
+2026-01-17,Butter Croissant,86,100,8.0,0,Sunny,Saturday
+2026-01-18,Butter Croissant,80,91,8.0,0,Sunny,Sunday
+2026-01-22,Butter Croissant,51,58,8.0,0,Sunny,Thursday
+2026-01-23,Butter Croissant,55,62,8.0,0,Rainy,Friday
+2026-01-24,Butter Croissant,78,93,8.0,0,Cloudy,Saturday
+2026-01-25,Butter Croissant,69,76,8.0,0,Cloudy,Sunday
+2026-01-29,Butter Croissant,47,56,8.0,0,Sunny,Thursday
+2026-01-30,Butter Croissant,49,55,8.0,0,Sunny,Friday
+2026-01-31,Butter Croissant,81,89,8.0,0,Sunny,Saturday
+2026-02-01,Butter Croissant,68,79,8.0,0,Cloudy,Sunday
+2026-02-05,Butter Croissant,37,44,8.0,0,Cloudy,Thursday
+2026-02-06,Butter Croissant,59,65,8.0,0,Cloudy,Friday
+2026-02-07,Butter Croissant,79,92,8.0,0,Cloudy,Saturday
+2026-02-08,Butter Croissant,70,82,8.0,0,Sunny,Sunday
+2026-02-12,Butter Croissant,70,81,8.0,0,Sunny,Thursday
+2026-02-13,Butter Croissant,96,106,8.0,0,Cloudy,Friday
+2026-02-14,Butter Croissant,113,133,8.0,0,Sunny,Saturday
+2026-02-15,Butter Croissant,80,93,8.0,10,Cloudy,Sunday
+2026-02-19,Butter Croissant,47,56,8.0,0,Sunny,Thursday
+2026-02-20,Butter Croissant,58,71,8.0,0,Sunny,Friday
+2026-02-21,Butter Croissant,89,101,8.0,0,Sunny,Saturday
+2026-02-22,Butter Croissant,72,82,8.0,0,Cloudy,Sunday
+2026-02-26,Butter Croissant,60,70,8.0,20,Cloudy,Thursday
+2026-02-27,Butter Croissant,60,66,8.0,0,Sunny,Friday
+2026-02-28,Butter Croissant,80,89,8.0,0,Cloudy,Saturday
+2026-03-01,Butter Croissant,90,107,8.0,0,Cloudy,Sunday
+2026-03-05,Butter Croissant,45,54,8.0,0,Cloudy,Thursday
+2026-03-06,Butter Croissant,63,74,8.0,10,Sunny,Friday
+2026-03-07,Butter Croissant,70,81,8.0,0,Sunny,Saturday
+2026-03-08,Butter Croissant,69,80,8.0,0,Cloudy,Sunday
+2026-03-12,Butter Croissant,43,47,8.0,0,Sunny,Thursday
+2026-03-13,Butter Croissant,50,59,8.0,0,Rainy,Friday
+2026-03-14,Butter Croissant,82,97,8.0,0,Sunny,Saturday
+2026-03-15,Butter Croissant,65,77,8.0,0,Sunny,Sunday
+2026-03-19,Butter Croissant,60,72,8.0,20,Cloudy,Thursday
+2026-03-20,Butter Croissant,70,84,8.0,0,Cloudy,Friday
+2026-03-21,Butter Croissant,66,80,8.0,0,Rainy,Saturday
+2026-03-22,Butter Croissant,66,79,8.0,0,Sunny,Sunday
+2026-03-26,Butter Croissant,33,37,8.0,0,Sunny,Thursday
+2026-03-27,Butter Croissant,57,64,8.0,0,Cloudy,Friday
+2026-03-28,Butter Croissant,120,135,8.0,20,Sunny,Saturday
+2026-03-29,Butter Croissant,84,100,8.0,0,Cloudy,Sunday
+2026-04-02,Butter Croissant,45,51,8.0,0,Cloudy,Thursday
+2026-04-03,Butter Croissant,46,52,8.0,0,Rainy,Friday
+2026-04-04,Butter Croissant,88,97,8.0,0,Sunny,Saturday
+2026-04-05,Butter Croissant,67,74,8.0,0,Rainy,Sunday
+2026-04-09,Butter Croissant,46,55,8.0,0,Sunny,Thursday
+2026-04-10,Butter Croissant,65,75,8.0,0,Sunny,Friday
+2026-04-11,Butter Croissant,57,68,8.0,0,Sunny,Saturday
+2026-04-12,Butter Croissant,61,70,8.0,0,Cloudy,Sunday
+2026-04-16,Butter Croissant,55,66,8.0,0,Sunny,Thursday
+2026-04-17,Butter Croissant,67,77,8.0,15,Sunny,Friday
+2026-04-18,Butter Croissant,77,94,8.0,0,Cloudy,Saturday
+2026-04-19,Butter Croissant,70,85,8.0,0,Cloudy,Sunday
+2026-04-23,Butter Croissant,45,55,8.0,0,Sunny,Thursday
+2026-04-24,Butter Croissant,63,76,8.0,0,Cloudy,Friday
+2026-04-25,Butter Croissant,76,87,8.0,0,Sunny,Saturday
+2026-04-26,Butter Croissant,69,77,8.0,0,Sunny,Sunday
+2026-04-30,Butter Croissant,48,55,8.0,0,Sunny,Thursday
+2026-05-01,Butter Croissant,59,66,8.0,0,Rainy,Friday
+2026-05-02,Butter Croissant,78,95,8.0,0,Sunny,Saturday
+2026-05-03,Butter Croissant,63,77,8.0,0,Rainy,Sunday
+2026-05-07,Butter Croissant,46,55,8.0,0,Sunny,Thursday
+2026-05-08,Butter Croissant,74,86,8.0,15,Sunny,Friday
+2026-05-09,Butter Croissant,76,88,8.0,0,Cloudy,Saturday
+2026-05-10,Butter Croissant,133,157,8.0,20,Sunny,Sunday
+2026-05-14,Butter Croissant,43,50,8.0,0,Rainy,Thursday
+2026-05-15,Butter Croissant,60,66,8.0,0,Sunny,Friday
+2026-05-16,Butter Croissant,91,101,8.0,0,Sunny,Saturday
+2026-05-17,Butter Croissant,84,94,8.0,0,Sunny,Sunday
+2025-01-02,Almond Croissant,28,34,10.0,20,Sunny,Thursday
+2025-01-03,Almond Croissant,27,31,10.0,0,Sunny,Friday
+2025-01-04,Almond Croissant,32,39,10.0,0,Rainy,Saturday
+2025-01-05,Almond Croissant,39,46,10.0,0,Sunny,Sunday
+2025-01-09,Almond Croissant,25,29,10.0,0,Sunny,Thursday
+2025-01-10,Almond Croissant,30,34,10.0,0,Rainy,Friday
+2025-01-11,Almond Croissant,46,53,10.0,0,Sunny,Saturday
+2025-01-12,Almond Croissant,38,45,10.0,0,Rainy,Sunday
+2025-01-16,Almond Croissant,25,28,10.0,0,Cloudy,Thursday
+2025-01-17,Almond Croissant,31,36,10.0,0,Cloudy,Friday
+2025-01-18,Almond Croissant,51,56,10.0,0,Sunny,Saturday
+2025-01-19,Almond Croissant,41,46,10.0,0,Sunny,Sunday
+2025-01-23,Almond Croissant,23,26,10.0,0,Sunny,Thursday
+2025-01-24,Almond Croissant,27,30,10.0,0,Rainy,Friday
+2025-01-25,Almond Croissant,46,55,10.0,0,Sunny,Saturday
+2025-01-26,Almond Croissant,43,50,10.0,0,Sunny,Sunday
+2025-01-30,Almond Croissant,28,33,10.0,0,Cloudy,Thursday
+2025-01-31,Almond Croissant,30,36,10.0,0,Sunny,Friday
+2025-02-01,Almond Croissant,40,45,10.0,0,Cloudy,Saturday
+2025-02-02,Almond Croissant,35,40,10.0,0,Rainy,Sunday
+2025-02-06,Almond Croissant,21,24,10.0,0,Sunny,Thursday
+2025-02-07,Almond Croissant,26,30,10.0,0,Sunny,Friday
+2025-02-08,Almond Croissant,40,47,10.0,0,Sunny,Saturday
+2025-02-09,Almond Croissant,35,41,10.0,10,Cloudy,Sunday
+2025-02-13,Almond Croissant,37,45,10.0,15,Sunny,Thursday
+2025-02-14,Almond Croissant,36,40,10.0,0,Rainy,Friday
+2025-02-15,Almond Croissant,37,43,10.0,0,Sunny,Saturday
+2025-02-16,Almond Croissant,43,52,10.0,0,Sunny,Sunday
+2025-02-20,Almond Croissant,42,50,10.0,25,Sunny,Thursday
+2025-02-21,Almond Croissant,32,39,10.0,0,Cloudy,Friday
+2025-02-22,Almond Croissant,34,40,10.0,0,Rainy,Saturday
+2025-02-23,Almond Croissant,48,58,10.0,25,Cloudy,Sunday
+2025-02-27,Almond Croissant,20,23,10.0,0,Cloudy,Thursday
+2025-02-28,Almond Croissant,30,36,10.0,0,Sunny,Friday
+2025-03-01,Almond Croissant,56,66,10.0,15,Sunny,Saturday
+2025-03-02,Almond Croissant,40,44,10.0,0,Sunny,Sunday
+2025-03-06,Almond Croissant,16,19,10.0,0,Cloudy,Thursday
+2025-03-07,Almond Croissant,26,31,10.0,0,Sunny,Friday
+2025-03-08,Almond Croissant,54,63,10.0,10,Sunny,Saturday
+2025-03-09,Almond Croissant,39,47,10.0,0,Sunny,Sunday
+2025-03-13,Almond Croissant,23,27,10.0,25,Rainy,Thursday
+2025-03-14,Almond Croissant,29,34,10.0,0,Sunny,Friday
+2025-03-15,Almond Croissant,43,50,10.0,0,Sunny,Saturday
+2025-03-16,Almond Croissant,40,45,10.0,0,Sunny,Sunday
+2025-03-20,Almond Croissant,22,25,10.0,0,Sunny,Thursday
+2025-03-21,Almond Croissant,34,39,10.0,10,Sunny,Friday
+2025-03-22,Almond Croissant,41,46,10.0,0,Cloudy,Saturday
+2025-03-23,Almond Croissant,41,46,10.0,0,Cloudy,Sunday
+2025-03-27,Almond Croissant,21,25,10.0,0,Rainy,Thursday
+2025-03-28,Almond Croissant,35,39,10.0,0,Sunny,Friday
+2025-03-29,Almond Croissant,74,87,10.0,20,Sunny,Saturday
+2025-03-30,Almond Croissant,45,51,10.0,15,Rainy,Sunday
+2025-04-03,Almond Croissant,26,30,10.0,0,Sunny,Thursday
+2025-04-04,Almond Croissant,30,36,10.0,0,Sunny,Friday
+2025-04-05,Almond Croissant,52,60,10.0,0,Sunny,Saturday
+2025-04-06,Almond Croissant,46,51,10.0,0,Cloudy,Sunday
+2025-04-10,Almond Croissant,27,32,10.0,0,Rainy,Thursday
+2025-04-11,Almond Croissant,31,36,10.0,0,Sunny,Friday
+2025-04-12,Almond Croissant,45,54,10.0,0,Sunny,Saturday
+2025-04-13,Almond Croissant,38,44,10.0,0,Cloudy,Sunday
+2025-04-17,Almond Croissant,25,29,10.0,0,Cloudy,Thursday
+2025-04-18,Almond Croissant,37,44,10.0,20,Cloudy,Friday
+2025-04-19,Almond Croissant,42,49,10.0,0,Cloudy,Saturday
+2025-04-20,Almond Croissant,39,44,10.0,0,Sunny,Sunday
+2025-04-24,Almond Croissant,18,20,10.0,0,Rainy,Thursday
+2025-04-25,Almond Croissant,26,31,10.0,0,Cloudy,Friday
+2025-04-26,Almond Croissant,40,46,10.0,0,Sunny,Saturday
+2025-04-27,Almond Croissant,34,40,10.0,0,Rainy,Sunday
+2025-05-01,Almond Croissant,26,31,10.0,0,Sunny,Thursday
+2025-05-02,Almond Croissant,31,36,10.0,0,Sunny,Friday
+2025-05-03,Almond Croissant,42,51,10.0,0,Cloudy,Saturday
+2025-05-04,Almond Croissant,44,49,10.0,0,Sunny,Sunday
+2025-05-08,Almond Croissant,31,38,10.0,0,Sunny,Thursday
+2025-05-09,Almond Croissant,33,39,10.0,0,Sunny,Friday
+2025-05-10,Almond Croissant,48,57,10.0,0,Sunny,Saturday
+2025-05-11,Almond Croissant,51,62,10.0,0,Cloudy,Sunday
+2025-05-15,Almond Croissant,24,27,10.0,0,Sunny,Thursday
+2025-05-16,Almond Croissant,46,53,10.0,0,Sunny,Friday
+2025-05-17,Almond Croissant,50,61,10.0,0,Cloudy,Saturday
+2025-05-18,Almond Croissant,42,46,10.0,0,Cloudy,Sunday
+2025-05-22,Almond Croissant,26,29,10.0,0,Sunny,Thursday
+2025-05-23,Almond Croissant,36,40,10.0,15,Rainy,Friday
+2025-05-24,Almond Croissant,60,70,10.0,25,Cloudy,Saturday
+2025-05-25,Almond Croissant,34,38,10.0,0,Rainy,Sunday
+2025-05-29,Almond Croissant,26,29,10.0,0,Sunny,Thursday
+2025-05-30,Almond Croissant,49,60,10.0,25,Sunny,Friday
+2025-05-31,Almond Croissant,68,77,10.0,20,Sunny,Saturday
+2025-06-01,Almond Croissant,39,47,10.0,0,Cloudy,Sunday
+2025-06-05,Almond Croissant,18,21,10.0,0,Rainy,Thursday
+2025-06-06,Almond Croissant,29,35,10.0,0,Sunny,Friday
+2025-06-07,Almond Croissant,47,55,10.0,0,Cloudy,Saturday
+2025-06-08,Almond Croissant,34,41,10.0,0,Rainy,Sunday
+2025-06-12,Almond Croissant,22,24,10.0,0,Cloudy,Thursday
+2025-06-13,Almond Croissant,36,40,10.0,0,Sunny,Friday
+2025-06-14,Almond Croissant,53,62,10.0,0,Cloudy,Saturday
+2025-06-15,Almond Croissant,45,50,10.0,0,Rainy,Sunday
+2025-06-19,Almond Croissant,28,34,10.0,0,Rainy,Thursday
+2025-06-20,Almond Croissant,40,45,10.0,0,Cloudy,Friday
+2025-06-21,Almond Croissant,44,49,10.0,10,Rainy,Saturday
+2025-06-22,Almond Croissant,42,48,10.0,0,Sunny,Sunday
+2025-06-26,Almond Croissant,24,27,10.0,0,Rainy,Thursday
+2025-06-27,Almond Croissant,33,37,10.0,0,Sunny,Friday
+2025-06-28,Almond Croissant,59,67,10.0,25,Rainy,Saturday
+2025-06-29,Almond Croissant,45,54,10.0,0,Sunny,Sunday
+2025-07-03,Almond Croissant,31,35,10.0,0,Sunny,Thursday
+2025-07-04,Almond Croissant,38,43,10.0,0,Cloudy,Friday
+2025-07-05,Almond Croissant,44,49,10.0,0,Cloudy,Saturday
+2025-07-06,Almond Croissant,45,53,10.0,0,Cloudy,Sunday
+2025-07-10,Almond Croissant,28,33,10.0,0,Cloudy,Thursday
+2025-07-11,Almond Croissant,31,35,10.0,0,Sunny,Friday
+2025-07-12,Almond Croissant,45,51,10.0,0,Rainy,Saturday
+2025-07-13,Almond Croissant,54,65,10.0,0,Cloudy,Sunday
+2025-07-17,Almond Croissant,32,36,10.0,0,Sunny,Thursday
+2025-07-18,Almond Croissant,31,35,10.0,0,Cloudy,Friday
+2025-07-19,Almond Croissant,42,51,10.0,0,Rainy,Saturday
+2025-07-20,Almond Croissant,38,46,10.0,0,Sunny,Sunday
+2025-07-24,Almond Croissant,23,28,10.0,0,Sunny,Thursday
+2025-07-25,Almond Croissant,34,38,10.0,0,Sunny,Friday
+2025-07-26,Almond Croissant,39,46,10.0,0,Rainy,Saturday
+2025-07-27,Almond Croissant,44,53,10.0,0,Cloudy,Sunday
+2025-07-31,Almond Croissant,23,27,10.0,0,Cloudy,Thursday
+2025-08-01,Almond Croissant,24,28,10.0,0,Cloudy,Friday
+2025-08-02,Almond Croissant,41,50,10.0,0,Sunny,Saturday
+2025-08-03,Almond Croissant,32,38,10.0,0,Rainy,Sunday
+2025-08-07,Almond Croissant,23,26,10.0,0,Rainy,Thursday
+2025-08-08,Almond Croissant,33,40,10.0,0,Rainy,Friday
+2025-08-09,Almond Croissant,54,63,10.0,0,Sunny,Saturday
+2025-08-10,Almond Croissant,42,47,10.0,0,Sunny,Sunday
+2025-08-14,Almond Croissant,20,23,10.0,0,Sunny,Thursday
+2025-08-15,Almond Croissant,27,30,10.0,0,Rainy,Friday
+2025-08-16,Almond Croissant,41,46,10.0,0,Sunny,Saturday
+2025-08-17,Almond Croissant,44,51,10.0,0,Sunny,Sunday
+2025-08-21,Almond Croissant,26,31,10.0,0,Cloudy,Thursday
+2025-08-22,Almond Croissant,31,36,10.0,0,Cloudy,Friday
+2025-08-23,Almond Croissant,70,84,10.0,25,Cloudy,Saturday
+2025-08-24,Almond Croissant,59,72,10.0,0,Sunny,Sunday
+2025-08-28,Almond Croissant,27,31,10.0,0,Cloudy,Thursday
+2025-08-29,Almond Croissant,53,62,10.0,25,Sunny,Friday
+2025-08-30,Almond Croissant,68,81,10.0,0,Sunny,Saturday
+2025-08-31,Almond Croissant,49,56,10.0,0,Sunny,Sunday
+2025-09-04,Almond Croissant,22,25,10.0,0,Cloudy,Thursday
+2025-09-05,Almond Croissant,30,33,10.0,0,Sunny,Friday
+2025-09-06,Almond Croissant,74,89,10.0,25,Sunny,Saturday
+2025-09-07,Almond Croissant,49,56,10.0,10,Sunny,Sunday
+2025-09-11,Almond Croissant,26,29,10.0,0,Cloudy,Thursday
+2025-09-12,Almond Croissant,44,51,10.0,0,Sunny,Friday
+2025-09-13,Almond Croissant,74,82,10.0,15,Cloudy,Saturday
+2025-09-14,Almond Croissant,50,58,10.0,0,Cloudy,Sunday
+2025-09-18,Almond Croissant,27,30,10.0,0,Cloudy,Thursday
+2025-09-19,Almond Croissant,37,42,10.0,0,Cloudy,Friday
+2025-09-20,Almond Croissant,67,77,10.0,20,Cloudy,Saturday
+2025-09-21,Almond Croissant,67,79,10.0,20,Sunny,Sunday
+2025-09-25,Almond Croissant,26,30,10.0,0,Rainy,Thursday
+2025-09-26,Almond Croissant,47,56,10.0,10,Sunny,Friday
+2025-09-27,Almond Croissant,52,62,10.0,0,Cloudy,Saturday
+2025-09-28,Almond Croissant,48,57,10.0,0,Cloudy,Sunday
+2025-10-02,Almond Croissant,28,32,10.0,0,Cloudy,Thursday
+2025-10-03,Almond Croissant,36,40,10.0,0,Cloudy,Friday
+2025-10-04,Almond Croissant,69,81,10.0,25,Rainy,Saturday
+2025-10-05,Almond Croissant,45,52,10.0,0,Sunny,Sunday
+2025-10-09,Almond Croissant,23,27,10.0,0,Sunny,Thursday
+2025-10-10,Almond Croissant,40,47,10.0,10,Sunny,Friday
+2025-10-11,Almond Croissant,57,67,10.0,0,Sunny,Saturday
+2025-10-12,Almond Croissant,47,57,10.0,0,Rainy,Sunday
+2025-10-16,Almond Croissant,31,36,10.0,0,Cloudy,Thursday
+2025-10-17,Almond Croissant,42,48,10.0,0,Sunny,Friday
+2025-10-18,Almond Croissant,42,47,10.0,0,Rainy,Saturday
+2025-10-19,Almond Croissant,47,55,10.0,0,Sunny,Sunday
+2025-10-23,Almond Croissant,31,37,10.0,0,Rainy,Thursday
+2025-10-24,Almond Croissant,46,56,10.0,0,Cloudy,Friday
+2025-10-25,Almond Croissant,57,66,10.0,0,Sunny,Saturday
+2025-10-26,Almond Croissant,49,58,10.0,0,Cloudy,Sunday
+2025-10-30,Almond Croissant,24,28,10.0,0,Rainy,Thursday
+2025-10-31,Almond Croissant,38,44,10.0,0,Sunny,Friday
+2025-11-01,Almond Croissant,55,65,10.0,0,Sunny,Saturday
+2025-11-02,Almond Croissant,37,45,10.0,0,Rainy,Sunday
+2025-11-06,Almond Croissant,24,30,10.0,0,Rainy,Thursday
+2025-11-07,Almond Croissant,35,42,10.0,0,Cloudy,Friday
+2025-11-08,Almond Croissant,51,61,10.0,0,Rainy,Saturday
+2025-11-09,Almond Croissant,55,63,10.0,0,Sunny,Sunday
+2025-11-13,Almond Croissant,26,29,10.0,0,Sunny,Thursday
+2025-11-14,Almond Croissant,35,43,10.0,0,Sunny,Friday
+2025-11-15,Almond Croissant,62,74,10.0,0,Sunny,Saturday
+2025-11-16,Almond Croissant,50,57,10.0,0,Cloudy,Sunday
+2025-11-20,Almond Croissant,28,32,10.0,0,Rainy,Thursday
+2025-11-21,Almond Croissant,39,47,10.0,0,Sunny,Friday
+2025-11-22,Almond Croissant,66,79,10.0,0,Sunny,Saturday
+2025-11-23,Almond Croissant,63,76,10.0,0,Sunny,Sunday
+2025-11-27,Almond Croissant,28,34,10.0,0,Rainy,Thursday
+2025-11-28,Almond Croissant,33,38,10.0,0,Cloudy,Friday
+2025-11-29,Almond Croissant,39,48,10.0,0,Rainy,Saturday
+2025-11-30,Almond Croissant,52,57,10.0,0,Sunny,Sunday
+2025-12-04,Almond Croissant,31,35,10.0,0,Sunny,Thursday
+2025-12-05,Almond Croissant,39,44,10.0,0,Sunny,Friday
+2025-12-06,Almond Croissant,52,59,10.0,0,Rainy,Saturday
+2025-12-07,Almond Croissant,54,61,10.0,0,Sunny,Sunday
+2025-12-11,Almond Croissant,36,42,10.0,0,Sunny,Thursday
+2025-12-12,Almond Croissant,42,51,10.0,0,Sunny,Friday
+2025-12-13,Almond Croissant,59,68,10.0,0,Sunny,Saturday
+2025-12-14,Almond Croissant,58,68,10.0,0,Sunny,Sunday
+2025-12-18,Almond Croissant,35,40,10.0,0,Sunny,Thursday
+2025-12-19,Almond Croissant,36,41,10.0,0,Cloudy,Friday
+2025-12-20,Almond Croissant,57,66,10.0,0,Sunny,Saturday
+2025-12-21,Almond Croissant,74,84,10.0,20,Sunny,Sunday
+2025-12-25,Almond Croissant,41,47,10.0,0,Sunny,Thursday
+2025-12-26,Almond Croissant,65,74,10.0,10,Rainy,Friday
+2025-12-27,Almond Croissant,77,87,10.0,25,Cloudy,Saturday
+2025-12-28,Almond Croissant,63,70,10.0,10,Sunny,Sunday
+2026-01-01,Almond Croissant,35,42,10.0,0,Cloudy,Thursday
+2026-01-02,Almond Croissant,40,49,10.0,0,Rainy,Friday
+2026-01-03,Almond Croissant,80,90,10.0,20,Cloudy,Saturday
+2026-01-04,Almond Croissant,55,63,10.0,0,Cloudy,Sunday
+2026-01-08,Almond Croissant,40,46,10.0,15,Cloudy,Thursday
+2026-01-09,Almond Croissant,43,48,10.0,0,Sunny,Friday
+2026-01-10,Almond Croissant,49,57,10.0,0,Sunny,Saturday
+2026-01-11,Almond Croissant,49,58,10.0,0,Sunny,Sunday
+2026-01-15,Almond Croissant,35,41,10.0,0,Sunny,Thursday
+2026-01-16,Almond Croissant,49,55,10.0,10,Sunny,Friday
+2026-01-17,Almond Croissant,51,58,10.0,0,Sunny,Saturday
+2026-01-18,Almond Croissant,42,50,10.0,0,Sunny,Sunday
+2026-01-22,Almond Croissant,27,31,10.0,0,Sunny,Thursday
+2026-01-23,Almond Croissant,29,34,10.0,0,Rainy,Friday
+2026-01-24,Almond Croissant,53,59,10.0,0,Cloudy,Saturday
+2026-01-25,Almond Croissant,47,52,10.0,0,Cloudy,Sunday
+2026-01-29,Almond Croissant,26,30,10.0,0,Sunny,Thursday
+2026-01-30,Almond Croissant,46,53,10.0,0,Sunny,Friday
+2026-01-31,Almond Croissant,65,78,10.0,0,Sunny,Saturday
+2026-02-01,Almond Croissant,51,58,10.0,0,Cloudy,Sunday
+2026-02-05,Almond Croissant,27,30,10.0,0,Cloudy,Thursday
+2026-02-06,Almond Croissant,41,46,10.0,0,Cloudy,Friday
+2026-02-07,Almond Croissant,51,59,10.0,0,Cloudy,Saturday
+2026-02-08,Almond Croissant,62,75,10.0,0,Sunny,Sunday
+2026-02-12,Almond Croissant,53,59,10.0,0,Sunny,Thursday
+2026-02-13,Almond Croissant,56,66,10.0,0,Cloudy,Friday
+2026-02-14,Almond Croissant,88,97,10.0,0,Sunny,Saturday
+2026-02-15,Almond Croissant,75,87,10.0,20,Cloudy,Sunday
+2026-02-19,Almond Croissant,29,33,10.0,0,Sunny,Thursday
+2026-02-20,Almond Croissant,41,49,10.0,0,Sunny,Friday
+2026-02-21,Almond Croissant,64,75,10.0,0,Sunny,Saturday
+2026-02-22,Almond Croissant,39,43,10.0,0,Cloudy,Sunday
+2026-02-26,Almond Croissant,24,28,10.0,0,Cloudy,Thursday
+2026-02-27,Almond Croissant,40,48,10.0,0,Sunny,Friday
+2026-02-28,Almond Croissant,80,93,10.0,25,Cloudy,Saturday
+2026-03-01,Almond Croissant,51,58,10.0,0,Cloudy,Sunday
+2026-03-05,Almond Croissant,24,28,10.0,0,Cloudy,Thursday
+2026-03-06,Almond Croissant,39,43,10.0,0,Sunny,Friday
+2026-03-07,Almond Croissant,64,77,10.0,0,Sunny,Saturday
+2026-03-08,Almond Croissant,53,59,10.0,0,Cloudy,Sunday
+2026-03-12,Almond Croissant,37,44,10.0,0,Sunny,Thursday
+2026-03-13,Almond Croissant,40,48,10.0,0,Rainy,Friday
+2026-03-14,Almond Croissant,61,74,10.0,0,Sunny,Saturday
+2026-03-15,Almond Croissant,72,83,10.0,0,Sunny,Sunday
+2026-03-19,Almond Croissant,33,37,10.0,0,Cloudy,Thursday
+2026-03-20,Almond Croissant,36,40,10.0,0,Cloudy,Friday
+2026-03-21,Almond Croissant,54,64,10.0,0,Rainy,Saturday
+2026-03-22,Almond Croissant,61,70,10.0,0,Sunny,Sunday
+2026-03-26,Almond Croissant,35,43,10.0,0,Sunny,Thursday
+2026-03-27,Almond Croissant,38,45,10.0,0,Cloudy,Friday
+2026-03-28,Almond Croissant,57,68,10.0,0,Sunny,Saturday
+2026-03-29,Almond Croissant,57,67,10.0,0,Cloudy,Sunday
+2026-04-02,Almond Croissant,35,43,10.0,0,Cloudy,Thursday
+2026-04-03,Almond Croissant,37,45,10.0,0,Rainy,Friday
+2026-04-04,Almond Croissant,73,88,10.0,0,Sunny,Saturday
+2026-04-05,Almond Croissant,62,69,10.0,0,Rainy,Sunday
+2026-04-09,Almond Croissant,36,41,10.0,0,Sunny,Thursday
+2026-04-10,Almond Croissant,37,43,10.0,0,Sunny,Friday
+2026-04-11,Almond Croissant,57,64,10.0,0,Sunny,Saturday
+2026-04-12,Almond Croissant,56,63,10.0,0,Cloudy,Sunday
+2026-04-16,Almond Croissant,35,39,10.0,0,Sunny,Thursday
+2026-04-17,Almond Croissant,49,55,10.0,0,Sunny,Friday
+2026-04-18,Almond Croissant,58,65,10.0,0,Cloudy,Saturday
+2026-04-19,Almond Croissant,59,70,10.0,0,Cloudy,Sunday
+2026-04-23,Almond Croissant,39,46,10.0,0,Sunny,Thursday
+2026-04-24,Almond Croissant,35,42,10.0,0,Cloudy,Friday
+2026-04-25,Almond Croissant,71,86,10.0,0,Sunny,Saturday
+2026-04-26,Almond Croissant,65,74,10.0,0,Sunny,Sunday
+2026-04-30,Almond Croissant,29,32,10.0,0,Sunny,Thursday
+2026-05-01,Almond Croissant,48,55,10.0,25,Rainy,Friday
+2026-05-02,Almond Croissant,63,74,10.0,0,Sunny,Saturday
+2026-05-03,Almond Croissant,71,80,10.0,25,Rainy,Sunday
+2026-05-07,Almond Croissant,36,40,10.0,0,Sunny,Thursday
+2026-05-08,Almond Croissant,42,47,10.0,0,Sunny,Friday
+2026-05-09,Almond Croissant,58,65,10.0,0,Cloudy,Saturday
+2026-05-10,Almond Croissant,71,80,10.0,0,Sunny,Sunday
+2026-05-14,Almond Croissant,28,33,10.0,0,Rainy,Thursday
+2026-05-15,Almond Croissant,40,47,10.0,0,Sunny,Friday
+2026-05-16,Almond Croissant,71,79,10.0,0,Sunny,Saturday
+2026-05-17,Almond Croissant,64,73,10.0,0,Sunny,Sunday
+2025-01-02,Lemon Tart,18,22,12.0,15,Sunny,Thursday
+2025-01-03,Lemon Tart,17,20,12.0,0,Sunny,Friday
+2025-01-04,Lemon Tart,20,23,12.0,0,Rainy,Saturday
+2025-01-05,Lemon Tart,22,26,12.0,0,Sunny,Sunday
+2025-01-09,Lemon Tart,17,19,12.0,0,Sunny,Thursday
+2025-01-10,Lemon Tart,15,16,12.0,0,Rainy,Friday
+2025-01-11,Lemon Tart,23,28,12.0,0,Sunny,Saturday
+2025-01-12,Lemon Tart,19,22,12.0,0,Rainy,Sunday
+2025-01-16,Lemon Tart,13,16,12.0,0,Cloudy,Thursday
+2025-01-17,Lemon Tart,15,19,12.0,0,Cloudy,Friday
+2025-01-18,Lemon Tart,25,29,12.0,0,Sunny,Saturday
+2025-01-19,Lemon Tart,21,24,12.0,0,Sunny,Sunday
+2025-01-23,Lemon Tart,11,12,12.0,0,Sunny,Thursday
+2025-01-24,Lemon Tart,15,17,12.0,0,Rainy,Friday
+2025-01-25,Lemon Tart,24,29,12.0,0,Sunny,Saturday
+2025-01-26,Lemon Tart,21,25,12.0,0,Sunny,Sunday
+2025-01-30,Lemon Tart,18,22,12.0,0,Cloudy,Thursday
+2025-01-31,Lemon Tart,14,16,12.0,0,Sunny,Friday
+2025-02-01,Lemon Tart,19,22,12.0,0,Cloudy,Saturday
+2025-02-02,Lemon Tart,17,19,12.0,0,Rainy,Sunday
+2025-02-06,Lemon Tart,14,16,12.0,0,Sunny,Thursday
+2025-02-07,Lemon Tart,15,17,12.0,0,Sunny,Friday
+2025-02-08,Lemon Tart,20,24,12.0,0,Sunny,Saturday
+2025-02-09,Lemon Tart,20,22,12.0,0,Cloudy,Sunday
+2025-02-13,Lemon Tart,16,19,12.0,0,Sunny,Thursday
+2025-02-14,Lemon Tart,22,25,12.0,0,Rainy,Friday
+2025-02-15,Lemon Tart,37,43,12.0,25,Sunny,Saturday
+2025-02-16,Lemon Tart,25,31,12.0,0,Sunny,Sunday
+2025-02-20,Lemon Tart,14,16,12.0,0,Sunny,Thursday
+2025-02-21,Lemon Tart,16,19,12.0,0,Cloudy,Friday
+2025-02-22,Lemon Tart,20,23,12.0,0,Rainy,Saturday
+2025-02-23,Lemon Tart,23,28,12.0,0,Cloudy,Sunday
+2025-02-27,Lemon Tart,15,18,12.0,0,Cloudy,Thursday
+2025-02-28,Lemon Tart,20,23,12.0,0,Sunny,Friday
+2025-03-01,Lemon Tart,28,34,12.0,0,Sunny,Saturday
+2025-03-02,Lemon Tart,23,27,12.0,0,Sunny,Sunday
+2025-03-06,Lemon Tart,12,13,12.0,0,Cloudy,Thursday
+2025-03-07,Lemon Tart,19,22,12.0,0,Sunny,Friday
+2025-03-08,Lemon Tart,23,26,12.0,0,Sunny,Saturday
+2025-03-09,Lemon Tart,22,24,12.0,0,Sunny,Sunday
+2025-03-13,Lemon Tart,12,13,12.0,0,Rainy,Thursday
+2025-03-14,Lemon Tart,22,25,12.0,10,Sunny,Friday
+2025-03-15,Lemon Tart,32,37,12.0,0,Sunny,Saturday
+2025-03-16,Lemon Tart,26,31,12.0,0,Sunny,Sunday
+2025-03-20,Lemon Tart,12,14,12.0,0,Sunny,Thursday
+2025-03-21,Lemon Tart,24,27,12.0,25,Sunny,Friday
+2025-03-22,Lemon Tart,20,23,12.0,0,Cloudy,Saturday
+2025-03-23,Lemon Tart,27,30,12.0,25,Cloudy,Sunday
+2025-03-27,Lemon Tart,11,13,12.0,0,Rainy,Thursday
+2025-03-28,Lemon Tart,19,21,12.0,0,Sunny,Friday
+2025-03-29,Lemon Tart,36,43,12.0,0,Sunny,Saturday
+2025-03-30,Lemon Tart,21,25,12.0,0,Rainy,Sunday
+2025-04-03,Lemon Tart,16,19,12.0,0,Sunny,Thursday
+2025-04-04,Lemon Tart,25,30,12.0,10,Sunny,Friday
+2025-04-05,Lemon Tart,24,28,12.0,0,Sunny,Saturday
+2025-04-06,Lemon Tart,23,27,12.0,0,Cloudy,Sunday
+2025-04-10,Lemon Tart,14,16,12.0,0,Rainy,Thursday
+2025-04-11,Lemon Tart,19,21,12.0,0,Sunny,Friday
+2025-04-12,Lemon Tart,30,37,12.0,0,Sunny,Saturday
+2025-04-13,Lemon Tart,27,31,12.0,0,Cloudy,Sunday
+2025-04-17,Lemon Tart,14,17,12.0,0,Cloudy,Thursday
+2025-04-18,Lemon Tart,20,24,12.0,10,Cloudy,Friday
+2025-04-19,Lemon Tart,31,34,12.0,25,Cloudy,Saturday
+2025-04-20,Lemon Tart,21,25,12.0,0,Sunny,Sunday
+2025-04-24,Lemon Tart,13,14,12.0,10,Rainy,Thursday
+2025-04-25,Lemon Tart,15,17,12.0,0,Cloudy,Friday
+2025-04-26,Lemon Tart,26,31,12.0,0,Sunny,Saturday
+2025-04-27,Lemon Tart,18,21,12.0,0,Rainy,Sunday
+2025-05-01,Lemon Tart,16,19,12.0,0,Sunny,Thursday
+2025-05-02,Lemon Tart,26,31,12.0,25,Sunny,Friday
+2025-05-03,Lemon Tart,23,28,12.0,0,Cloudy,Saturday
+2025-05-04,Lemon Tart,28,31,12.0,10,Sunny,Sunday
+2025-05-08,Lemon Tart,15,18,12.0,0,Sunny,Thursday
+2025-05-09,Lemon Tart,17,20,12.0,0,Sunny,Friday
+2025-05-10,Lemon Tart,27,31,12.0,0,Sunny,Saturday
+2025-05-11,Lemon Tart,36,43,12.0,0,Cloudy,Sunday
+2025-05-15,Lemon Tart,17,20,12.0,0,Sunny,Thursday
+2025-05-16,Lemon Tart,17,20,12.0,0,Sunny,Friday
+2025-05-17,Lemon Tart,23,27,12.0,0,Cloudy,Saturday
+2025-05-18,Lemon Tart,22,25,12.0,0,Cloudy,Sunday
+2025-05-22,Lemon Tart,14,15,12.0,0,Sunny,Thursday
+2025-05-23,Lemon Tart,17,21,12.0,0,Rainy,Friday
+2025-05-24,Lemon Tart,28,33,12.0,0,Cloudy,Saturday
+2025-05-25,Lemon Tart,19,21,12.0,0,Rainy,Sunday
+2025-05-29,Lemon Tart,15,17,12.0,0,Sunny,Thursday
+2025-05-30,Lemon Tart,19,21,12.0,0,Sunny,Friday
+2025-05-31,Lemon Tart,26,30,12.0,0,Sunny,Saturday
+2025-06-01,Lemon Tart,23,28,12.0,0,Cloudy,Sunday
+2025-06-05,Lemon Tart,11,13,12.0,0,Rainy,Thursday
+2025-06-06,Lemon Tart,17,21,12.0,0,Sunny,Friday
+2025-06-07,Lemon Tart,25,28,12.0,0,Cloudy,Saturday
+2025-06-08,Lemon Tart,26,31,12.0,10,Rainy,Sunday
+2025-06-12,Lemon Tart,14,16,12.0,0,Cloudy,Thursday
+2025-06-13,Lemon Tart,17,21,12.0,0,Sunny,Friday
+2025-06-14,Lemon Tart,28,31,12.0,0,Cloudy,Saturday
+2025-06-15,Lemon Tart,23,27,12.0,10,Rainy,Sunday
+2025-06-19,Lemon Tart,12,15,12.0,10,Rainy,Thursday
+2025-06-20,Lemon Tart,26,30,12.0,15,Cloudy,Friday
+2025-06-21,Lemon Tart,22,25,12.0,0,Rainy,Saturday
+2025-06-22,Lemon Tart,28,33,12.0,0,Sunny,Sunday
+2025-06-26,Lemon Tart,13,15,12.0,0,Rainy,Thursday
+2025-06-27,Lemon Tart,21,25,12.0,0,Sunny,Friday
+2025-06-28,Lemon Tart,23,27,12.0,0,Rainy,Saturday
+2025-06-29,Lemon Tart,28,33,12.0,0,Sunny,Sunday
+2025-07-03,Lemon Tart,17,20,12.0,0,Sunny,Thursday
+2025-07-04,Lemon Tart,22,25,12.0,25,Cloudy,Friday
+2025-07-05,Lemon Tart,29,35,12.0,0,Cloudy,Saturday
+2025-07-06,Lemon Tart,30,35,12.0,0,Cloudy,Sunday
+2025-07-10,Lemon Tart,16,19,12.0,0,Cloudy,Thursday
+2025-07-11,Lemon Tart,20,23,12.0,0,Sunny,Friday
+2025-07-12,Lemon Tart,26,30,12.0,10,Rainy,Saturday
+2025-07-13,Lemon Tart,25,28,12.0,0,Cloudy,Sunday
+2025-07-17,Lemon Tart,18,20,12.0,0,Sunny,Thursday
+2025-07-18,Lemon Tart,23,27,12.0,0,Cloudy,Friday
+2025-07-19,Lemon Tart,28,33,12.0,0,Rainy,Saturday
+2025-07-20,Lemon Tart,20,23,12.0,0,Sunny,Sunday
+2025-07-24,Lemon Tart,15,17,12.0,15,Sunny,Thursday
+2025-07-25,Lemon Tart,21,25,12.0,0,Sunny,Friday
+2025-07-26,Lemon Tart,26,32,12.0,0,Rainy,Saturday
+2025-07-27,Lemon Tart,26,30,12.0,0,Cloudy,Sunday
+2025-07-31,Lemon Tart,16,20,12.0,0,Cloudy,Thursday
+2025-08-01,Lemon Tart,21,23,12.0,0,Cloudy,Friday
+2025-08-02,Lemon Tart,30,35,12.0,0,Sunny,Saturday
+2025-08-03,Lemon Tart,24,27,12.0,0,Rainy,Sunday
+2025-08-07,Lemon Tart,18,21,12.0,0,Rainy,Thursday
+2025-08-08,Lemon Tart,23,27,12.0,0,Rainy,Friday
+2025-08-09,Lemon Tart,31,34,12.0,0,Sunny,Saturday
+2025-08-10,Lemon Tart,35,42,12.0,10,Sunny,Sunday
+2025-08-14,Lemon Tart,19,21,12.0,0,Sunny,Thursday
+2025-08-15,Lemon Tart,16,19,12.0,0,Rainy,Friday
+2025-08-16,Lemon Tart,25,30,12.0,0,Sunny,Saturday
+2025-08-17,Lemon Tart,36,42,12.0,20,Sunny,Sunday
+2025-08-21,Lemon Tart,16,19,12.0,0,Cloudy,Thursday
+2025-08-22,Lemon Tart,18,20,12.0,0,Cloudy,Friday
+2025-08-23,Lemon Tart,24,27,12.0,0,Cloudy,Saturday
+2025-08-24,Lemon Tart,25,29,12.0,0,Sunny,Sunday
+2025-08-28,Lemon Tart,17,19,12.0,0,Cloudy,Thursday
+2025-08-29,Lemon Tart,23,28,12.0,0,Sunny,Friday
+2025-08-30,Lemon Tart,33,40,12.0,0,Sunny,Saturday
+2025-08-31,Lemon Tart,33,39,12.0,0,Sunny,Sunday
+2025-09-04,Lemon Tart,18,21,12.0,0,Cloudy,Thursday
+2025-09-05,Lemon Tart,25,30,12.0,0,Sunny,Friday
+2025-09-06,Lemon Tart,33,40,12.0,0,Sunny,Saturday
+2025-09-07,Lemon Tart,26,30,12.0,0,Sunny,Sunday
+2025-09-11,Lemon Tart,13,16,12.0,0,Cloudy,Thursday
+2025-09-12,Lemon Tart,24,27,12.0,0,Sunny,Friday
+2025-09-13,Lemon Tart,24,28,12.0,0,Cloudy,Saturday
+2025-09-14,Lemon Tart,20,24,12.0,0,Cloudy,Sunday
+2025-09-18,Lemon Tart,19,21,12.0,10,Cloudy,Thursday
+2025-09-19,Lemon Tart,21,23,12.0,0,Cloudy,Friday
+2025-09-20,Lemon Tart,34,41,12.0,0,Cloudy,Saturday
+2025-09-21,Lemon Tart,47,55,12.0,20,Sunny,Sunday
+2025-09-25,Lemon Tart,16,19,12.0,0,Rainy,Thursday
+2025-09-26,Lemon Tart,22,25,12.0,0,Sunny,Friday
+2025-09-27,Lemon Tart,30,35,12.0,0,Cloudy,Saturday
+2025-09-28,Lemon Tart,27,32,12.0,0,Cloudy,Sunday
+2025-10-02,Lemon Tart,16,19,12.0,0,Cloudy,Thursday
+2025-10-03,Lemon Tart,21,25,12.0,0,Cloudy,Friday
+2025-10-04,Lemon Tart,32,38,12.0,20,Rainy,Saturday
+2025-10-05,Lemon Tart,27,32,12.0,0,Sunny,Sunday
+2025-10-09,Lemon Tart,17,19,12.0,0,Sunny,Thursday
+2025-10-10,Lemon Tart,24,29,12.0,0,Sunny,Friday
+2025-10-11,Lemon Tart,36,43,12.0,0,Sunny,Saturday
+2025-10-12,Lemon Tart,25,28,12.0,0,Rainy,Sunday
+2025-10-16,Lemon Tart,20,24,12.0,25,Cloudy,Thursday
+2025-10-17,Lemon Tart,16,18,12.0,0,Sunny,Friday
+2025-10-18,Lemon Tart,18,22,12.0,0,Rainy,Saturday
+2025-10-19,Lemon Tart,29,35,12.0,0,Sunny,Sunday
+2025-10-23,Lemon Tart,15,18,12.0,0,Rainy,Thursday
+2025-10-24,Lemon Tart,21,23,12.0,0,Cloudy,Friday
+2025-10-25,Lemon Tart,34,38,12.0,0,Sunny,Saturday
+2025-10-26,Lemon Tart,27,32,12.0,0,Cloudy,Sunday
+2025-10-30,Lemon Tart,14,17,12.0,0,Rainy,Thursday
+2025-10-31,Lemon Tart,28,33,12.0,0,Sunny,Friday
+2025-11-01,Lemon Tart,34,39,12.0,0,Sunny,Saturday
+2025-11-02,Lemon Tart,23,27,12.0,0,Rainy,Sunday
+2025-11-06,Lemon Tart,14,18,12.0,0,Rainy,Thursday
+2025-11-07,Lemon Tart,21,24,12.0,0,Cloudy,Friday
+2025-11-08,Lemon Tart,22,27,12.0,0,Rainy,Saturday
+2025-11-09,Lemon Tart,29,34,12.0,0,Sunny,Sunday
+2025-11-13,Lemon Tart,19,23,12.0,0,Sunny,Thursday
+2025-11-14,Lemon Tart,20,22,12.0,0,Sunny,Friday
+2025-11-15,Lemon Tart,29,33,12.0,0,Sunny,Saturday
+2025-11-16,Lemon Tart,29,34,12.0,0,Cloudy,Sunday
+2025-11-20,Lemon Tart,19,21,12.0,0,Rainy,Thursday
+2025-11-21,Lemon Tart,23,27,12.0,0,Sunny,Friday
+2025-11-22,Lemon Tart,34,39,12.0,0,Sunny,Saturday
+2025-11-23,Lemon Tart,35,42,12.0,0,Sunny,Sunday
+2025-11-27,Lemon Tart,20,24,12.0,0,Rainy,Thursday
+2025-11-28,Lemon Tart,22,26,12.0,0,Cloudy,Friday
+2025-11-29,Lemon Tart,26,32,12.0,0,Rainy,Saturday
+2025-11-30,Lemon Tart,41,46,12.0,25,Sunny,Sunday
+2025-12-04,Lemon Tart,17,19,12.0,0,Sunny,Thursday
+2025-12-05,Lemon Tart,24,28,12.0,0,Sunny,Friday
+2025-12-06,Lemon Tart,27,32,12.0,0,Rainy,Saturday
+2025-12-07,Lemon Tart,44,49,12.0,0,Sunny,Sunday
+2025-12-11,Lemon Tart,23,27,12.0,0,Sunny,Thursday
+2025-12-12,Lemon Tart,25,27,12.0,0,Sunny,Friday
+2025-12-13,Lemon Tart,28,32,12.0,0,Sunny,Saturday
+2025-12-14,Lemon Tart,33,39,12.0,0,Sunny,Sunday
+2025-12-18,Lemon Tart,18,21,12.0,0,Sunny,Thursday
+2025-12-19,Lemon Tart,21,23,12.0,0,Cloudy,Friday
+2025-12-20,Lemon Tart,33,37,12.0,0,Sunny,Saturday
+2025-12-21,Lemon Tart,39,43,12.0,15,Sunny,Sunday
+2025-12-25,Lemon Tart,22,25,12.0,0,Sunny,Thursday
+2025-12-26,Lemon Tart,24,28,12.0,0,Rainy,Friday
+2025-12-27,Lemon Tart,35,41,12.0,0,Cloudy,Saturday
+2025-12-28,Lemon Tart,41,46,12.0,0,Sunny,Sunday
+2026-01-01,Lemon Tart,22,26,12.0,0,Cloudy,Thursday
+2026-01-02,Lemon Tart,21,24,12.0,0,Rainy,Friday
+2026-01-03,Lemon Tart,34,41,12.0,0,Cloudy,Saturday
+2026-01-04,Lemon Tart,30,34,12.0,0,Cloudy,Sunday
+2026-01-08,Lemon Tart,18,20,12.0,0,Cloudy,Thursday
+2026-01-09,Lemon Tart,39,46,12.0,20,Sunny,Friday
+2026-01-10,Lemon Tart,33,39,12.0,0,Sunny,Saturday
+2026-01-11,Lemon Tart,29,32,12.0,0,Sunny,Sunday
+2026-01-15,Lemon Tart,18,22,12.0,0,Sunny,Thursday
+2026-01-16,Lemon Tart,26,32,12.0,0,Sunny,Friday
+2026-01-17,Lemon Tart,37,42,12.0,10,Sunny,Saturday
+2026-01-18,Lemon Tart,30,36,12.0,0,Sunny,Sunday
+2026-01-22,Lemon Tart,20,24,12.0,0,Sunny,Thursday
+2026-01-23,Lemon Tart,21,25,12.0,0,Rainy,Friday
+2026-01-24,Lemon Tart,33,40,12.0,0,Cloudy,Saturday
+2026-01-25,Lemon Tart,36,41,12.0,0,Cloudy,Sunday
+2026-01-29,Lemon Tart,23,27,12.0,0,Sunny,Thursday
+2026-01-30,Lemon Tart,25,29,12.0,0,Sunny,Friday
+2026-01-31,Lemon Tart,37,42,12.0,15,Sunny,Saturday
+2026-02-01,Lemon Tart,24,27,12.0,0,Cloudy,Sunday
+2026-02-05,Lemon Tart,17,19,12.0,0,Cloudy,Thursday
+2026-02-06,Lemon Tart,23,28,12.0,0,Cloudy,Friday
+2026-02-07,Lemon Tart,33,37,12.0,10,Cloudy,Saturday
+2026-02-08,Lemon Tart,37,42,12.0,15,Sunny,Sunday
+2026-02-12,Lemon Tart,31,37,12.0,0,Sunny,Thursday
+2026-02-13,Lemon Tart,35,40,12.0,0,Cloudy,Friday
+2026-02-14,Lemon Tart,55,66,12.0,0,Sunny,Saturday
+2026-02-15,Lemon Tart,31,37,12.0,0,Cloudy,Sunday
+2026-02-19,Lemon Tart,21,24,12.0,0,Sunny,Thursday
+2026-02-20,Lemon Tart,26,29,12.0,0,Sunny,Friday
+2026-02-21,Lemon Tart,35,39,12.0,0,Sunny,Saturday
+2026-02-22,Lemon Tart,31,38,12.0,0,Cloudy,Sunday
+2026-02-26,Lemon Tart,17,21,12.0,0,Cloudy,Thursday
+2026-02-27,Lemon Tart,25,31,12.0,0,Sunny,Friday
+2026-02-28,Lemon Tart,34,38,12.0,0,Cloudy,Saturday
+2026-03-01,Lemon Tart,32,36,12.0,0,Cloudy,Sunday
+2026-03-05,Lemon Tart,22,25,12.0,0,Cloudy,Thursday
+2026-03-06,Lemon Tart,24,27,12.0,0,Sunny,Friday
+2026-03-07,Lemon Tart,34,42,12.0,0,Sunny,Saturday
+2026-03-08,Lemon Tart,29,32,12.0,0,Cloudy,Sunday
+2026-03-12,Lemon Tart,24,28,12.0,0,Sunny,Thursday
+2026-03-13,Lemon Tart,27,32,12.0,0,Rainy,Friday
+2026-03-14,Lemon Tart,40,46,12.0,0,Sunny,Saturday
+2026-03-15,Lemon Tart,29,33,12.0,0,Sunny,Sunday
+2026-03-19,Lemon Tart,18,21,12.0,0,Cloudy,Thursday
+2026-03-20,Lemon Tart,23,26,12.0,0,Cloudy,Friday
+2026-03-21,Lemon Tart,28,33,12.0,0,Rainy,Saturday
+2026-03-22,Lemon Tart,32,39,12.0,0,Sunny,Sunday
+2026-03-26,Lemon Tart,18,22,12.0,0,Sunny,Thursday
+2026-03-27,Lemon Tart,23,27,12.0,0,Cloudy,Friday
+2026-03-28,Lemon Tart,33,40,12.0,0,Sunny,Saturday
+2026-03-29,Lemon Tart,32,37,12.0,0,Cloudy,Sunday
+2026-04-02,Lemon Tart,20,25,12.0,0,Cloudy,Thursday
+2026-04-03,Lemon Tart,23,27,12.0,0,Rainy,Friday
+2026-04-04,Lemon Tart,35,39,12.0,0,Sunny,Saturday
+2026-04-05,Lemon Tart,28,34,12.0,0,Rainy,Sunday
+2026-04-09,Lemon Tart,25,29,12.0,0,Sunny,Thursday
+2026-04-10,Lemon Tart,27,30,12.0,0,Sunny,Friday
+2026-04-11,Lemon Tart,35,40,12.0,0,Sunny,Saturday
+2026-04-12,Lemon Tart,31,37,12.0,0,Cloudy,Sunday
+2026-04-16,Lemon Tart,29,34,12.0,15,Sunny,Thursday
+2026-04-17,Lemon Tart,30,33,12.0,0,Sunny,Friday
+2026-04-18,Lemon Tart,37,42,12.0,0,Cloudy,Saturday
+2026-04-19,Lemon Tart,35,39,12.0,0,Cloudy,Sunday
+2026-04-23,Lemon Tart,22,26,12.0,0,Sunny,Thursday
+2026-04-24,Lemon Tart,27,32,12.0,0,Cloudy,Friday
+2026-04-25,Lemon Tart,35,42,12.0,0,Sunny,Saturday
+2026-04-26,Lemon Tart,34,41,12.0,0,Sunny,Sunday
+2026-04-30,Lemon Tart,20,24,12.0,0,Sunny,Thursday
+2026-05-01,Lemon Tart,22,25,12.0,0,Rainy,Friday
+2026-05-02,Lemon Tart,39,43,12.0,0,Sunny,Saturday
+2026-05-03,Lemon Tart,27,32,12.0,0,Rainy,Sunday
+2026-05-07,Lemon Tart,23,28,12.0,0,Sunny,Thursday
+2026-05-08,Lemon Tart,37,43,12.0,25,Sunny,Friday
+2026-05-09,Lemon Tart,38,42,12.0,0,Cloudy,Saturday
+2026-05-10,Lemon Tart,45,54,12.0,0,Sunny,Sunday
+2026-05-14,Lemon Tart,13,16,12.0,0,Rainy,Thursday
+2026-05-15,Lemon Tart,33,37,12.0,10,Sunny,Friday
+2026-05-16,Lemon Tart,43,51,12.0,0,Sunny,Saturday
+2026-05-17,Lemon Tart,40,46,12.0,0,Sunny,Sunday
+2025-01-02,Seasonal Special,12,15,15.0,0,Sunny,Thursday
+2025-01-03,Seasonal Special,14,17,15.0,0,Sunny,Friday
+2025-01-04,Seasonal Special,21,23,15.0,0,Rainy,Saturday
+2025-01-05,Seasonal Special,22,26,15.0,0,Sunny,Sunday
+2025-01-09,Seasonal Special,9,11,15.0,0,Sunny,Thursday
+2025-01-10,Seasonal Special,10,12,15.0,0,Rainy,Friday
+2025-01-11,Seasonal Special,19,22,15.0,0,Sunny,Saturday
+2025-01-12,Seasonal Special,18,22,15.0,0,Rainy,Sunday
+2025-01-16,Seasonal Special,10,11,15.0,0,Cloudy,Thursday
+2025-01-17,Seasonal Special,13,15,15.0,0,Cloudy,Friday
+2025-01-18,Seasonal Special,19,23,15.0,0,Sunny,Saturday
+2025-01-19,Seasonal Special,24,28,15.0,10,Sunny,Sunday
+2025-01-23,Seasonal Special,11,13,15.0,0,Sunny,Thursday
+2025-01-24,Seasonal Special,11,12,15.0,0,Rainy,Friday
+2025-01-25,Seasonal Special,24,27,15.0,0,Sunny,Saturday
+2025-01-26,Seasonal Special,22,26,15.0,0,Sunny,Sunday
+2025-01-30,Seasonal Special,17,20,15.0,0,Cloudy,Thursday
+2025-01-31,Seasonal Special,16,19,15.0,10,Sunny,Friday
+2025-02-01,Seasonal Special,22,27,15.0,0,Cloudy,Saturday
+2025-02-02,Seasonal Special,20,24,15.0,0,Rainy,Sunday
+2025-02-06,Seasonal Special,11,13,15.0,0,Sunny,Thursday
+2025-02-07,Seasonal Special,10,11,15.0,0,Sunny,Friday
+2025-02-08,Seasonal Special,18,22,15.0,0,Sunny,Saturday
+2025-02-09,Seasonal Special,18,21,15.0,0,Cloudy,Sunday
+2025-02-13,Seasonal Special,16,18,15.0,0,Sunny,Thursday
+2025-02-14,Seasonal Special,17,19,15.0,0,Rainy,Friday
+2025-02-15,Seasonal Special,19,22,15.0,0,Sunny,Saturday
+2025-02-16,Seasonal Special,25,28,15.0,10,Sunny,Sunday
+2025-02-20,Seasonal Special,11,13,15.0,0,Sunny,Thursday
+2025-02-21,Seasonal Special,13,16,15.0,10,Cloudy,Friday
+2025-02-22,Seasonal Special,20,24,15.0,0,Rainy,Saturday
+2025-02-23,Seasonal Special,20,23,15.0,0,Cloudy,Sunday
+2025-02-27,Seasonal Special,12,14,15.0,0,Cloudy,Thursday
+2025-02-28,Seasonal Special,17,19,15.0,0,Sunny,Friday
+2025-03-01,Seasonal Special,25,29,15.0,0,Sunny,Saturday
+2025-03-02,Seasonal Special,25,28,15.0,0,Sunny,Sunday
+2025-03-06,Seasonal Special,13,14,15.0,0,Cloudy,Thursday
+2025-03-07,Seasonal Special,14,16,15.0,0,Sunny,Friday
+2025-03-08,Seasonal Special,25,29,15.0,0,Sunny,Saturday
+2025-03-09,Seasonal Special,23,27,15.0,0,Sunny,Sunday
+2025-03-13,Seasonal Special,13,15,15.0,10,Rainy,Thursday
+2025-03-14,Seasonal Special,14,16,15.0,0,Sunny,Friday
+2025-03-15,Seasonal Special,22,25,15.0,0,Sunny,Saturday
+2025-03-16,Seasonal Special,24,28,15.0,0,Sunny,Sunday
+2025-03-20,Seasonal Special,13,15,15.0,0,Sunny,Thursday
+2025-03-21,Seasonal Special,15,17,15.0,0,Sunny,Friday
+2025-03-22,Seasonal Special,23,27,15.0,15,Cloudy,Saturday
+2025-03-23,Seasonal Special,22,25,15.0,0,Cloudy,Sunday
+2025-03-27,Seasonal Special,13,15,15.0,0,Rainy,Thursday
+2025-03-28,Seasonal Special,13,16,15.0,0,Sunny,Friday
+2025-03-29,Seasonal Special,33,38,15.0,0,Sunny,Saturday
+2025-03-30,Seasonal Special,20,24,15.0,0,Rainy,Sunday
+2025-04-03,Seasonal Special,14,17,15.0,0,Sunny,Thursday
+2025-04-04,Seasonal Special,17,20,15.0,0,Sunny,Friday
+2025-04-05,Seasonal Special,23,27,15.0,0,Sunny,Saturday
+2025-04-06,Seasonal Special,21,25,15.0,0,Cloudy,Sunday
+2025-04-10,Seasonal Special,9,11,15.0,0,Rainy,Thursday
+2025-04-11,Seasonal Special,17,19,15.0,0,Sunny,Friday
+2025-04-12,Seasonal Special,28,31,15.0,0,Sunny,Saturday
+2025-04-13,Seasonal Special,19,20,15.0,0,Cloudy,Sunday
+2025-04-17,Seasonal Special,10,11,15.0,0,Cloudy,Thursday
+2025-04-18,Seasonal Special,16,18,15.0,0,Cloudy,Friday
+2025-04-19,Seasonal Special,21,23,15.0,0,Cloudy,Saturday
+2025-04-20,Seasonal Special,21,23,15.0,0,Sunny,Sunday
+2025-04-24,Seasonal Special,13,14,15.0,0,Rainy,Thursday
+2025-04-25,Seasonal Special,12,14,15.0,0,Cloudy,Friday
+2025-04-26,Seasonal Special,21,25,15.0,0,Sunny,Saturday
+2025-04-27,Seasonal Special,20,24,15.0,0,Rainy,Sunday
+2025-05-01,Seasonal Special,15,18,15.0,0,Sunny,Thursday
+2025-05-02,Seasonal Special,16,19,15.0,0,Sunny,Friday
+2025-05-03,Seasonal Special,26,31,15.0,0,Cloudy,Saturday
+2025-05-04,Seasonal Special,29,34,15.0,0,Sunny,Sunday
+2025-05-08,Seasonal Special,19,23,15.0,20,Sunny,Thursday
+2025-05-09,Seasonal Special,13,15,15.0,0,Sunny,Friday
+2025-05-10,Seasonal Special,21,24,15.0,0,Sunny,Saturday
+2025-05-11,Seasonal Special,27,32,15.0,0,Cloudy,Sunday
+2025-05-15,Seasonal Special,12,14,15.0,0,Sunny,Thursday
+2025-05-16,Seasonal Special,15,18,15.0,0,Sunny,Friday
+2025-05-17,Seasonal Special,22,27,15.0,0,Cloudy,Saturday
+2025-05-18,Seasonal Special,19,21,15.0,0,Cloudy,Sunday
+2025-05-22,Seasonal Special,10,11,15.0,0,Sunny,Thursday
+2025-05-23,Seasonal Special,11,12,15.0,0,Rainy,Friday
+2025-05-24,Seasonal Special,22,25,15.0,0,Cloudy,Saturday
+2025-05-25,Seasonal Special,21,24,15.0,0,Rainy,Sunday
+2025-05-29,Seasonal Special,12,13,15.0,0,Sunny,Thursday
+2025-05-30,Seasonal Special,15,18,15.0,0,Sunny,Friday
+2025-05-31,Seasonal Special,27,31,15.0,0,Sunny,Saturday
+2025-06-01,Seasonal Special,21,23,15.0,0,Cloudy,Sunday
+2025-06-05,Seasonal Special,9,11,15.0,0,Rainy,Thursday
+2025-06-06,Seasonal Special,18,21,15.0,0,Sunny,Friday
+2025-06-07,Seasonal Special,19,22,15.0,0,Cloudy,Saturday
+2025-06-08,Seasonal Special,13,15,15.0,0,Rainy,Sunday
+2025-06-12,Seasonal Special,11,13,15.0,0,Cloudy,Thursday
+2025-06-13,Seasonal Special,17,20,15.0,0,Sunny,Friday
+2025-06-14,Seasonal Special,28,31,15.0,0,Cloudy,Saturday
+2025-06-15,Seasonal Special,18,21,15.0,0,Rainy,Sunday
+2025-06-19,Seasonal Special,8,9,15.0,0,Rainy,Thursday
+2025-06-20,Seasonal Special,15,18,15.0,0,Cloudy,Friday
+2025-06-21,Seasonal Special,26,30,15.0,10,Rainy,Saturday
+2025-06-22,Seasonal Special,27,31,15.0,0,Sunny,Sunday
+2025-06-26,Seasonal Special,12,14,15.0,0,Rainy,Thursday
+2025-06-27,Seasonal Special,14,17,15.0,0,Sunny,Friday
+2025-06-28,Seasonal Special,18,20,15.0,0,Rainy,Saturday
+2025-06-29,Seasonal Special,24,27,15.0,0,Sunny,Sunday
+2025-07-03,Seasonal Special,12,15,15.0,0,Sunny,Thursday
+2025-07-04,Seasonal Special,16,19,15.0,0,Cloudy,Friday
+2025-07-05,Seasonal Special,25,28,15.0,0,Cloudy,Saturday
+2025-07-06,Seasonal Special,22,26,15.0,0,Cloudy,Sunday
+2025-07-10,Seasonal Special,12,14,15.0,0,Cloudy,Thursday
+2025-07-11,Seasonal Special,17,21,15.0,0,Sunny,Friday
+2025-07-12,Seasonal Special,25,31,15.0,0,Rainy,Saturday
+2025-07-13,Seasonal Special,22,27,15.0,0,Cloudy,Sunday
+2025-07-17,Seasonal Special,14,17,15.0,0,Sunny,Thursday
+2025-07-18,Seasonal Special,21,24,15.0,25,Cloudy,Friday
+2025-07-19,Seasonal Special,22,26,15.0,0,Rainy,Saturday
+2025-07-20,Seasonal Special,26,29,15.0,0,Sunny,Sunday
+2025-07-24,Seasonal Special,12,14,15.0,0,Sunny,Thursday
+2025-07-25,Seasonal Special,17,19,15.0,0,Sunny,Friday
+2025-07-26,Seasonal Special,29,35,15.0,25,Rainy,Saturday
+2025-07-27,Seasonal Special,20,25,15.0,0,Cloudy,Sunday
+2025-07-31,Seasonal Special,11,13,15.0,0,Cloudy,Thursday
+2025-08-01,Seasonal Special,18,20,15.0,0,Cloudy,Friday
+2025-08-02,Seasonal Special,26,29,15.0,0,Sunny,Saturday
+2025-08-03,Seasonal Special,19,21,15.0,0,Rainy,Sunday
+2025-08-07,Seasonal Special,12,14,15.0,0,Rainy,Thursday
+2025-08-08,Seasonal Special,14,15,15.0,0,Rainy,Friday
+2025-08-09,Seasonal Special,25,30,15.0,0,Sunny,Saturday
+2025-08-10,Seasonal Special,28,33,15.0,15,Sunny,Sunday
+2025-08-14,Seasonal Special,15,18,15.0,0,Sunny,Thursday
+2025-08-15,Seasonal Special,16,19,15.0,0,Rainy,Friday
+2025-08-16,Seasonal Special,28,31,15.0,0,Sunny,Saturday
+2025-08-17,Seasonal Special,22,27,15.0,0,Sunny,Sunday
+2025-08-21,Seasonal Special,11,13,15.0,0,Cloudy,Thursday
+2025-08-22,Seasonal Special,16,19,15.0,0,Cloudy,Friday
+2025-08-23,Seasonal Special,23,26,15.0,0,Cloudy,Saturday
+2025-08-24,Seasonal Special,24,28,15.0,0,Sunny,Sunday
+2025-08-28,Seasonal Special,11,13,15.0,0,Cloudy,Thursday
+2025-08-29,Seasonal Special,18,21,15.0,0,Sunny,Friday
+2025-08-30,Seasonal Special,32,38,15.0,0,Sunny,Saturday
+2025-08-31,Seasonal Special,28,33,15.0,0,Sunny,Sunday
+2025-09-04,Seasonal Special,15,17,15.0,10,Cloudy,Thursday
+2025-09-05,Seasonal Special,18,20,15.0,0,Sunny,Friday
+2025-09-06,Seasonal Special,28,33,15.0,0,Sunny,Saturday
+2025-09-07,Seasonal Special,25,30,15.0,0,Sunny,Sunday
+2025-09-11,Seasonal Special,15,19,15.0,0,Cloudy,Thursday
+2025-09-12,Seasonal Special,19,21,15.0,0,Sunny,Friday
+2025-09-13,Seasonal Special,34,39,15.0,15,Cloudy,Saturday
+2025-09-14,Seasonal Special,26,29,15.0,0,Cloudy,Sunday
+2025-09-18,Seasonal Special,12,14,15.0,0,Cloudy,Thursday
+2025-09-19,Seasonal Special,16,18,15.0,0,Cloudy,Friday
+2025-09-20,Seasonal Special,23,28,15.0,0,Cloudy,Saturday
+2025-09-21,Seasonal Special,24,29,15.0,0,Sunny,Sunday
+2025-09-25,Seasonal Special,12,14,15.0,0,Rainy,Thursday
+2025-09-26,Seasonal Special,18,21,15.0,0,Sunny,Friday
+2025-09-27,Seasonal Special,24,27,15.0,0,Cloudy,Saturday
+2025-09-28,Seasonal Special,24,28,15.0,0,Cloudy,Sunday
+2025-10-02,Seasonal Special,14,16,15.0,0,Cloudy,Thursday
+2025-10-03,Seasonal Special,13,16,15.0,0,Cloudy,Friday
+2025-10-04,Seasonal Special,27,30,15.0,20,Rainy,Saturday
+2025-10-05,Seasonal Special,24,29,15.0,0,Sunny,Sunday
+2025-10-09,Seasonal Special,16,18,15.0,0,Sunny,Thursday
+2025-10-10,Seasonal Special,19,22,15.0,0,Sunny,Friday
+2025-10-11,Seasonal Special,28,32,15.0,0,Sunny,Saturday
+2025-10-12,Seasonal Special,21,23,15.0,0,Rainy,Sunday
+2025-10-16,Seasonal Special,12,14,15.0,0,Cloudy,Thursday
+2025-10-17,Seasonal Special,18,21,15.0,0,Sunny,Friday
+2025-10-18,Seasonal Special,27,32,15.0,0,Rainy,Saturday
+2025-10-19,Seasonal Special,31,38,15.0,0,Sunny,Sunday
+2025-10-23,Seasonal Special,14,16,15.0,0,Rainy,Thursday
+2025-10-24,Seasonal Special,19,22,15.0,0,Cloudy,Friday
+2025-10-25,Seasonal Special,35,43,15.0,15,Sunny,Saturday
+2025-10-26,Seasonal Special,37,43,15.0,25,Cloudy,Sunday
+2025-10-30,Seasonal Special,15,17,15.0,10,Rainy,Thursday
+2025-10-31,Seasonal Special,19,22,15.0,0,Sunny,Friday
+2025-11-01,Seasonal Special,32,35,15.0,0,Sunny,Saturday
+2025-11-02,Seasonal Special,27,30,15.0,0,Rainy,Sunday
+2025-11-06,Seasonal Special,17,20,15.0,0,Rainy,Thursday
+2025-11-07,Seasonal Special,19,23,15.0,0,Cloudy,Friday
+2025-11-08,Seasonal Special,22,25,15.0,0,Rainy,Saturday
+2025-11-09,Seasonal Special,26,29,15.0,0,Sunny,Sunday
+2025-11-13,Seasonal Special,15,18,15.0,0,Sunny,Thursday
+2025-11-14,Seasonal Special,20,24,15.0,0,Sunny,Friday
+2025-11-15,Seasonal Special,25,29,15.0,0,Sunny,Saturday
+2025-11-16,Seasonal Special,29,33,15.0,15,Cloudy,Sunday
+2025-11-20,Seasonal Special,12,14,15.0,0,Rainy,Thursday
+2025-11-21,Seasonal Special,17,20,15.0,0,Sunny,Friday
+2025-11-22,Seasonal Special,27,30,15.0,0,Sunny,Saturday
+2025-11-23,Seasonal Special,32,37,15.0,20,Sunny,Sunday
+2025-11-27,Seasonal Special,11,13,15.0,0,Rainy,Thursday
+2025-11-28,Seasonal Special,22,25,15.0,25,Cloudy,Friday
+2025-11-29,Seasonal Special,21,25,15.0,0,Rainy,Saturday
+2025-11-30,Seasonal Special,22,26,15.0,0,Sunny,Sunday
+2025-12-04,Seasonal Special,12,15,15.0,0,Sunny,Thursday
+2025-12-05,Seasonal Special,17,21,15.0,0,Sunny,Friday
+2025-12-06,Seasonal Special,24,28,15.0,0,Rainy,Saturday
+2025-12-07,Seasonal Special,25,30,15.0,0,Sunny,Sunday
+2025-12-11,Seasonal Special,15,17,15.0,0,Sunny,Thursday
+2025-12-12,Seasonal Special,18,20,15.0,0,Sunny,Friday
+2025-12-13,Seasonal Special,26,31,15.0,0,Sunny,Saturday
+2025-12-14,Seasonal Special,23,25,15.0,0,Sunny,Sunday
+2025-12-18,Seasonal Special,14,15,15.0,0,Sunny,Thursday
+2025-12-19,Seasonal Special,18,21,15.0,0,Cloudy,Friday
+2025-12-20,Seasonal Special,24,26,15.0,0,Sunny,Saturday
+2025-12-21,Seasonal Special,23,26,15.0,0,Sunny,Sunday
+2025-12-25,Seasonal Special,20,23,15.0,0,Sunny,Thursday
+2025-12-26,Seasonal Special,23,26,15.0,0,Rainy,Friday
+2025-12-27,Seasonal Special,26,29,15.0,0,Cloudy,Saturday
+2025-12-28,Seasonal Special,26,31,15.0,0,Sunny,Sunday
+2026-01-01,Seasonal Special,13,15,15.0,0,Cloudy,Thursday
+2026-01-02,Seasonal Special,16,19,15.0,0,Rainy,Friday
+2026-01-03,Seasonal Special,31,34,15.0,0,Cloudy,Saturday
+2026-01-04,Seasonal Special,24,28,15.0,0,Cloudy,Sunday
+2026-01-08,Seasonal Special,13,15,15.0,0,Cloudy,Thursday
+2026-01-09,Seasonal Special,20,23,15.0,0,Sunny,Friday
+2026-01-10,Seasonal Special,35,39,15.0,0,Sunny,Saturday
+2026-01-11,Seasonal Special,34,40,15.0,0,Sunny,Sunday
+2026-01-15,Seasonal Special,17,20,15.0,0,Sunny,Thursday
+2026-01-16,Seasonal Special,18,22,15.0,0,Sunny,Friday
+2026-01-17,Seasonal Special,34,40,15.0,15,Sunny,Saturday
+2026-01-18,Seasonal Special,35,39,15.0,25,Sunny,Sunday
+2026-01-22,Seasonal Special,16,19,15.0,0,Sunny,Thursday
+2026-01-23,Seasonal Special,22,25,15.0,25,Rainy,Friday
+2026-01-24,Seasonal Special,32,38,15.0,0,Cloudy,Saturday
+2026-01-25,Seasonal Special,27,32,15.0,0,Cloudy,Sunday
+2026-01-29,Seasonal Special,16,18,15.0,0,Sunny,Thursday
+2026-01-30,Seasonal Special,22,26,15.0,0,Sunny,Friday
+2026-01-31,Seasonal Special,26,30,15.0,0,Sunny,Saturday
+2026-02-01,Seasonal Special,25,28,15.0,0,Cloudy,Sunday
+2026-02-05,Seasonal Special,12,14,15.0,0,Cloudy,Thursday
+2026-02-06,Seasonal Special,25,28,15.0,25,Cloudy,Friday
+2026-02-07,Seasonal Special,26,31,15.0,0,Cloudy,Saturday
+2026-02-08,Seasonal Special,27,30,15.0,0,Sunny,Sunday
+2026-02-12,Seasonal Special,23,26,15.0,0,Sunny,Thursday
+2026-02-13,Seasonal Special,34,38,15.0,0,Cloudy,Friday
+2026-02-14,Seasonal Special,39,45,15.0,0,Sunny,Saturday
+2026-02-15,Seasonal Special,18,21,15.0,0,Cloudy,Sunday
+2026-02-19,Seasonal Special,13,14,15.0,0,Sunny,Thursday
+2026-02-20,Seasonal Special,19,22,15.0,0,Sunny,Friday
+2026-02-21,Seasonal Special,28,31,15.0,0,Sunny,Saturday
+2026-02-22,Seasonal Special,28,33,15.0,0,Cloudy,Sunday
+2026-02-26,Seasonal Special,13,16,15.0,0,Cloudy,Thursday
+2026-02-27,Seasonal Special,19,22,15.0,0,Sunny,Friday
+2026-02-28,Seasonal Special,32,35,15.0,0,Cloudy,Saturday
+2026-03-01,Seasonal Special,28,32,15.0,0,Cloudy,Sunday
+2026-03-05,Seasonal Special,14,17,15.0,0,Cloudy,Thursday
+2026-03-06,Seasonal Special,24,29,15.0,0,Sunny,Friday
+2026-03-07,Seasonal Special,26,31,15.0,0,Sunny,Saturday
+2026-03-08,Seasonal Special,25,28,15.0,0,Cloudy,Sunday
+2026-03-12,Seasonal Special,15,17,15.0,0,Sunny,Thursday
+2026-03-13,Seasonal Special,15,17,15.0,0,Rainy,Friday
+2026-03-14,Seasonal Special,25,30,15.0,0,Sunny,Saturday
+2026-03-15,Seasonal Special,24,26,15.0,0,Sunny,Sunday
+2026-03-19,Seasonal Special,16,17,15.0,0,Cloudy,Thursday
+2026-03-20,Seasonal Special,19,22,15.0,0,Cloudy,Friday
+2026-03-21,Seasonal Special,27,32,15.0,0,Rainy,Saturday
+2026-03-22,Seasonal Special,27,31,15.0,0,Sunny,Sunday
+2026-03-26,Seasonal Special,13,16,15.0,0,Sunny,Thursday
+2026-03-27,Seasonal Special,17,19,15.0,0,Cloudy,Friday
+2026-03-28,Seasonal Special,30,35,15.0,0,Sunny,Saturday
+2026-03-29,Seasonal Special,29,34,15.0,0,Cloudy,Sunday
+2026-04-02,Seasonal Special,15,16,15.0,0,Cloudy,Thursday
+2026-04-03,Seasonal Special,18,20,15.0,0,Rainy,Friday
+2026-04-04,Seasonal Special,32,37,15.0,0,Sunny,Saturday
+2026-04-05,Seasonal Special,31,35,15.0,20,Rainy,Sunday
+2026-04-09,Seasonal Special,13,15,15.0,0,Sunny,Thursday
+2026-04-10,Seasonal Special,17,19,15.0,0,Sunny,Friday
+2026-04-11,Seasonal Special,32,37,15.0,0,Sunny,Saturday
+2026-04-12,Seasonal Special,27,30,15.0,0,Cloudy,Sunday
+2026-04-16,Seasonal Special,14,16,15.0,0,Sunny,Thursday
+2026-04-17,Seasonal Special,26,29,15.0,15,Sunny,Friday
+2026-04-18,Seasonal Special,31,35,15.0,0,Cloudy,Saturday
+2026-04-19,Seasonal Special,32,37,15.0,0,Cloudy,Sunday
+2026-04-23,Seasonal Special,17,19,15.0,0,Sunny,Thursday
+2026-04-24,Seasonal Special,18,22,15.0,0,Cloudy,Friday
+2026-04-25,Seasonal Special,49,56,15.0,25,Sunny,Saturday
+2026-04-26,Seasonal Special,33,37,15.0,0,Sunny,Sunday
+2026-04-30,Seasonal Special,16,18,15.0,0,Sunny,Thursday
+2026-05-01,Seasonal Special,18,21,15.0,0,Rainy,Friday
+2026-05-02,Seasonal Special,30,36,15.0,0,Sunny,Saturday
+2026-05-03,Seasonal Special,26,30,15.0,0,Rainy,Sunday
+2026-05-07,Seasonal Special,16,19,15.0,0,Sunny,Thursday
+2026-05-08,Seasonal Special,21,25,15.0,0,Sunny,Friday
+2026-05-09,Seasonal Special,31,36,15.0,0,Cloudy,Saturday
+2026-05-10,Seasonal Special,36,43,15.0,0,Sunny,Sunday
+2026-05-14,Seasonal Special,12,15,15.0,0,Rainy,Thursday
+2026-05-15,Seasonal Special,21,25,15.0,0,Sunny,Friday
+2026-05-16,Seasonal Special,36,41,15.0,0,Sunny,Saturday
+2026-05-17,Seasonal Special,31,38,15.0,0,Sunny,Sunday
