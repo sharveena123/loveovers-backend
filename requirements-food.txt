@@ -1,0 +1,7 @@
+# Optional: food image classification (/classify-food).
+# Not installed on Render by default — PyTorch alone can exceed 512MB RAM.
+# Local install: pip install -r requirements-food.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=10.0.0

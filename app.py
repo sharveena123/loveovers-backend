@@ -1,10 +1,6 @@
 from dotenv import load_dotenv
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import xgboost as xgb
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import mean_absolute_error, r2_score
-from sklearn.model_selection import TimeSeriesSplit
 import pandas as pd
 import numpy as np
 import joblib
@@ -29,6 +25,8 @@ app = Flask(__name__)
 CORS(app)
 
 def check_ollama():
+    if os.getenv("SKIP_OLLAMA_CHECK", "0") == "1":
+        return False
     try:
         response = requests.get(f"{OLLAMA_URL}/api/tags", timeout=5)
         return response.status_code == 200
@@ -95,53 +93,49 @@ def load_model_from_disk(cafe_id):
         print(f"❌ Error loading model: {e}")
     return None
 
-def load_all_models():
-    global cafe_models
+def model_exists_on_disk(cafe_id):
+    return os.path.exists(os.path.join(MODELS_DIR, f"{cafe_id}.joblib"))
+
+
+def sync_cafe_registry_from_disk():
+    """Register cafes in the DB from saved models without loading them into RAM."""
+    synced = 0
     try:
-        if os.path.exists(MODELS_DIR):
-            for filename in os.listdir(MODELS_DIR):
-                if filename.endswith(".joblib"):
-                    cafe_id = filename[:-7]
-                    cafe_data = load_model_from_disk(cafe_id)
-                    if cafe_data:
-                        cafe_models[cafe_id] = cafe_data
-                        meta = cafe_data["metadata"]
-                        if not db.get_cafe(cafe_id):
-                            db.upsert_cafe(
-                                cafe_id,
-                                meta.get("cafe_name", "Unknown Cafe"),
-                                column_mapping=meta.get("mapping"),
-                                items=meta.get("items"),
-                                metrics={
-                                    "mae": meta.get("mae"),
-                                    "r2": meta.get("r2"),
-                                    "cv_mae": meta.get("cv_mae"),
-                                    "cv_r2": meta.get("cv_r2"),
-                                    "training_rows": meta.get("training_rows"),
-                                    "items": meta.get("items"),
-                                },
-                                trained=True,
-                            )
-            print(f"✅ Loaded {len(cafe_models)} saved models (synced to database)")
+        if not os.path.exists(MODELS_DIR):
+            return
+        for filename in os.listdir(MODELS_DIR):
+            if not filename.endswith(".joblib"):
+                continue
+            cafe_id = filename[:-7]
+            if db.get_cafe(cafe_id):
+                continue
+            cafe_data = load_model_from_disk(cafe_id)
+            if not cafe_data:
+                continue
+            meta = cafe_data["metadata"]
+            db.upsert_cafe(
+                cafe_id,
+                meta.get("cafe_name", "Unknown Cafe"),
+                column_mapping=meta.get("mapping"),
+                items=meta.get("items"),
+                metrics={
+                    "mae": meta.get("mae"),
+                    "r2": meta.get("r2"),
+                    "cv_mae": meta.get("cv_mae"),
+                    "cv_r2": meta.get("cv_r2"),
+                    "training_rows": meta.get("training_rows"),
+                    "items": meta.get("items"),
+                },
+                trained=True,
+            )
+            synced += 1
+        if synced:
+            print(f"✅ Synced {synced} cafe(s) from disk (models load on demand)")
     except Exception as e:
-        print(f"❌ Error loading models: {e}")
-
-load_all_models()
+        print(f"❌ Error syncing cafes from disk: {e}")
 
 
-def _warm_up_food_classifier():
-    if os.getenv("FOOD_CLASSIFIER_WARMUP", "1") == "0":
-        return
-    try:
-        import food_classifier as fc
-        fc.warm_up()
-    except ImportError:
-        print("Food classifier: pip install torch torchvision pillow")
-    except Exception as e:
-        print(f"Food classifier warmup failed: {e}")
-
-
-_warm_up_food_classifier()
+sync_cafe_registry_from_disk()
 
 
 def get_cafe_model(cafe_id):
@@ -155,6 +149,11 @@ def get_cafe_model(cafe_id):
 
 
 def train_model_from_standardized_df(cafe_id, cafe_name, df_std, mapping, persist_sales=True):
+    import xgboost as xgb
+    from sklearn.preprocessing import LabelEncoder
+    from sklearn.metrics import mean_absolute_error, r2_score
+    from sklearn.model_selection import TimeSeriesSplit
+
     if df_std is None or len(df_std) == 0:
         raise ValueError("Dataset is empty — no sales rows available for training.")
     if df_std["item"].nunique() == 0:
@@ -208,7 +207,7 @@ def train_model_from_standardized_df(cafe_id, cafe_name, df_std, mapping, persis
         reg_alpha=0.1,
         reg_lambda=1.0,
         random_state=42,
-        n_jobs=-1,
+        n_jobs=int(os.getenv("XGB_N_JOBS", "1")),
         early_stopping_rounds=50,
         eval_metric="rmse",
         tree_method="hist",
@@ -863,7 +862,7 @@ def home():
             "SQLite persistence (survives restart)",
             "Daily manual sales entry",
             "Retrain from full sales history",
-            "Food image classification — POST /classify-food"
+            "Food image classification — POST /classify-food (optional; requires requirements-food.txt)"
         ]
     }
 
@@ -1490,7 +1489,7 @@ def list_cafes():
         cid = row["cafe_id"]
         seen.add(cid)
         metrics = row.get("metrics") or {}
-        model_loaded = get_cafe_model(cid) is not None
+        model_loaded = model_exists_on_disk(cid) or cid in cafe_models
         summary = db.sales_summary(cid)
         cafes_out.append({
             "cafe_id": cid,
@@ -1505,16 +1504,20 @@ def list_cafes():
             "manual_entries": summary.get("manual_rows", 0),
             "model": "XGBoost",
         })
-    for cid in cafe_models:
-        if cid not in seen:
-            meta = cafe_models[cid]["metadata"]
+    if os.path.exists(MODELS_DIR):
+        for filename in os.listdir(MODELS_DIR):
+            if not filename.endswith(".joblib"):
+                continue
+            cid = filename[:-7]
+            if cid in seen:
+                continue
             cafes_out.append({
                 "cafe_id": cid,
-                "cafe_name": meta["cafe_name"],
-                "items": meta["items"],
-                "training_rows": meta["training_rows"],
-                "r2": meta["r2"],
-                "cv_mae": meta.get("cv_mae", meta["mae"]),
+                "cafe_name": "Unknown Cafe",
+                "items": [],
+                "training_rows": 0,
+                "r2": None,
+                "cv_mae": None,
                 "model_loaded": True,
                 "model": "XGBoost",
             })
