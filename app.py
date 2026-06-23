@@ -1,13 +1,18 @@
 from dotenv import load_dotenv
+
+load_dotenv()
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
 import numpy as np
 import joblib
 import os
+import re
 import uuid
 import json
 from datetime import datetime, timedelta
+from difflib import get_close_matches
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -15,36 +20,33 @@ import database as db
 
 import requests
 
-OLLAMA_AVAILABLE = False
+OLLAMA_AVAILABLE = None
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "mistral")
-
-load_dotenv()
 
 app = Flask(__name__)
 CORS(app)
 
-def check_ollama():
+
+def is_ollama_available(force_recheck=False):
+    """Check Ollama on demand — never block server startup."""
+    global OLLAMA_AVAILABLE
+    if OLLAMA_AVAILABLE is True and not force_recheck:
+        return True
     if os.getenv("SKIP_OLLAMA_CHECK", "0") == "1":
+        OLLAMA_AVAILABLE = False
         return False
     try:
-        response = requests.get(f"{OLLAMA_URL}/api/tags", timeout=5)
-        return response.status_code == 200
+        response = requests.get(f"{OLLAMA_URL}/api/tags", timeout=(2, 3))
+        OLLAMA_AVAILABLE = response.status_code == 200
+        if OLLAMA_AVAILABLE:
+            print(f"Ollama available at {OLLAMA_URL} (model: {OLLAMA_MODEL})")
+        else:
+            print(f"Ollama check failed: HTTP {response.status_code}")
     except Exception as e:
-        print(f"❌ Ollama check failed: {e}")
-        return False
-
-if check_ollama():
-    OLLAMA_AVAILABLE = True
-    print(f"✅ Ollama available at {OLLAMA_URL}")
-    print(f"   Using model: {OLLAMA_MODEL}")
-else:
-    print(f"⚠️ Ollama not running at {OLLAMA_URL}")
-    print("   To use Ollama:")
-    print("   1. Install from: https://ollama.ai")
-    print("   2. Run: ollama serve")
-    print("   3. Pull a model: ollama pull mistral")
-    print("   Falling back to rule-based assessment only.")
+        print(f"Ollama check failed: {e}")
+        OLLAMA_AVAILABLE = False
+    return OLLAMA_AVAILABLE
 
 cafe_models = {}
 pending_assessments = {}
@@ -425,7 +427,7 @@ def layer2_llm_fallback(unmapped_columns, existing_mapping, cafe_name=""):
         print("✓ Layer 2 (Ollama): Skipped - no unmapped columns")
         return {}
 
-    if not OLLAMA_AVAILABLE:
+    if not is_ollama_available():
         print("⚠️ Layer 2 (Ollama): Skipped - Ollama not available")
         return {}
 
@@ -543,6 +545,129 @@ def layer3_human_confirmation(mapping, unmapped_after_llm):
     return needs_confirmation
 
 # ============================================================
+# ITEM NAME NORMALIZATION
+# ============================================================
+
+ITEM_FUZZY_MATCH_CUTOFF = float(os.getenv("ITEM_FUZZY_MATCH_CUTOFF", "0.88"))
+
+
+def item_match_key(name):
+    """Stable lowercase key: trim, collapse spaces, split camelCase, strip punctuation."""
+    s = str(name).strip()
+    s = re.sub(r"\s+", " ", s)
+    s = re.sub(r"([a-z])([A-Z])", r"\1 \2", s)
+    s = re.sub(r"([A-Z]+)([A-Z][a-z])", r"\1 \2", s)
+    s = s.lower()
+    s = re.sub(r"[^\w\s]", "", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def compact_item_key(name):
+    return re.sub(r"\s+", "", item_match_key(name))
+
+
+def canonical_item_name(name):
+    """Display-friendly item name."""
+    s = re.sub(r"\s+", " ", str(name).strip())
+    s = re.sub(r"([a-z])([A-Z])", r"\1 \2", s)
+    return s.title()
+
+
+def resolve_item_name(raw_item, known_items, cutoff=None):
+    """
+    Map a raw item label to a known canonical item.
+    Handles extra spaces, casing, missing spaces, and close typos.
+    Returns (canonical_item, original_if_corrected) or (None, None).
+    """
+    if cutoff is None:
+        cutoff = ITEM_FUZZY_MATCH_CUTOFF
+
+    raw = str(raw_item).strip()
+    if not raw or raw.lower() == "nan":
+        return None, None
+
+    if raw in known_items:
+        return raw, None
+
+    key = item_match_key(raw)
+    compact = compact_item_key(raw)
+
+    by_key = {item_match_key(item): item for item in known_items}
+    by_compact = {compact_item_key(item): item for item in known_items}
+
+    if key in by_key:
+        canonical = by_key[key]
+        return canonical, raw if canonical != raw else None
+
+    if compact in by_compact:
+        canonical = by_compact[compact]
+        return canonical, raw if canonical != raw else None
+
+    close = get_close_matches(key, list(by_key.keys()), n=1, cutoff=cutoff)
+    if close:
+        canonical = by_key[close[0]]
+        return canonical, raw
+
+    close_compact = get_close_matches(compact, list(by_compact.keys()), n=1, cutoff=cutoff)
+    if close_compact:
+        canonical = by_compact[close_compact[0]]
+        return canonical, raw
+
+    return None, None
+
+
+def normalize_items_in_dataframe(df, cutoff=None):
+    """Merge item name variants in a dataset and aggregate duplicate date+item rows."""
+    if cutoff is None:
+        cutoff = ITEM_FUZZY_MATCH_CUTOFF
+
+    df = df.copy()
+    raw = df["item"].astype(str).str.strip()
+    df = df[raw.ne("") & (raw.str.lower() != "nan")].copy()
+    raw = df["item"].astype(str).str.strip()
+
+    canonical_items = []
+    raw_to_canonical = {}
+    corrections = []
+
+    for name in raw.value_counts().index:
+        resolved, corrected_from = resolve_item_name(name, canonical_items, cutoff=cutoff)
+        if resolved is None:
+            resolved = canonical_item_name(name)
+            canonical_items.append(resolved)
+        elif resolved not in canonical_items:
+            canonical_items.append(resolved)
+        raw_to_canonical[name] = resolved
+        if corrected_from:
+            corrections.append({"from": corrected_from, "to": resolved})
+
+    df["item"] = raw.map(raw_to_canonical)
+
+    before = len(df)
+    agg = {
+        "sold_qty": "sum",
+        "produced_qty": "sum",
+        "price": "mean",
+        "day_of_week": "first",
+    }
+    agg = {k: v for k, v in agg.items() if k in df.columns}
+    df = df.groupby(["date", "item"], as_index=False).agg(agg)
+
+    if corrections:
+        print(f"Item normalization: merged {len(corrections)} name variant(s)")
+        for fix in corrections[:10]:
+            print(f"   '{fix['from']}' -> '{fix['to']}'")
+        if len(corrections) > 10:
+            print(f"   ... and {len(corrections) - 10} more")
+
+    merged_rows = before - len(df)
+    if merged_rows > 0:
+        print(f"Item normalization: aggregated {merged_rows} duplicate date+item row(s)")
+
+    return df, corrections
+
+
+# ============================================================
 # DATA STANDARDIZATION
 # ============================================================
 
@@ -578,6 +703,7 @@ def standardize_dataset(df, mapping, user_corrections=None):
     standardized = standardized.dropna(subset=["date", "sold_qty"])
     standardized = standardized[standardized["item"].ne("") & (standardized["item"].str.lower() != "nan")]
     standardized = standardized[standardized["sold_qty"] >= 0]
+    standardized, _ = normalize_items_in_dataframe(standardized)
     standardized = standardized.reset_index(drop=True)
 
     if len(standardized) == 0:
@@ -838,6 +964,28 @@ def _build_item_features(item, day_of_week_num, is_weekend, month, day_of_month,
 # API ENDPOINTS
 # ============================================================
 
+@app.route("/health/ollama", methods=["GET"])
+def health_ollama():
+    available = is_ollama_available(force_recheck=True)
+    models = []
+    error = None
+    if available:
+        try:
+            tags = requests.get(f"{OLLAMA_URL}/api/tags", timeout=(2, 3)).json()
+            models = [m.get("name") for m in tags.get("models", [])]
+        except Exception as e:
+            error = str(e)
+    return jsonify({
+        "ollama_available": available,
+        "ollama_url": OLLAMA_URL,
+        "ollama_model": OLLAMA_MODEL,
+        "skip_check": os.getenv("SKIP_OLLAMA_CHECK", "0") == "1",
+        "models_installed": models,
+        "error": error,
+        "hint": None if available else "Open the Ollama app (or run: ollama serve), then restart python app.py",
+    })
+
+
 @app.route("/")
 def home():
     return {
@@ -848,7 +996,7 @@ def home():
             "Layer 3: Human confirmation (safe + editable)"
         ],
         "model": "XGBoost with DOW-aware lag features (no weather/discount)",
-        "ollama_available": OLLAMA_AVAILABLE,
+        "ollama_available": is_ollama_available(),
         "ollama_url": OLLAMA_URL,
         "ollama_model": OLLAMA_MODEL,
         "features": [
@@ -959,8 +1107,12 @@ def assess():
         mapping, unmapped = layer1_rule_based(columns)
 
         llm_mapping = {}
-        if unmapped and OLLAMA_AVAILABLE:
-            llm_mapping = layer2_llm_fallback(unmapped, mapping, cafe_name)
+        if unmapped:
+            if is_ollama_available():
+                llm_mapping = layer2_llm_fallback(unmapped, mapping, cafe_name)
+            else:
+                print("Layer 2 (Ollama): Skipped - Ollama not available")
+                print("   Fix: start Ollama app, then restart Flask (python app.py)")
             for col, standard in llm_mapping.items():
                 if standard != "unknown" and standard not in mapping:
                     mapping[standard] = col
@@ -1075,7 +1227,7 @@ def assess():
                 "needs_confirmation": len(unmapped)
             },
             "diagnostic": diagnostic_msg,
-            "ai_engine": "ollama" if OLLAMA_AVAILABLE else "rule-based-only"
+            "ai_engine": "ollama" if is_ollama_available() else "rule-based-only"
         }
 
         pending_assessments[assessment_id] = assessment_data
@@ -1290,11 +1442,15 @@ def predict():
         item = data.get("item")
         if not item:
             return jsonify({"error": "item is required.", "available_items": items}), 400
-        if item not in items:
+
+        resolved_item, corrected_from = resolve_item_name(item, items)
+        if not resolved_item:
             return jsonify({
                 "error": f"Unknown item '{item}' — not present in this cafe's training data.",
                 "available_items": items,
+                "hint": "Item names are matched case-insensitively; close typos are auto-corrected.",
             }), 404
+        item = resolved_item
 
         day = data.get("day_of_week", "Saturday")
         price = data.get("price", 0)
@@ -1373,6 +1529,8 @@ def predict():
             "cv_mae": meta.get("cv_mae", meta["mae"]),
             "training_size": meta["training_rows"]
         }
+        if corrected_from:
+            response["item_normalized_from"] = corrected_from
         if not meta.get("item_dow_means"):
             response["warning"] = (
                 "Model was trained with an older version and lacks per-weekday averages — "
@@ -1593,8 +1751,30 @@ def record_daily_sales(cafe_id):
         entries = data.get("entries", [])
         if not entries:
             return jsonify({"error": "entries required — list of {item, sold_qty}"}), 400
+
+        known_items = []
+        cafe_data = get_cafe_model(cafe_id)
+        if cafe_data:
+            known_items = cafe_data["metadata"].get("items") or []
+        elif db.get_cafe(cafe_id):
+            known_items = (db.get_cafe(cafe_id) or {}).get("items") or []
+
+        normalized_entries = []
+        for e in entries:
+            raw_item = e.get("item")
+            resolved, corrected_from = resolve_item_name(raw_item, known_items) if known_items else (raw_item, None)
+            if known_items and not resolved:
+                return jsonify({
+                    "error": f"Unknown item '{raw_item}'",
+                    "available_items": known_items,
+                }), 404
+            entry = {**e, "item": resolved or canonical_item_name(raw_item)}
+            if corrected_from:
+                entry["item_normalized_from"] = corrected_from
+            normalized_entries.append(entry)
+
         result = db.add_daily_sales(
-            cafe_id, sale_date, entries,
+            cafe_id, sale_date, normalized_entries,
             day_of_week=data.get("day_of_week"),
             weather=data.get("weather", "Unknown"),
             default_discount=float(data.get("discount_pct", 0)),

@@ -1,0 +1,154 @@
+{
+  "assessment_id": "d8cb5883-6e1",
+  "cafe_name": "My Cafe",
+  "created_at": "2026-06-17T21:24:22.502662",
+  "total_rows": 976,
+  "total_columns": 7,
+  "original_columns": [
+    "sale_date",
+    "product_name",
+    "qty_sold",
+    "stock_baked",
+    "unit_price",
+    "weekday",
+    "till_no"
+  ],
+  "editable_mapping": [
+    {
+      "original_column": "sale_date",
+      "current_mapping": "date",
+      "ai_suggested_mapping": "date",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "product_name",
+      "current_mapping": "item",
+      "ai_suggested_mapping": "item",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "qty_sold",
+      "current_mapping": "sold_qty",
+      "ai_suggested_mapping": "sold_qty",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "unit_price",
+      "current_mapping": "price",
+      "ai_suggested_mapping": "price",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "weekday",
+      "current_mapping": "day_of_week",
+      "ai_suggested_mapping": "day_of_week",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "stock_baked",
+      "current_mapping": "produced_qty",
+      "ai_suggested_mapping": "produced_qty",
+      "source": "llm",
+      "confidence": "medium",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "till_no",
+      "current_mapping": "unknown",
+      "ai_suggested_mapping": "unknown",
+      "source": "unmapped",
+      "confidence": "low",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    }
+  ],
+  "missing_required": [],
+  "missing_optional": [],
+  "data_quality_issues": [
+    "Cannot parse dates in 'sale_date'",
+    "2.2% missing values in sales data",
+    "Negative sales values detected"
+  ],
+  "suggestions": [],
+  "usable": true,
+  "confidence": "medium",
+  "layer_breakdown": {
+    "rule_based_mapped": 4,
+    "llm_mapped": 2,
+    "needs_confirmation": 1
+  },
+  "diagnostic": "Layer 1 (Rule): 4 columns \u2192 Layer 2 (Ollama): 2 columns \u2192 Layer 3 (Manual): 1 columns need review",
+  "ai_engine": "ollama"
+}

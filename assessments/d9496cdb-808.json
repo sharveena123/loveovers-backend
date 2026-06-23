@@ -1,0 +1,132 @@
+{
+  "assessment_id": "d9496cdb-808",
+  "cafe_name": "My Cafe",
+  "created_at": "2026-06-17T20:56:58.533181",
+  "total_rows": 1080,
+  "total_columns": 6,
+  "original_columns": [
+    "date",
+    "item",
+    "produced_qty",
+    "sold_qty",
+    "price",
+    "day"
+  ],
+  "editable_mapping": [
+    {
+      "original_column": "date",
+      "current_mapping": "date",
+      "ai_suggested_mapping": "date",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "item",
+      "current_mapping": "item",
+      "ai_suggested_mapping": "item",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "produced_qty",
+      "current_mapping": "produced_qty",
+      "ai_suggested_mapping": "produced_qty",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "sold_qty",
+      "current_mapping": "sold_qty",
+      "ai_suggested_mapping": "sold_qty",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "price",
+      "current_mapping": "price",
+      "ai_suggested_mapping": "price",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "day",
+      "current_mapping": "day_of_week",
+      "ai_suggested_mapping": "day_of_week",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    }
+  ],
+  "missing_required": [],
+  "missing_optional": [],
+  "data_quality_issues": [],
+  "suggestions": [],
+  "usable": true,
+  "confidence": "high",
+  "layer_breakdown": {
+    "rule_based_mapped": 6,
+    "llm_mapped": 0,
+    "needs_confirmation": 0
+  },
+  "diagnostic": "Layer 1 (Rule): 6 columns",
+  "ai_engine": "rule-based-only"
+}

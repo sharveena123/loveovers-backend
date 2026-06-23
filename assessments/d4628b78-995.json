@@ -1,0 +1,141 @@
+{
+  "assessment_id": "d4628b78-995",
+  "cafe_name": "My Cafe",
+  "created_at": "2026-06-17T20:55:42.907199",
+  "total_rows": 960,
+  "total_columns": 6,
+  "original_columns": [
+    "sale_date",
+    "product_name",
+    "jumlah_terjual",
+    "kuantiti_dibuat",
+    "harga_unit",
+    "hari_dalam_minggu"
+  ],
+  "editable_mapping": [
+    {
+      "original_column": "sale_date",
+      "current_mapping": "date",
+      "ai_suggested_mapping": "date",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "product_name",
+      "current_mapping": "item",
+      "ai_suggested_mapping": "item",
+      "source": "rule",
+      "confidence": "high",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "jumlah_terjual",
+      "current_mapping": "unknown",
+      "ai_suggested_mapping": "unknown",
+      "source": "unmapped",
+      "confidence": "low",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "kuantiti_dibuat",
+      "current_mapping": "unknown",
+      "ai_suggested_mapping": "unknown",
+      "source": "unmapped",
+      "confidence": "low",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "harga_unit",
+      "current_mapping": "sold_qty",
+      "ai_suggested_mapping": "sold_qty",
+      "source": "unmapped",
+      "confidence": "low",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    },
+    {
+      "original_column": "hari_dalam_minggu",
+      "current_mapping": "unknown",
+      "ai_suggested_mapping": "unknown",
+      "source": "unmapped",
+      "confidence": "low",
+      "editable": true,
+      "options": [
+        "date",
+        "item",
+        "sold_qty",
+        "produced_qty",
+        "price",
+        "day_of_week",
+        "unknown"
+      ]
+    }
+  ],
+  "missing_required": [
+    "sold_qty"
+  ],
+  "missing_optional": [
+    "produced_qty",
+    "price",
+    "day_of_week"
+  ],
+  "data_quality_issues": [],
+  "suggestions": [
+    "Missing optional: produced_qty, price, day_of_week",
+    "No production data - will estimate from sales"
+  ],
+  "usable": false,
+  "confidence": "low",
+  "layer_breakdown": {
+    "rule_based_mapped": 2,
+    "llm_mapped": 0,
+    "needs_confirmation": 4
+  },
+  "diagnostic": "Layer 1 (Rule): 2 columns \u2192 Layer 3 (Manual): 4 columns need review",
+  "ai_engine": "rule-based-only"
+}
